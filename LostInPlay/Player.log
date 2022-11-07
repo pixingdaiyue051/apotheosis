@@ -1,0 +1,1610 @@
+Mono path[0] = 'E:/game/LostInPlay/LostInPlay_Data/Managed'
+Mono config path = 'E:/game/LostInPlay/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path E:/game/LostInPlay/LostInPlay_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   (null)
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+Begin MonoManager ReloadAssembly
+- Completed reload, in  6.220 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+UnloadTime: 32.310200 ms
+Failed to initialize GOG Galaxy: Error = Galaxy.Api.GalaxyInstance+InvalidArgumentError: 'clientID' is empty
+  at Galaxy.Api.GalaxyInstance.Init (Galaxy.Api.InitParams initpParams) [0x0001a] in <ac08f7f611744401ae1547f6b91af5c5>:0 
+  at GogGalaxyManager.Awake () [0x0003b] in <566b27c3cc6e47559f63fd203278bf1b>:0 
+True
+Loading Audio Banks
+loadResult BANK Master Bank.strings   1
+Loaded FMOD bank : Master Bank.strings
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
+loadResult BANK Master Bank.assets   1
+Loaded FMOD bank : Master Bank.assets
+loadResult BANK Master Bank   1
+Loaded FMOD bank : Master Bank
+loadResult BANK Common   1
+Loaded FMOD bank : Common
+loadResult BANK Common.assets   1
+Loaded FMOD bank : Common.assets
+loadResult BANK MainMenu   1
+Loaded FMOD bank : MainMenu
+loadResult BANK MainMenu.assets   1
+Loaded FMOD bank : MainMenu.assets
+loadResult BANK CommonAdditions   1
+Loaded FMOD bank : CommonAdditions
+loadResult BANK CommonAdditions.assets   1
+Loaded FMOD bank : CommonAdditions.assets
+LOAD BANK MainMenu   2
+Loaded FMOD bank : MainMenu
+LOAD BANK MainMenu.assets   2
+Loaded FMOD bank : MainMenu.assets
+Loading Main Menu
+Initializing GameData
+Activating MainMenu
+Unloading 5 Unused Serialized files (Serialized files now loaded: 12)
+UnloadTime: 39.454200 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2969.
+Total: 30.367400 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.151500 ms MarkObjects: 29.959700 ms  DeleteObjects: 0.028100 ms)
+
+Unloading level banks
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2969.
+Total: 21.205800 ms (FindLiveObjects: 0.164000 ms CreateObjectMapping: 0.334800 ms MarkObjects: 20.699100 ms  DeleteObjects: 0.007400 ms)
+
+Loading level banks
+loadResult BANK Space   1
+Loaded FMOD bank : Space
+loadResult BANK Space.assets   1
+Loaded FMOD bank : Space.assets
+Done loading level banks
+Unloading 1 Unused Serialized files (Serialized files now loaded: 21)
+UnloadTime: 0.188900 ms
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Missing Markers! Maybe gaf is baked?
+Initializing GameData
+
+Unloading 884 unused Assets to reduce memory usage. Loaded Objects now: 20783.
+Total: 139.668000 ms (FindLiveObjects: 1.264200 ms CreateObjectMapping: 1.101500 ms MarkObjects: 136.359300 ms  DeleteObjects: 0.942300 ms)
+
+Loaded addressable prefab HUD
+marker does not exist idleGirl   controller: driverTimelineController
+marker does not exist init   controller: MainTimelineController
+OnEnter Start AnimationState
+remove layer MenuPopup
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Loading :AutosaveData_Space
+{"level":"Space","gameEventsMan":{"GAME EVENTS":{"door is open":{"h":false},"pick up cup 1":{"h":false},"pick up cup 2":{"h":false},"pick up cup 3":{"h":false},"Inside of object zone":{"h":true},"Used the phone":{"h":false},"CoinInHand":{"h":false},"CoinInPhone":{"h":false},"take the firefly":{"h":false},"(HeadOne)Head1_head2":{"h":true},"(HeadOne)Head2_head3":{"h":false},"(HeadOne)Head3_head4":{"h":false},"(HeadOne)Head4_head5":{"h":false},"(HeadOne)Head5_head6":{"h":false},"(HeadOne)Head6_head7":{"h":false},"(HeadOne)Head7_head1":{"h":false},"(HeadTwo)Head1_head2":{"h":true},"(HeadTwo)Head2_head3":{"h":false},"(HeadTwo)Head3_head4":{"h":false},"(HeadTwo)Head4_head5":{"h":false},"(HeadTwo)Head5_head6":{"h":false},"(HeadTwo)Head6_head7":{"h":false},"(HeadTwo)Head7_head1":{"h":false},"(HeadThree)Head1_head2":{"h":true},"(HeadThree)Head2_head3":{"h":false},"(HeadThree)Head3_head4":{"h":false},"(HeadThree)Head4_head5":{"h":false},"(HeadThree)Head5_head6":{"h":false},"(HeadThree)Head6_head7":{"h":false},"(HeadThree)Head7_head1":{"h":false},"take coin":{"h":true},"picIsSmall":{"h":true},"GiveGlasses":{"h":false},"takeCrown":{"h":false},"CombinedGlasses":{"h":false},"OpnePic":{"h":true}}},"inventories":{"INVENTORY":{"_owner":"All","Firefly":{"t":false,"d":false},"Coin":{"t":true,"d":false},"Cup 1":{"t":false,"d":false},"Cup 2":{"t":false,"d":false},"Cup 3":{"t":false,"d":false},"Water_can":{"t":false,"d":false},"Three glasses combined":{"t":false,"d":false},"Crown":{"t":false,"d":false}}},"clipRefs":{"/TeaParty/goblin_baked":{"a":true,"s":"goblin_idle","l":"Loop","i":true,"x":-1022,"y":-2370,"z":0,"f":122,"la":135,"gl":0},"/FallLines/FallLines/bg_falling_baked":{"a":true,"s":"Default","l":"Loop","i":true,"x":-4463.26465,"y":-325.134766,"z":230,"f":0,"la":0,"gl":15},"/BG/layer 1/elephant_baked":{"a":true,"s":"Default","l":"Loop","i":true,"x":-2528.35,"y":-114.049927,"z":4861,"f":9,"la":0,"gl":15},"/FallLines/FallLines (3)/bg_falling_baked (3)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-4170.884,"y":-2028.3335,"z":230,"f":7,"la":0,"gl":15},"/FallLines/FallLines/bg_falling_baked (2)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-2675.699,"y":1297.65527,"z":230,"f":7,"la":0,"gl":15},"/family_pic_baked":{"a":true,"s":"small_loop","l":"Loop","i":true,"x":-352,"y":-1969,"z":0,"f":7,"la":220,"gl":0},"/FallLines/FallLines (1)/bg_falling_baked (1)":{"a":true,"s":"Default","l":"Loop","i":true,"x":794.301,"y":-499.896973,"z":230,"f":7,"la":0,"gl":15},"/bottle/bottle_girl":{"a":true,"s":"bottle_idle1","l":"Loop","i":true,"x":-1656.925,"y":-1699.11108,"z":0,"f":45,"la":115,"gl":0},"/End scene/end_sc3_part3_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":-1282.187,"y":876.4567,"z":-101074.57,"f":3,"la":1,"gl":0},"/TeaParty/tea party_kidz_baked":{"a":true,"s":"goblin_talk","l":"Once","i":false,"x":-1022,"y":-2370,"z":-100000,"f":739,"la":150,"gl":0},"/grandma_baked":{"a":true,"s":"grandma_idle","l":"Loop","i":true,"x":-1957.75,"y":-405.411865,"z":0,"f":153,"la":125,"gl":0},"/FallLines/FallLines (2)/bg_falling_baked (1)":{"a":true,"s":"Default","l":"Loop","i":true,"x":794.301,"y":-3825.8855,"z":230,"f":6,"la":0,"gl":15},"/book_baked":{"a":true,"s":"book_idle","l":"Loop","i":true,"x":-1453,"y":-1255,"z":0,"f":20,"la":60,"gl":0},"/fish/fish_head2_baked":{"a":true,"s":"head1_idle","l":"Loop","i":true,"x":-829,"y":-167,"z":0,"f":77,"la":196,"gl":0},"/FallLines/FallLines (2)/bg_falling_baked":{"a":true,"s":"Default","l":"Loop","i":true,"x":-993.264648,"y":-3651.12329,"z":230,"f":0,"la":0,"gl":15},"/tree/tree_baked":{"a":true,"s":"tree_idle2","l":"Loop","i":true,"x":-2523,"y":-1007.44775,"z":0,"f":2147483647,"la":80,"gl":0},"/FallLines/FallLines (1)/bg_falling_baked (3)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-905.883667,"y":1297.65527,"z":230,"f":7,"la":0,"gl":15},"/---Dream---/dream/dream_door_baked":{"a":true,"s":"door","l":"Once","i":false,"x":1850,"y":6367,"z":0,"f":4,"la":12,"gl":0},"/FallLines/FallLines (3)/bg_falling_baked":{"a":true,"s":"Default","l":"Loop","i":true,"x":-4258.26465,"y":-3651.12329,"z":230,"f":0,"la":0,"gl":15},"/door/door_baked":{"a":true,"s":"door_close","l":"Once","i":false,"x":-1745.5,"y":-2324.075,"z":0,"f":332,"la":175,"gl":0},"/bottle/bottle_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":-1656.925,"y":-1699.11108,"z":-100000,"f":3,"la":110,"gl":0},"/titles_anim_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":8160,"y":0,"z":-100000,"f":3,"la":3,"gl":0},"/fish/fish_head3_baked":{"a":true,"s":"head1_idle","l":"Loop","i":true,"x":-829,"y":-167,"z":0,"f":109,"la":197,"gl":0},"/End scene/end_sc3_part2_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":5188,"y":0,"z":-100000,"f":3,"la":1,"gl":0},"/clock/clock_girl":{"a":true,"s":"Default","l":"Once","i":false,"x":452,"y":-2377,"z":-100000,"f":3,"la":105,"gl":0},"/---Dream---/dream/dream_crown_baked":{"a":true,"s":"crown","l":"Once","i":false,"x":3177,"y":6367,"z":0,"f":94,"la":13,"gl":0},"/End scene/end_sc3_part3_duck_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":-1282.187,"y":876.4567,"z":-101074.57,"f":3,"la":5,"gl":0},"/driver_baked":{"a":true,"s":"idle","l":"Loop","i":true,"x":248.189178,"y":-383.074677,"z":0,"f":3,"la":65,"gl":0},"/phone_baked":{"a":true,"s":"phone_idle","l":"Loop","i":true,"x":-261,"y":-1211,"z":0,"f":491,"la":120,"gl":0},"/snake_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":4069,"y":1747,"z":-100000,"f":3,"la":1161,"gl":0},"/FallLines/FallLines (1)/bg_falling_baked (2)":{"a":true,"s":"Default","l":"Loop","i":true,"x":794.301,"y":1297.65527,"z":230,"f":7,"la":0,"gl":15},"/FallLines/FallLines (3)/bg_falling_baked (1)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-2470.699,"y":-3825.8855,"z":230,"f":0,"la":0,"gl":15},"/---Dream---/dream/dream_girlDoor":{"a":true,"s":"Default","l":"Once","i":false,"x":1850,"y":6367,"z":-100000,"f":1,"la":15,"gl":0},"/tree/tree_girl":{"a":true,"s":"girl_take_coin","l":"Once","i":false,"x":-2523,"y":-1007.44775,"z":-100000,"f":144,"la":85,"gl":0},"/clock/clock_baked":{"a":true,"s":"clock_idle","l":"Loop","i":true,"x":452,"y":-2377,"z":0,"f":47,"la":100,"gl":0},"/End scene/end_sc3_part1_baked":{"a":true,"s":"Default","l":"Once","i":false,"x":5188,"y":0,"z":-100000,"f":3,"la":1,"gl":0},"/fish/fish_head1_baked":{"a":true,"s":"head1_idle","l":"Loop","i":true,"x":-829,"y":-167,"z":0,"f":89,"la":195,"gl":0},"/FallLines/FallLines/bg_falling_baked (3)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-4375.884,"y":1297.65527,"z":230,"f":7,"la":0,"gl":15},"/---Dream---/dream/dream_map_baked":{"a":true,"s":"map","l":"Once","i":false,"x":3177,"y":6344,"z":0,"f":97,"la":30,"gl":0},"/Poker_guys_01_baked":{"a":true,"s":"poker_guys_idle","l":"Loop","i":true,"x":396.6914,"y":-1008.77881,"z":0,"f":198,"la":70,"gl":0},"/FallLines/FallLines (2)/bg_falling_baked (3)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-905.883667,"y":-2028.3335,"z":230,"f":7,"la":0,"gl":15},"/FallLines/FallLines (3)/bg_falling_baked (2)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-2470.699,"y":-2028.3335,"z":230,"f":7,"la":0,"gl":15},"/fish/fish_girl":{"a":true,"s":"Default","l":"Once","i":false,"x":-829,"y":-167,"z":-100000,"f":3,"la":100,"gl":0},"/FallLines/FallLines (1)/bg_falling_baked":{"a":true,"s":"Default","l":"Loop","i":true,"x":-993.264648,"y":-325.134766,"z":230,"f":0,"la":0,"gl":15},"/TeaParty/frog_baked":{"a":true,"s":"frog_idle","l":"Loop","i":true,"x":-1022,"y":-2370,"z":0,"f":158,"la":145,"gl":0},"/fish/fish_body_baked":{"a":true,"s":"fish_idle","l":"Loop","i":true,"x":-829,"y":-167,"z":0,"f":13,"la":190,"gl":0},"/door/door_girl_baked":{"a":true,"s":"girl_open_door","l":"Once","i":false,"x":-1745.5,"y":-2324.075,"z":-100000,"f":142,"la":180,"gl":0},"/TeaParty/fary_baked":{"a":true,"s":"fary_idle","l":"Loop","i":true,"x":-1022,"y":-2370,"z":0,"f":276,"la":140,"gl":0},"/FallLines/FallLines (2)/bg_falling_baked (2)":{"a":true,"s":"Default","l":"Loop","i":true,"x":794.301,"y":-2028.3335,"z":230,"f":6,"la":0,"gl":15},"/FallLines/FallLines/bg_falling_baked (1)":{"a":true,"s":"Default","l":"Loop","i":true,"x":-2675.699,"y":-499.896973,"z":230,"f":5,"la":0,"gl":15},"/---Dream---/dream/dream_girlCrown":{"a":true,"s":"Default","l":"Once","i":false,"x":3177,"y":6367,"z":-100000,"f":1,"la":15,"gl":0}},"controllables":{"DreamGirl":{"isOffscreen":true,"position":"(-2803.0, -5690.0, 0.0)","isRight":false,"scale":"(1.0, 1.0, 1.0)"},"kidzWalker":{"isOffscreen":false,"marker":"kidzWalker_girl_take_coin_41","markerDelta":"(0.0, 0.0, -8.0)","position":"(-1782.0, -2180.5, 8.0)","isRight":true,"scale":"(1.0, 1.0, 1.0)"}},"timelineControllers":{"Head3TimelineController":{"currentMarker":"idleGirl","time":0.717069873586297,"playing":true},"driverTimelineController":{"currentMarker":"talk","time":1.7342445943504572,"playing":true},"Head1TimelineController":{"currentMarker":"idleGirl","time":0.717069873586297,"playing":true},"Head2TimelineController":{"currentMarker":"idleGirl","time":0.717069873586297,"playing":true},"MainTimelineController":{"currentMarker":"idle","time":12.6,"playing":true},"BOOK_TIMELINE":{"currentMarker":"1","time":0.41690635681152344,"playing":true}},"layerChangers":{"dream_girl_Walker":{"currentLayer":-999},"kidzWalker":{"currentLayer":450}},"stateMachines":{"STATES":{"lastIdle":"idle","ignore":"False"},"BOOK_STATES":{"lastIdle":null,"ignore":"False"}},"audio":{"HUD(Clone).InventoryPlacementUp.Panel.InventoryViewAll.Audio.OpenInventory":{"IsPlaying":true},"AUDIO.SpaceMusic":{"IsPlaying":true},"AUDIO.birdsflap":{"IsPlaying":true},"AUDIO.tvstatic":{"IsPlaying":true},"AUDIO.SpaceAmb":{"IsPlaying":true}},"popups":{"ClockGame.ClockCam":{"showing":"False"},"BOOK.BookCam":{"showing":"False"}},"minigames":{}}
+Position not found on NavMesh (-2803.0, -5690.0, 0.0)
+Enable Hotspots AnimationState
+OnEnter Start AnimationState
+Hide!
+Hide!
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+Enable Hotspots AnimationState
+OnEnter Start AnimationState
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+Don't save while loading scene
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : book hotspot__multiInteractions
+ShowZone book hotspot__multiInteractions
+SHOW : fish hotspot__idle.fishHasPressed (1)
+ShowZone fish hotspot__idle.fishHasPressed (1)
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.fishHasPressed fromLeft
+24.91194 Finalize
+fishHasPressed fromLeft GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fishHasPressed
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start select head 
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_1 hotspot__multiInteractions
+Add layer PointAndClick
+ShowZone head_1 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head1_head2
+28.99722 Finalize
+(HeadOne)Head1_head2 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head2_head3
+30.21417 Finalize
+(HeadOne)Head2_head3 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head1_head2
+32.34866 Finalize
+(HeadTwo)Head1_head2 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head1_head2
+33.89943 Finalize
+(HeadThree)Head1_head2 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick BACK
+Do inter STATES.select head .back
+34.56655 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).backFish
+Click 
+Enable Hotspots select head 
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : fish hotspot__idle.fishHasPressed (1)
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+35.03326 Saved
+ShowZone fish hotspot__idle.fishHasPressed (1)
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : driver hotspot__idle.driver talk
+ShowZone driver hotspot__idle.driver talk
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.driver talk
+48.60613 Finalize
+driver talk GOTO marker driverTimelineController (HappyJuice.Timeline.TimelineController).talk
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.click_on_poker_guys
+55.55926 Finalize
+click_on_poker_guys GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).click_on_poker_guys
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.clock_give_cup
+64.86347 Finalize
+clock_give_cup GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).To  clock mini game
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start clock
+ClockGameStartGame
+Add layer MiniGame
+ClockGameResetGame
+Enable Hotspots clock
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.clock.closeClock
+Do inter STATES.clock.closeClock
+68.03162 Finalize
+closeClock GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).close clock
+Hide!
+Enable Hotspots clock
+ClockGameCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.FamilyPic
+73.30074 Finalize
+FamilyPic GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).ToSmall_to_big
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start InPic
+Enable Hotspots InPic
+ACTION ZONES Activate Zones 2
+Add layer PointAndClick
+OnActionCommand PointAndClick BACK
+Do inter STATES.InPic.back
+92.95965 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController). big_to_small
+Click 
+Enable Hotspots InPic
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+93.71004 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.fairy_talk_1
+97.32825 Finalize
+fairy_talk_1 GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fary_talk_1
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : frog hotspot __multiInteractions
+ShowZone frog hotspot __multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.frog_click_wants_crown
+104.148 Finalize
+frog_click_wants_crown GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).frog_click_wants_crown
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+SHOW : frog hotspot __multiInteractions
+SHOW : fary hotspot __multiInteractions
+SHOW : frog hotspot __multiInteractions
+ShowZone frog hotspot __multiInteractions
+SHOW : goblin hotspot__idle.goblin_talk
+ShowZone goblin hotspot__idle.goblin_talk
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.goblin_talk
+110.9012 Finalize
+goblin_talk GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).goblin_talk
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : goblin hotspot__idle.goblin_talk
+ShowZone goblin hotspot__idle.goblin_talk
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+OnActionCommand PointAndClick INVENTORY
+Click bag
+Add layer InventoryPopup
+OnActionCommand InventoryPopup INFO
+OnActionCommand InventoryPopup BACK
+remove layer InventoryPopup
+SHOW : driver hotspot__idle.driver talk
+ShowZone driver hotspot__idle.driver talk
+SHOW : Phone hotspot__multiInteractions
+ShowZone Phone hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.Clicking on a phone without a token
+158.7726 Finalize
+Clicking on a phone without a token GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).Clicking on a phone without a token
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 15
+SHOW : Phone hotspot__multiInteractions
+ShowZone Phone hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 15
+Add layer PointAndClick
+OnActionCommand PointAndClick INVENTORY
+Click bag
+Add layer InventoryPopup
+OnActionCommand InventoryPopup INFO
+OnActionCommand InventoryPopup USE
+remove layer InventoryPopup
+Do Interaction Clicking on a phone with a token
+Do inter STATES.idle.Clicking on a phone with a token
+163.5249 Finalize
+Clicking on a phone with a token GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).Clicking on a phone with a token
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+remove layer InventoryPopup
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+179.6655 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+SHOW : driver hotspot__idle.driver talk
+ShowZone driver hotspot__idle.driver talk
+SHOW : grandma hotspot __idle.grandma_talk
+ShowZone grandma hotspot __idle.grandma_talk
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.grandma_talk
+195.406 Finalize
+grandma_talk GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).grandma_talk
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+SHOW : grandma hotspot __idle.grandma_talk
+ShowZone grandma hotspot __idle.grandma_talk
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+SHOW : Door hotspot__multiInteractions
+ShowZone Door hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.girl_open_door
+213.3973 Finalize
+girl_open_door GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_open_door
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+SHOW : Door hotspot__multiInteractions
+ShowZone Door hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+OnActionCommand PointAndClick HINT
+Add layer HintsPopup
+remove layer HintsPopup
+Add layer HintsPopup
+OnActionCommand HintsPopup BACK
+remove layer HintsPopup
+SHOW : Door hotspot__multiInteractions
+ShowZone Door hotspot__multiInteractions
+SHOW : frog hotspot __multiInteractions
+ShowZone frog hotspot __multiInteractions
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.FamilyPic
+255.95 Finalize
+FamilyPic GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).ToSmall_to_big
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start InPic
+Enable Hotspots InPic
+ACTION ZONES Activate Zones 2
+Add layer PointAndClick
+OnActionCommand PointAndClick BACK
+Do inter STATES.InPic.back
+262.6866 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController). big_to_small
+Click 
+Enable Hotspots InPic
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+263.4367 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.clock_give_cup
+266.088 Finalize
+clock_give_cup GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).To  clock mini game
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start clock
+ClockGameStartGame
+Add layer MiniGame
+ClockGameResetGame
+Enable Hotspots clock
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.clock.closeClock
+Do inter STATES.clock.closeClock
+276.009 Finalize
+closeClock GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).close clock
+Hide!
+Enable Hotspots clock
+ClockGameCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.FamilyPic
+OnActionCommand PointAndClick USE
+279.7773 Finalize
+FamilyPic GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).ToSmall_to_big
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start InPic
+Enable Hotspots InPic
+ACTION ZONES Activate Zones 2
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+Do inter STATES.InPic. big_to_small
+291.4496 Finalize
+ big_to_small GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController). big_to_small
+Enable Hotspots InPic
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+292.2 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.clock_give_cup
+294.901 Finalize
+clock_give_cup GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).To  clock mini game
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start clock
+ClockGameStartGame
+Add layer MiniGame
+ClockGameResetGame
+Enable Hotspots clock
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.clock.closeClock
+Do inter STATES.clock.closeClock
+352.844 Finalize
+closeClock GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).close clock
+Hide!
+Enable Hotspots clock
+ClockGameCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.FamilyPic
+OnActionCommand PointAndClick USE
+357.4296 Finalize
+FamilyPic GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).ToSmall_to_big
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start InPic
+Enable Hotspots InPic
+ACTION ZONES Activate Zones 2
+Add layer PointAndClick
+OnActionCommand PointAndClick BACK
+Do inter STATES.InPic.back
+389.7775 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController). big_to_small
+Click 
+Enable Hotspots InPic
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 13
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+390.5278 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 13
+Add layer PointAndClick
+SHOW : clock hotspot __idle.clock_give_cup
+ShowZone clock hotspot __idle.clock_give_cup
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.clock_give_cup
+393.1789 Finalize
+clock_give_cup GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).To  clock mini game
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start clock
+ClockGameStartGame
+Add layer MiniGame
+ClockGameResetGame
+Enable Hotspots clock
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame USE
+OnActionCommand MiniGame USE
+Solved!
+IIActivate STATES.clock.close clock_win
+Do inter STATES.clock.close clock_win
+409.8366 Finalize
+close clock_win GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).close clock_win
+Enable Hotspots clock
+ClockGameCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Solved!
+Hide!
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 12
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+419.0909 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 12
+Add layer PointAndClick
+remove layer InventoryPopup
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick HINT
+Add layer HintsPopup
+remove layer HintsPopup
+Add layer HintsPopup
+OnActionCommand HintsPopup BACK
+remove layer HintsPopup
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.FamilyPic
+441.9678 Finalize
+FamilyPic GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).ToSmall_to_big
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start InPic
+Enable Hotspots InPic
+ACTION ZONES Activate Zones 2
+Add layer PointAndClick
+OnActionCommand PointAndClick BACK
+Do inter STATES.InPic.back
+443.5519 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController). big_to_small
+Click 
+Enable Hotspots InPic
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 12
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+444.3023 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 12
+Add layer PointAndClick
+SHOW : pic small hotspot__idle.ToSmall_to_big
+ShowZone pic small hotspot__idle.ToSmall_to_big
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+SHOW : fish hotspot__idle.fishHasPressed (1)
+ShowZone fish hotspot__idle.fishHasPressed (1)
+SHOW : fish hotspot__idle.fishHasPressed
+ShowZone fish hotspot__idle.fishHasPressed
+SHOW : grandma hotspot __idle.grandma_talk
+ShowZone grandma hotspot __idle.grandma_talk
+SHOW : book hotspot__multiInteractions
+ShowZone book hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.toBook
+458.7921 Finalize
+toBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).toBook
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start book
+BOOKStartGame
+Add layer MiniGame
+Enable Hotspots book
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 2
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 3
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 4
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 5
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 6
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.book.closeBook
+Do inter STATES.book.closeBook
+480.3183 Finalize
+closeBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).closeBook
+Hide!
+Unclick 
+Enable Hotspots book
+BOOKCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start idle
+ACTION ZONES Activate Zones 12
+SHOW : book hotspot__multiInteractions
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+481.102 Saved
+ShowZone book hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 12
+Add layer PointAndClick
+OnActionCommand PointAndClick BACK
+SHOW : bottle hotspot__idle.girl_take_firefly
+ShowZone bottle hotspot__idle.girl_take_firefly
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.girl_take_firefly
+OnActionCommand PointAndClick USE
+483.5366 Finalize
+girl_take_firefly GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_take_firefly
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+remove layer InventoryPopup
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 12
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+489.7561 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 12
+Add layer PointAndClick
+SHOW : book hotspot__multiInteractions
+ShowZone book hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.toBook
+492.3906 Finalize
+toBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).toBook
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start book
+BOOKStartGame
+Add layer MiniGame
+Enable Hotspots book
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 5
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 4
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 3
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 2
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 1
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_LEFT
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 2
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 3
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 4
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 5
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 6
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 5
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 4
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 3
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 2
+Flipping page
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 3
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 4
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 5
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+Click page to right
+Current page: 6
+Flipping page
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.book.closeBook
+Do inter STATES.book.closeBook
+573.9444 Finalize
+closeBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).closeBook
+Hide!
+Unclick 
+Enable Hotspots book
+BOOKCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start idle
+ACTION ZONES Activate Zones 11
+SHOW : book hotspot__multiInteractions
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+574.7278 Saved
+ShowZone book hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 11
+Add layer PointAndClick
+SHOW : fish hotspot__idle.fishHasPressed (1)
+ShowZone fish hotspot__idle.fishHasPressed (1)
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.fishHasPressed fromLeft
+578.3128 Finalize
+fishHasPressed fromLeft GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fishHasPressed
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start select head 
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_1 hotspot__multiInteractions
+Add layer PointAndClick
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+SHOW : head_1 hotspot__multiInteractions
+ShowZone head_1 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head3_head4
+581.6145 Finalize
+(HeadOne)Head3_head4 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head4_head5
+582.3481 Finalize
+(HeadOne)Head4_head5 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head5_head6
+583.882 Finalize
+(HeadOne)Head5_head6 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head6_head7
+584.6824 Finalize
+(HeadOne)Head6_head7 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head7_head1
+585.8495 Finalize
+(HeadOne)Head7_head1 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head1_head2
+586.7001 Finalize
+(HeadOne)Head1_head2 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head2_head3
+587.4004 Finalize
+(HeadOne)Head2_head3 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head3_head4
+588.134 Finalize
+(HeadOne)Head3_head4 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head4_head5
+588.8342 Finalize
+(HeadOne)Head4_head5 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head2_head3
+590.4017 Finalize
+(HeadTwo)Head2_head3 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head3_head4
+591.202 Finalize
+(HeadTwo)Head3_head4 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head4_head5
+592.1693 Finalize
+(HeadTwo)Head4_head5 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head5_head6
+593.3364 Finalize
+(HeadTwo)Head5_head6 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head6_head7
+594.2201 Finalize
+(HeadTwo)Head6_head7 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head7_head1
+594.9871 Finalize
+(HeadTwo)Head7_head1 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head1_head2
+595.6705 Finalize
+(HeadTwo)Head1_head2 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head2_head3
+596.5211 Finalize
+(HeadTwo)Head2_head3 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head3_head4
+597.605 Finalize
+(HeadTwo)Head3_head4 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head2_head3
+598.5886 Finalize
+(HeadThree)Head2_head3 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head3_head4
+599.139 Finalize
+(HeadThree)Head3_head4 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head4_head5
+599.6892 Finalize
+(HeadThree)Head4_head5 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head5_head6
+600.2896 Finalize
+(HeadThree)Head5_head6 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head6_head7
+607.626 Finalize
+(HeadThree)Head6_head7 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head7_head1
+609.0267 Finalize
+(HeadThree)Head7_head1 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head1_head2
+610.5443 Finalize
+(HeadThree)Head1_head2 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick BACK
+Do inter STATES.select head .back
+611.0278 Finalize
+back GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).backFish
+Click 
+Enable Hotspots select head 
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 11
+SHOW : fish hotspot__idle.fishHasPressed (1)
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+611.4945 Saved
+ShowZone fish hotspot__idle.fishHasPressed (1)
+Enable Hotspots idle
+ACTION ZONES Activate Zones 11
+Add layer PointAndClick
+SHOW : fish hotspot__idle.fishHasPressed
+ShowZone fish hotspot__idle.fishHasPressed
+SHOW : book hotspot__multiInteractions
+ShowZone book hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+SHOW : book hotspot__multiInteractions
+ShowZone book hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.toBook
+618.7478 Finalize
+toBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).toBook
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start book
+BOOKStartGame
+Add layer MiniGame
+Enable Hotspots book
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+OnActionCommand MiniGame TOGGLE_RIGHT
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_RIGHT
+OnActionCommand MiniGame RESTART
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 5
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 4
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 3
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 2
+Flipping page
+OnActionCommand MiniGame TOGGLE_LEFT
+Click page to left
+Current page: 1
+Flipping page
+OnActionCommand MiniGame BACK
+Click 
+IIActivate STATES.book.closeBook
+Do inter STATES.book.closeBook
+658.3992 Finalize
+closeBook GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).closeBook
+Hide!
+Unclick 
+Enable Hotspots book
+BOOKCloseGame input layer = MiniGame
+remove layer MiniGame
+OnEnter Start idle
+ACTION ZONES Activate Zones 11
+SHOW : book hotspot__multiInteractions
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+659.1829 Saved
+ShowZone book hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 11
+Add layer PointAndClick
+SHOW : fish hotspot__idle.fishHasPressed
+ShowZone fish hotspot__idle.fishHasPressed
+SHOW : fish hotspot__idle.fishHasPressed (1)
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.fishHasPressed fromLeft
+ShowZone fish hotspot__idle.fishHasPressed (1)
+OnActionCommand PointAndClick USE
+662.4176 Finalize
+fishHasPressed fromLeft GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fishHasPressed
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start select head 
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_1 hotspot__multiInteractions
+Add layer PointAndClick
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head4_head5
+664.4519 Finalize
+(HeadTwo)Head4_head5 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head5_head6
+665.5357 Finalize
+(HeadTwo)Head5_head6 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head6_head7
+666.9198 Finalize
+(HeadTwo)Head6_head7 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head7_head1
+667.7701 Finalize
+(HeadTwo)Head7_head1 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head1_head2
+668.6539 Finalize
+(HeadTwo)Head1_head2 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadTwo.(HeadTwo)Head2_head3
+669.3708 Finalize
+(HeadTwo)Head2_head3 GOTO marker Head2TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head2_head3
+672.2056 Finalize
+(HeadThree)Head2_head3 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head3_head4
+673.306 Finalize
+(HeadThree)Head3_head4 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head4_head5
+674.1565 Finalize
+(HeadThree)Head4_head5 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head4_out_head5_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+SHOW : head_1 hotspot__multiInteractions
+ShowZone head_1 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head5_head6
+678.5917 Finalize
+(HeadOne)Head5_head6 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head6_head7
+680.0256 Finalize
+(HeadOne)Head6_head7 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head7_head1
+680.9593 Finalize
+(HeadOne)Head7_head1 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head1_head2
+682.1601 Finalize
+(HeadOne)Head1_head2 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head1_out_head2_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head2_head3
+683.894 Finalize
+(HeadOne)Head2_head3 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head2_out_head3_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadOne.(HeadOne)Head3_head4
+684.661 Finalize
+(HeadOne)Head3_head4 GOTO marker Head1TimelineController (HappyJuice.Timeline.TimelineController).head3_out_head4_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_2 hotspot__multiInteractions
+ShowZone head_2 hotspot__multiInteractions
+SHOW : head_3 hotspot__multiInteractions
+ShowZone head_3 hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head5_head6
+687.1122 Finalize
+(HeadThree)Head5_head6 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head5_out_head6_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head6_head7
+752.325 Finalize
+(HeadThree)Head6_head7 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head6_out_head7_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+OnActionCommand PointAndClick USE
+Do inter STATES.select head .HeadThree.(HeadThree)Head7_head1
+753.2089 Finalize
+(HeadThree)Head7_head1 GOTO marker Head3TimelineController (HappyJuice.Timeline.TimelineController).head7_out_head1_in
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+Do Interaction _win
+Do inter STATES.select head ._win
+753.2255 Finalize
+_win GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fish_give_cup
+Enable Hotspots select head 
+ACTION ZONES Activate Zones 4
+SHOW : head_1 hotspot__multiInteractions
+Enable Hotspots select head 
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+Do Interaction _Three glasses combined
+Do inter STATES.idle._Three glasses combined
+759.1447 Finalize
+_Three glasses combined GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).idle
+Enable Hotspots idle
+ACTION ZONES Activate Zones 10
+Add layer PointAndClick
+Enable Hotspots idle
+ACTION ZONES Activate Zones 10
+remove layer InventoryPopup
+SHOW : poker hotspot__idle.click_on_poker_guys
+ShowZone poker hotspot__idle.click_on_poker_guys
+OnActionCommand PointAndClick USE
+SHOW : fary hotspot __multiInteractions
+ShowZone fary hotspot __multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.fairy_talk_1
+770.333 Finalize
+fairy_talk_1 GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).fary_talk_1
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 10
+SHOW : fary hotspot __multiInteractions
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+774.0348 Saved
+ShowZone fary hotspot __multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 10
+Add layer PointAndClick
+OnActionCommand PointAndClick INVENTORY
+Click bag
+Add layer InventoryPopup
+OnActionCommand InventoryPopup INFO
+OnActionCommand InventoryPopup USE
+remove layer InventoryPopup
+Do Interaction give_glasses
+Do inter STATES.idle.give_glasses
+775.0687 Finalize
+give_glasses GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).give_glasses
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+remove layer InventoryPopup
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 9
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+793.4603 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 9
+Add layer PointAndClick
+SHOW : frog hotspot __multiInteractions
+ShowZone frog hotspot __multiInteractions
+SHOW : goblin hotspot__idle.goblin_talk
+ShowZone goblin hotspot__idle.goblin_talk
+SHOW : Door hotspot__multiInteractions
+ShowZone Door hotspot__multiInteractions
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.girl_open_door
+797.6122 Finalize
+girl_open_door GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_open_door
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+OnActionCommand PointAndClick INVENTORY
+OnActionCommand PointAndClick INFO
+OnActionCommand PointAndClick INVENTORY
+OnActionCommand PointAndClick INFO
+OnActionCommand PointAndClick INVENTORY
+OnActionCommand PointAndClick INFO
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 9
+SHOW : Door hotspot__multiInteractions
+ShowZone Door hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 9
+Add layer PointAndClick
+OnActionCommand PointAndClick INVENTORY
+Click bag
+Add layer InventoryPopup
+OnActionCommand InventoryPopup INFO
+OnActionCommand InventoryPopup USE
+remove layer InventoryPopup
+Do Interaction girl_give_water_can
+Do inter STATES.idle.girl_give_water_can
+804.5154 Finalize
+girl_give_water_can GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_give_water_can
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 8
+SHOW : Door hotspot__multiInteractions
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+811.3849 Saved
+ShowZone Door hotspot__multiInteractions
+Enable Hotspots idle
+ACTION ZONES Activate Zones 8
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+Do inter STATES.idle.girl_Entering a dream
+814.153 Finalize
+girl_Entering a dream GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_Entering a dream
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start dreamIdle
+ACTION ZONES Activate Zones 1
+Enable Hotspots dreamIdle
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+SHOW : crown hotspot__dreamIdle.girl_take_crown
+ShowZone crown hotspot__dreamIdle.girl_take_crown
+OnActionCommand PointAndClick USE
+Do inter STATES.dreamIdle.girl_take_crown
+822.3736 Finalize
+girl_take_crown GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_take_crown
+Enable Hotspots dreamIdle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start dreamIdle
+ACTION ZONES Activate Zones 1
+Enable Hotspots dreamIdle
+ACTION ZONES Activate Zones 1
+Add layer PointAndClick
+remove layer InventoryPopup
+SHOW : DoorDream hotspot__dreamIdle.girl_go_up
+ShowZone DoorDream hotspot__dreamIdle.girl_go_up
+SHOW : DoorDream hotspot__dreamIdle.girl_go_up
+ShowZone DoorDream hotspot__dreamIdle.girl_go_up
+OnActionCommand PointAndClick USE
+Do inter STATES.dreamIdle.girl_go_up
+837.0969 Finalize
+girl_go_up GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).girl_go_up
+Enable Hotspots dreamIdle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start idle
+ACTION ZONES Activate Zones 8
+Add key AutosaveData_Space
+Saving to : AutosaveData_Space
+Autosave Key : Space
+840.0647 Saved
+Enable Hotspots idle
+ACTION ZONES Activate Zones 8
+Add layer PointAndClick
+SHOW : goblin hotspot__idle.goblin_talk
+ShowZone goblin hotspot__idle.goblin_talk
+SHOW : frog hotspot __multiInteractions
+ShowZone frog hotspot __multiInteractions
+OnActionCommand PointAndClick INVENTORY
+Click bag
+Add layer InventoryPopup
+OnActionCommand InventoryPopup INFO
+OnActionCommand InventoryPopup USE
+remove layer InventoryPopup
+Do Interaction give_crown
+Do inter STATES.idle.give_crown
+844.9837 Finalize
+give_crown GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).giveCrown
+Enable Hotspots idle
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+Enable Hotspots AnimationState
+OnEnter Start endSc
+Enable Hotspots endSc
+ACTION ZONES Activate Zones 1
+SHOW : ALL__multiInteractions
+Add layer PointAndClick
+ShowZone ALL__multiInteractions
+Do Interaction  big_to_small
+Do inter STATES.endSc. big_to_small
+859.657 Finalize
+ big_to_small GOTO marker MainTimelineController (HappyJuice.Timeline.TimelineController).cheers
+Enable Hotspots endSc
+OnEnter Start AnimationState
+Enable Hotspots AnimationState
+Add layer PointAndClick
+OnActionCommand PointAndClick USE
+OnActionCommand PointAndClick USE
+Enable Hotspots AnimationState
+OnEnter Start LoadNext
+Enable Hotspots LoadNext
+Add layer PointAndClick
+Unloading 2 Unused Serialized files (Serialized files now loaded: 22)
+UnloadTime: 403.903000 ms
+
+Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 4754.
+Total: 39.018300 ms (FindLiveObjects: 0.320100 ms CreateObjectMapping: 0.398100 ms MarkObjects: 37.236900 ms  DeleteObjects: 1.062600 ms)
+
+Unloading level banks
+Unload : Space
+UNLOAD BANK Space   0
+Unload : Space.assets
+UNLOAD BANK Space.assets   0
+Release addressable handle Resource<TextAsset>(Space.bytes)
+Release addressable handle Resource<TextAsset>(Space.assets.bytes)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 4751.
+Total: 31.129600 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.202700 ms MarkObjects: 30.678400 ms  DeleteObjects: 0.033100 ms)
+
+Loading level banks
+LOAD BANK MainMenu   2
+Loaded FMOD bank : MainMenu
+LOAD BANK MainMenu.assets   2
+Loaded FMOD bank : MainMenu.assets
+Done loading level banks
+Unloading 1 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 0.509900 ms
+
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 6165.
+Total: 41.872200 ms (FindLiveObjects: 0.332900 ms CreateObjectMapping: 0.251200 ms MarkObjects: 41.158300 ms  DeleteObjects: 0.129100 ms)
+
+Initializing GameData
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a0c -> priority: 1 

@@ -14,3 +14,5 @@ C:\Users\Administrator\AppData\Roaming
 C:\Users\lenovo\AppData\LocalLow\Cellar Door Games
 ## BloodstainedRotN
 C:\Users\lenovo\AppData\Local
+## LostInPlay
+C:\Users\lenovo\AppData\LocalLow\HappyJuice
