@@ -8,3 +8,5 @@ C:\Users\Administrator\AppData\Local
 C:\Users\Administrator\AppData\Local
 ## Eastward
 C:\Users\Administrator\AppData\Roaming\Pixpil
+## Baba Is You
+C:\Users\Administrator\AppData\Roaming
