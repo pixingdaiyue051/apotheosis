@@ -10,3 +10,5 @@ C:\Users\Administrator\AppData\Local
 C:\Users\Administrator\AppData\Roaming\Pixpil
 ## Baba Is You
 C:\Users\Administrator\AppData\Roaming
+## Rogue Legacy 2
+C:\Users\lenovo\AppData\LocalLow\Cellar Door Games

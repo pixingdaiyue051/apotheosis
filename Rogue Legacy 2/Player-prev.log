@@ -1,0 +1,117 @@
+Mono path[0] = 'E:/game/Rogue Legacy 2/Rogue Legacy 2_Data/Managed'
+Mono config path = 'E:/game/Rogue Legacy 2/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path E:/game/Rogue Legacy 2/Rogue Legacy 2_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+Begin MonoManager ReloadAssembly
+- Completed reload, in 27.643 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+DEFAULT LANGUAGE: English
+<color=yellow>Setting FixedDeltaTime to 0.01666667.</color>
+<color=yellow>Setting target FPS to 300.</color>
+<color=green>Config file loaded successfully.</color>
+Disabling Vsync
+UnloadTime: 62.417200 ms
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
+CDGResources backend: Asset Bundles
+Async loading bundles into memory took: 3.1135717
+<color=red>| MusicLibrary | No entry found with key (<b>None</b>) in lookup table</color>
+Loading Rogue Legacy 2: v1.0.0-steam
+Loading language: Chinese_Simp
+Checking for custom male names
+Checking for custom female names
+<color=green>Creating Enemy Manager...</color>
+Disabling Vsync
+<color=green>Controller Map KBActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map KBWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseWindowControllerMapV3RL1.xml loaded successfully.</color>
+Steam Stats Received
+Unloading 5 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 146.653000 ms
+
+Unloading 4567 unused Assets to reduce memory usage. Loaded Objects now: 69874.
+Total: 229.567400 ms (FindLiveObjects: 9.282900 ms CreateObjectMapping: 18.608300 ms MarkObjects: 195.656100 ms  DeleteObjects: 6.019600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 1.763800 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 83245.
+Total: 176.290000 ms (FindLiveObjects: 7.668800 ms CreateObjectMapping: 7.528000 ms MarkObjects: 159.301200 ms  DeleteObjects: 1.791300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 6.489000 ms
+Starting GameTimer playtime session.
+<color=blue>| RNGManager(Clone) (RNGManager) |: Master Seed = (HEX = AB3A2BD, INT = 179544765) <color=blue>(BiomeCreation) RNG Seed = (248095) </color><color=blue>(MergeRooms) RNG Seed = (139789) </color><color=blue>(Chest) RNG Seed = (64035) </color><color=blue>(Enemy) RNG Seed = (92759) </color><color=blue>(Lineage) RNG Seed = (63267) </color><color=blue>(Prop) RNG Seed = (223430) </color><color=blue>(SpecialRoomProps) RNG Seed = (95304) </color><color=blue>(Room_RNGSeed) RNG Seed = (162436) </color><color=blue>(Room_RNGSeed_Generator) RNG Seed = (219992) </color><color=blue>(Prop_RoomSeed) RNG Seed = (110842) </color><color=blue>(Deco_RoomSeed) RNG Seed = (199871) </color><color=blue>(Enemy_RoomSeed) RNG Seed = (14800) </color><color=blue>(Chest_RoomSeed) RNG Seed = (110862) </color><color=blue>(SpecialProps_RoomSeed) RNG Seed = (132172) </color><color=blue>(Hazards_RoomSeed) RNG Seed = (29995) </color><color=blue>(Tunnel_RoomSeed) RNG Seed = (148241) </color></color>
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 86359.
+Total: 204.983300 ms (FindLiveObjects: 5.545900 ms CreateObjectMapping: 8.146900 ms MarkObjects: 191.172000 ms  DeleteObjects: 0.117800 ms)
+
+<color=green>Creating Hazard Manager...</color>
+<color=green>Creating Chest Manager...</color>
+<color=green>Creating SkillTreeManager...</color>
+Loading old StageSaveData - Resuming Player Save progress
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Changed Toggle Rumble: 关
+<color=green>Config file saved successfully.</color>
+Listening for Remap input...
+Remap input detected...
+Remapping successful.  Action: DashLeft remapped to element: A
+Listening for Remap input...
+Remap input detected...
+Remapping successful.  Action: Jump remapped to element: A
+Listening for Remap input...
+Remap input detected...
+Remapping successful.  Action: Downstrike remapped to element: Right Trigger
+<color=green>Config file saved successfully.</color>
+Attempting to save Gamepad controller map...
+<color=green>Controller Map GamepadActionControllerMapV3RL1.xml saved successfully.</color>
+<color=green>Controller Map GamepadWindowControllerMapV3RL1.xml saved successfully.</color>
+<color=green>Controller Map KBActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map KBWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map GamepadActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map GamepadWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Config file saved successfully.</color>
+<color=green>Config file saved successfully.</color>
+<color=green>Config file saved successfully.</color>
+<color=green>Config file saved successfully.</color>
+Duplicate relic or not relic found.  Attempting to roll again...
+Duplicate relic or not relic found.  Attempting to roll again...
+Unloading 4 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 298.491600 ms
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=blue>Time from <b>Exiting Death Screen</b> to <b>Being Able to Choose an Heir in Lineage Screen</b> = 384 ms</color>
+Ending GameTimer playtime session.
+Saving session playtime: 6.063751 to profile 0
+
+Unloading 4331 unused Assets to reduce memory usage. Loaded Objects now: 272297.
+Total: 1230.134000 ms (FindLiveObjects: 252.678600 ms CreateObjectMapping: 27.943200 ms MarkObjects: 909.704900 ms  DeleteObjects: 39.806100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 24.609900 ms
+
+Unloading 2116 unused Assets to reduce memory usage. Loaded Objects now: 168185.
+Total: 341.148300 ms (FindLiveObjects: 11.946800 ms CreateObjectMapping: 23.949300 ms MarkObjects: 281.330200 ms  DeleteObjects: 23.921000 ms)
+
+Application is closing...
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b300 -> priority: 1 
+  Thread -> id: b228 -> priority: 1 
+Releasing render texture that is set as Camera.targetTexture!
+Releasing render texture that is set as Camera.targetTexture!

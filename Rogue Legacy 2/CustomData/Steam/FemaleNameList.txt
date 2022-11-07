@@ -1,0 +1,6 @@
+// Add your own female heir names in Rogue Legacy 2 here.
+// There must be at least 5 names on this list, otherwise the game will use its default name list.
+// Each name must be separated by a carriage return.
+// Any unsupported characters will appear as tofu (□) in the game.
+// When saving this file, make sure its encoding is UTF-8.
+// Use Notepad++ for best results!

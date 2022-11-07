@@ -1,0 +1,181 @@
+Mono path[0] = 'E:/game/Rogue Legacy 2/Rogue Legacy 2_Data/Managed'
+Mono config path = 'E:/game/Rogue Legacy 2/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path E:/game/Rogue Legacy 2/Rogue Legacy 2_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+Begin MonoManager ReloadAssembly
+- Completed reload, in  8.773 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+DEFAULT LANGUAGE: English
+<color=yellow>Setting FixedDeltaTime to 0.01666667.</color>
+<color=yellow>Setting target FPS to 300.</color>
+<color=green>Config file loaded successfully.</color>
+Disabling Vsync
+UnloadTime: 14.066300 ms
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
+CDGResources backend: Asset Bundles
+Async loading bundles into memory took: 3.3060526
+<color=red>| MusicLibrary | No entry found with key (<b>None</b>) in lookup table</color>
+Loading Rogue Legacy 2: v1.0.0-steam
+Loading language: Chinese_Simp
+Checking for custom male names
+Checking for custom female names
+<color=green>Creating Enemy Manager...</color>
+Disabling Vsync
+<color=green>Controller Map KBActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map KBWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map MouseWindowControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map GamepadActionControllerMapV3RL1.xml loaded successfully.</color>
+<color=green>Controller Map GamepadWindowControllerMapV3RL1.xml loaded successfully.</color>
+Steam Stats Received
+Unloading 5 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 2.199400 ms
+
+Unloading 4567 unused Assets to reduce memory usage. Loaded Objects now: 69874.
+Total: 137.462700 ms (FindLiveObjects: 5.422300 ms CreateObjectMapping: 6.917500 ms MarkObjects: 122.396300 ms  DeleteObjects: 2.725700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 1.084600 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 83245.
+Total: 171.793400 ms (FindLiveObjects: 8.085900 ms CreateObjectMapping: 7.213400 ms MarkObjects: 152.924100 ms  DeleteObjects: 3.569400 ms)
+
+Application is closing...
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ef4 -> priority: 1 
+  Thread -> id: 2b5c -> priority: 1 
+Releasing render texture that is set as Camera.targetTexture!
+Releasing render texture that is set as Camera.targetTexture!
+ loaded: 14)
+UnloadTime: 7.826900 ms
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=blue>Time from <b>Choosing Start New Legacy in Main Menu</b> to <b>Being Able to Choose an Heir in Lineage Screen</b> = 3375 ms</color>
+
+Unloading 575 unused Assets to reduce memory usage. Loaded Objects now: 103241.
+Total: 279.352700 ms (FindLiveObjects: 10.601600 ms CreateObjectMapping: 18.085500 ms MarkObjects: 250.029300 ms  DeleteObjects: 0.635700 ms)
+
+<color=red>Failed to update cached player data.  PlayerManager is disposed or not instantiated yet.</color>
+Unloading 4 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 9.914400 ms
+Starting GameTimer playtime session.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 129672.
+Total: 256.027300 ms (FindLiveObjects: 7.380100 ms CreateObjectMapping: 10.708800 ms MarkObjects: 237.755700 ms  DeleteObjects: 0.182100 ms)
+
+<color=green>Creating Hazard Manager...</color>
+<color=green>Creating Chest Manager...</color>
+<color=green>Creating SkillTreeManager...</color>
+<color=red>| 1*Transition* (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| 1*Transition* (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels Drift House Rooms_371(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=blue>Time from <b>Confirm Heir</b> in Lineage to <b>Skill Tree</b> in Hub Town = 10069 ms</color>
+Successfully leveled up Traits_Give_Gold
+<color=red>Class: None not found in Class Library. Please ensure the class exists in the Class Library scriptable object.</color>
+Successfully leveled up Bow_Class_Unlock
+Cannot SET SpellSeen state for spell type: CreatePlatformTalent because entry not found in Player Save Data.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 29.881500 ms
+<color=blue>| RNGManager(Clone) (RNGManager) |: Master Seed = (HEX = F68F0C9, INT = 258535625) <color=blue>(BiomeCreation) RNG Seed = (211488) </color><color=blue>(MergeRooms) RNG Seed = (125651) </color><color=blue>(Chest) RNG Seed = (188409) </color><color=blue>(Enemy) RNG Seed = (4725) </color><color=blue>(Lineage) RNG Seed = (28720) </color><color=blue>(Prop) RNG Seed = (48923) </color><color=blue>(SpecialRoomProps) RNG Seed = (63122) </color><color=blue>(Room_RNGSeed) RNG Seed = (19171) </color><color=blue>(Room_RNGSeed_Generator) RNG Seed = (110509) </color><color=blue>(Prop_RoomSeed) RNG Seed = (193018) </color><color=blue>(Deco_RoomSeed) RNG Seed = (197459) </color><color=blue>(Enemy_RoomSeed) RNG Seed = (124591) </color><color=blue>(Chest_RoomSeed) RNG Seed = (197543) </color><color=blue>(SpecialProps_RoomSeed) RNG Seed = (166754) </color><color=blue>(Hazards_RoomSeed) RNG Seed = (192309) </color><color=blue>(Tunnel_RoomSeed) RNG Seed = (69789) </color></color>
+
+Unloading 6067 unused Assets to reduce memory usage. Loaded Objects now: 323351.
+Total: 406.278900 ms (FindLiveObjects: 21.889500 ms CreateObjectMapping: 29.681200 ms MarkObjects: 350.734400 ms  DeleteObjects: 3.973100 ms)
+
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Forest Mandatory 6</b> at Grid Coords <b>(81, -5)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Boss 329</b> at Grid Coords <b>(81, -4)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Boss 329</b> at Grid Coords <b>(81, -4)</b>. </color>
+<color=purple>| CreateRoomsBuildRule_Tower | No Potential Rooms found in TowerExterior Biome's Room Library. See following console log for more details.</color>
+<color=purple>Cont'd from above... Does Room Library contain any Rooms matching the following criteria?: <b>2x1:</b><Bottom0> <b>1x1:</b><Bottom0></color>
+<color=purple>| CreateRoomsBuildRule_Tower | No Potential Rooms found in TowerExterior Biome's Room Library. See following console log for more details.</color>
+<color=purple>Cont'd from above... Does Room Library contain any Rooms matching the following criteria?: <b>2x1:</b><Bottom0> <b>1x1:</b><Bottom0></color>
+<color=purple>| CreateRoomsBuildRule_Tower | No Potential Rooms found in TowerExterior Biome's Room Library. See following console log for more details.</color>
+<color=purple>Cont'd from above... Does Room Library contain any Rooms matching the following criteria?: <b>2x2:</b><Bottom0> <b>2x1:</b><Bottom0> <b>1x2:</b><Bottom0> <b>1x1:</b><Bottom0></color>
+<color=purple>| CreateRoomsBuildRule_Tower | No Potential Rooms found in TowerExterior Biome's Room Library. See following console log for more details.</color>
+<color=purple>Cont'd from above... Does Room Library contain any Rooms matching the following criteria?: <b>2x1:</b><Bottom0> <b>1x1:</b><Bottom0></color>
+Creating new StageSaveData.
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+<color=blue>Time from <b>Charon</b> in Hub Town to <b>Gate Transition</b> in World = 6253 ms</color>
+Duplicate relic or not relic found.  Attempting to roll again...
+Biome Transition: From Castle to Study (seed: F68F0C9-0
+Biome Transition: From Study to Castle (seed: F68F0C9-0
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 22.959900 ms
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=red>[RoomUtility] Failed to retrieve Biome Data for Biome (None)</color>
+<color=blue>Time from <b>Exiting Death Screen</b> to <b>Being Able to Choose an Heir in Lineage Screen</b> = 31 ms</color>
+Ending GameTimer playtime session.
+Saving session playtime: 11.52496 to profile 1
+
+Unloading 2033 unused Assets to reduce memory usage. Loaded Objects now: 323402.
+Total: 416.789800 ms (FindLiveObjects: 21.640800 ms CreateObjectMapping: 36.207000 ms MarkObjects: 355.635600 ms  DeleteObjects: 3.305700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 13.894300 ms
+Starting GameTimer playtime session.
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 339467.
+Total: 490.009100 ms (FindLiveObjects: 22.065000 ms CreateObjectMapping: 35.976400 ms MarkObjects: 431.366300 ms  DeleteObjects: 0.600700 ms)
+
+<color=red>| 1*Transition* (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| 1*Transition* (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels HubTown_16(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=red>| Levels Drift House Rooms_371(Clone) (RoomEnemyManager) | No Enemy in Enemy Object Pool matches criteria: Biome = (HubTown), Is Flying = (False)</color>
+<color=blue>Time from <b>Confirm Heir</b> in Lineage to <b>Skill Tree</b> in Hub Town = 3927 ms</color>
+Successfully leveled up Enchantress
+<color=red>Class: None not found in Class Library. Please ensure the class exists in the Class Library scriptable object.</color>
+Successfully leveled up Unlock_Totem
+<color=red>Class: None not found in Class Library. Please ensure the class exists in the Class Library scriptable object.</color>
+Successfully leveled up Smithy
+<color=red>Class: None not found in Class Library. Please ensure the class exists in the Class Library scriptable object.</color>
+Unloading 2 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 29.309100 ms
+<color=blue>| RNGManager(Clone) (RNGManager) |: Master Seed = (HEX = F6D64FB, INT = 258827515) <color=blue>(BiomeCreation) RNG Seed = (142727) </color><color=blue>(MergeRooms) RNG Seed = (115723) </color><color=blue>(Chest) RNG Seed = (89544) </color><color=blue>(Enemy) RNG Seed = (218977) </color><color=blue>(Lineage) RNG Seed = (71865) </color><color=blue>(Prop) RNG Seed = (56621) </color><color=blue>(SpecialRoomProps) RNG Seed = (130487) </color><color=blue>(Room_RNGSeed) RNG Seed = (184255) </color><color=blue>(Room_RNGSeed_Generator) RNG Seed = (27430) </color><color=blue>(Prop_RoomSeed) RNG Seed = (132491) </color><color=blue>(Deco_RoomSeed) RNG Seed = (15909) </color><color=blue>(Enemy_RoomSeed) RNG Seed = (59442) </color><color=blue>(Chest_RoomSeed) RNG Seed = (219935) </color><color=blue>(SpecialProps_RoomSeed) RNG Seed = (244390) </color><color=blue>(Hazards_RoomSeed) RNG Seed = (139280) </color><color=blue>(Tunnel_RoomSeed) RNG Seed = (170894) </color></color>
+
+Unloading 324 unused Assets to reduce memory usage. Loaded Objects now: 375597.
+Total: 479.314000 ms (FindLiveObjects: 27.013800 ms CreateObjectMapping: 39.106100 ms MarkObjects: 412.504800 ms  DeleteObjects: 0.688700 ms)
+
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Heirloom Void Dash 77</b> at Grid Coords <b>(16, 4)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Heirloom Void Dash 77</b> at Grid Coords <b>(16, 4)</b>. </color>
+<color=red> | Forest | One or more Mandatory Rooms could not be placed during biome creation (including Levels Forest Mandatory 1)</color>
+<color=purple>| CreateRoomsBuildRule_Forest | No Potential Rooms found in Forest Biome's Room Library. See following console log for more details.</color>
+<color=purple>Cont'd from above... Does Room Library contain any Rooms matching the following criteria?: <b>3x3:</b><Top0, Top1> <b>3x2:</b><Top0, Top1> <b>3x1:</b><Top0, Top1> <b>2x3:</b><Top0, Top1> <b>2x2:</b><Top0, Top1> <b>2x1:</b><Top0, Top1> <b>1x3:</b><Top0> <b>1x2:</b><Top0> <b>1x1:</b><Top0></color>
+<color=blue>| RNGManager(Clone) (RNGManager) |: Master Seed = (HEX = F6EFF23, INT = 258932515) <color=blue>(BiomeCreation) RNG Seed = (57225) </color><color=blue>(MergeRooms) RNG Seed = (104435) </color><color=blue>(Chest) RNG Seed = (24294) </color><color=blue>(Enemy) RNG Seed = (95905) </color><color=blue>(Lineage) RNG Seed = (72534) </color><color=blue>(Prop) RNG Seed = (124047) </color><color=blue>(SpecialRoomProps) RNG Seed = (118799) </color><color=blue>(Room_RNGSeed) RNG Seed = (149829) </color><color=blue>(Room_RNGSeed_Generator) RNG Seed = (90816) </color><color=blue>(Prop_RoomSeed) RNG Seed = (98804) </color><color=blue>(Deco_RoomSeed) RNG Seed = (192267) </color><color=blue>(Enemy_RoomSeed) RNG Seed = (63628) </color><color=blue>(Chest_RoomSeed) RNG Seed = (60230) </color><color=blue>(SpecialProps_RoomSeed) RNG Seed = (195208) </color><color=blue>(Hazards_RoomSeed) RNG Seed = (150755) </color><color=blue>(Tunnel_RoomSeed) RNG Seed = (94422) </color></color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Cave Mandatory 19</b> at Grid Coords <b>(17, -14)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Cave Mandatory 19</b> at Grid Coords <b>(17, -14)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Heirloom Void Dash 77</b> at Grid Coords <b>(14, 7)</b>. </color>
+<color=purple>| ReplaceRoomUtility | Failed to find a Room with which to replace Room <b>Levels Heirloom Void Dash 77</b> at Grid Coords <b>(14, 7)</b>. </color>
+Creating new StageSaveData.
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+<color=blue>Time from <b>Charon</b> in Hub Town to <b>Gate Transition</b> in World = 4752 ms</color>
+Biome Transition: From Castle to Cave (seed: F6EFF23-0
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 33.026200 ms
+
+Unloading 4021 unused Assets to reduce memory usage. Loaded Objects now: 263159.
+Total: 360.941500 ms (FindLiveObjects: 17.052700 ms CreateObjectMapping: 39.822200 ms MarkObjects: 298.914000 ms  DeleteObjects: 5.151800 ms)
+
+Application is closing...
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c38 -> priority: 1 
+  Thread -> id: 197c -> priority: 1 
+Releasing render texture that is set as Camera.targetTexture!
+Releasing render texture that is set as Camera.targetTexture!
