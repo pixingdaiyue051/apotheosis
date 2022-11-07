@@ -6,3 +6,5 @@ C:\Users\Administrator\AppData\LocalLow\Team Cherry
 C:\Users\Administrator\AppData\Local
 ## Ori and the Will of The Wisps
 C:\Users\Administrator\AppData\Local
+## Eastward
+C:\Users\Administrator\AppData\Roaming\Pixpil

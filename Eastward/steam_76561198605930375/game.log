@@ -1,0 +1,1931 @@
+[MISC]	--------------------------------------------------------------------
+[MISC]	Logging started:	2022-10-21 12:40:13
+[MISC]	--------------------------------------------------------------------
+[LOG  :mock : 618637.512]	Init EW render support
+[LOG  :mock : 618637.512]	declared global texture	light_map	1
+[LOG  :mock : 618637.512]	declared global texture	normal_map	2
+[LOG  :mock : 618637.512]	declared global texture	position_map	3
+[LOG  :mock : 618637.512]	declared global texture	output_copy	4
+[LOG  :mock : 618637.512]	declared global texture	water_flow_map	5
+[LOG  :mock : 618637.512]	declared global texture	grass_flow_map	6
+[ERROR:mock : 618637.514]	ItemName not defined	ammo_pack
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.514]	ItemName not defined	bomb_pack
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.514]	ItemName not defined	buff_test
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.514]	ItemName not defined	torch
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.514]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.515]	duplicated ItemType in data sheet	revive	config/item/PouchItemData.list.csv
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:434
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:455
+[ERROR:mock : 618637.515]	ItemName not defined	potion
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.515]	ItemName not defined	potion2
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.515]	ItemName not defined	potion3
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.515]	ItemName not defined	watermelon
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.515]	ItemName not defined	corn
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.515]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.516]	ItemName not defined	service_upgrade_pan
+[ERROR:mock : 618637.516]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.516]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemService.lua:96
+[ERROR:mock : 618637.517]	ItemName not defined	field_orb
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.517]	invalid item type	<ItemWeapon:0x432cb100>
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.517]	ItemName not defined	bullet
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.517]	ItemName not defined	bullet_bomb
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.517]	ItemName not defined	salt
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.517]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	invalid item type	<ItemCoin:0x432d56a8>
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.518]	ItemName not defined	coin2
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	invalid item type	<ItemCoin:0x432c5d18>
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.518]	ItemName not defined	coin3
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	invalid item type	<ItemCoin:0x432c4608>
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_money1
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_money2
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_money3
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_coin1
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_coin2
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.518]	ItemName not defined	treasure_coin3
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.518]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432bd6c0>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b95c8>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b6760>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b5bd8>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b5050>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b44c8>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b3940>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b2db8>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b2230>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b0a80>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432af700>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432b8da0>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432ae410>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432ad4b0>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432ac8e0>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432ac928>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432ab5f0>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432aae88>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432a9270>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.519]	invalid item type	<ItemCollective:0x432a8310>
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.519]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[ERROR:mock : 618637.521]	ItemName not defined	jazz21
+[ERROR:mock : 618637.521]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:56
+[ERROR:mock : 618637.521]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:441
+[ERROR:mock : 618637.521]	duplicated ItemType in data sheet	dam_sushi	config/item/IngredientItemData.list.csv
+[ERROR:mock : 618637.521]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:434
+[ERROR:mock : 618637.521]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:462
+[ERROR:mock : 618637.525]	invalid item type	<ItemStory:0x42bed7d0>
+[ERROR:mock : 618637.525]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:201
+[ERROR:mock : 618637.525]	@/Volumes/prj/moai/eastward/game/asset/script/item/ItemType.lua:442
+[LOG  :mock : 618637.526]	loading store provider config	Gear_SandTown_lite	config/store/Gear_SandTown_lite.list.csv
+[LOG  :mock : 618637.526]	loading store provider config	Store_MerchantB	config/store/Store_MerchantB.list.csv
+[LOG  :mock : 618637.527]	loading store provider config	Gear_test	config/store/Gear_test.list.csv
+[LOG  :mock : 618637.528]	loading store provider config	Store_MerchantD	config/store/Store_MerchantD.list.csv
+[LOG  :mock : 618637.528]	loading store provider config	Store_Abliz	config/store/Store_Abliz.list.csv
+[LOG  :mock : 618637.529]	loading store provider config	Store_MerchantE	config/store/Store_MerchantE.list.csv
+[LOG  :mock : 618637.529]	loading store provider config	Store_Auto	config/store/Store_Auto.list.csv
+[LOG  :mock : 618637.529]	loading store provider config	Store_Monkey_Fool12	config/store/Store_Monkey_Fool12.list.csv
+[LOG  :mock : 618637.530]	loading store provider config	Store_Baker	config/store/Store_Baker.list.csv
+[LOG  :mock : 618637.530]	loading store provider config	Store_SandTown	config/store/Store_SandTown.list.csv
+[LOG  :mock : 618637.531]	loading store provider config	Store_Coin	config/store/Store_Coin.list.csv
+[LOG  :mock : 618637.531]	loading store provider config	Store_SandTown_Sam	config/store/Store_SandTown_Sam.list的.csv
+[LOG  :mock : 618637.531]	loading store provider config	Store_DamJazz21	config/store/Store_DamJazz21.list.csv
+[LOG  :mock : 618637.532]	loading store provider config	Store_SandTown_lite	config/store/Store_SandTown_lite.list.csv
+[LOG  :mock : 618637.532]	loading store provider config	Store_DamJazz21_sam	config/store/Store_DamJazz21_sam.list.csv
+[LOG  :mock : 618637.532]	loading store provider config	Store_Sawcoper	config/store/Store_Sawcoper.list.csv
+[LOG  :mock : 618637.532]	loading store provider config	Store_Dam_Crab	config/store/Store_Dam_Crab.list.csv
+[LOG  :mock : 618637.533]	loading store provider config	Store_SeedingTrain	config/store/Store_SeedingTrain.list.csv
+[LOG  :mock : 618637.533]	loading store provider config	Store_Tayama	config/store/Store_Tayama.list.csv
+[LOG  :mock : 618637.533]	loading store provider config	Store_test	config/store/Store_test.list.csv
+[LOG  :mock : 618637.534]	loading store provider config	William_Jam	config/store/William_Jam.list.csv
+[LOG  :mock : 618637.534]	loading store provider config	_StoreTemplate	config/store/_StoreTemplate.list.csv
+[LOG  :mock : 618637.534]	loading store provider config	test	config/store/test.list.csv
+[LOG  :mock : 618637.534]	loading store provider config	Store_Dam_Crab02	config/store/Store_Dam_Crab02.list.csv
+[LOG  :mock : 618637.534]	loading store provider config	Gear_Damhill	config/store/Gear_Damhill.list.csv
+[LOG  :mock : 618637.535]	loading store provider config	Store_Damhill	config/store/Store_Damhill.list.csv
+[LOG  :mock : 618637.535]	loading store provider config	Gear_Ester	config/store/Gear_Ester.list.csv
+[LOG  :mock : 618637.535]	loading store provider config	Store_Ester	config/store/Store_Ester.list.csv
+[LOG  :mock : 618637.536]	loading store provider config	Gear_Greenberg	config/store/Gear_Greenberg.list.csv
+[LOG  :mock : 618637.536]	loading store provider config	Store_Greenberg	config/store/Store_Greenberg.list.csv
+[LOG  :mock : 618637.536]	loading store provider config	Gear_Monkey	config/store/Gear_Monkey.list.csv
+[LOG  :mock : 618637.537]	loading store provider config	Store_MantisBot	config/store/Store_MantisBot.list.csv
+[LOG  :mock : 618637.537]	loading store provider config	Gear_SandTown	config/store/Gear_SandTown.list.csv
+[LOG  :mock : 618637.537]	loading store provider config	Store_MantisBot_lite	config/store/Store_MantisBot_lite.list.csv
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	Village -> active
+[LOG  :mock : 618637.549]	Village.start -> finished
+[LOG  :mock : 618637.549]	Village.Goblins -> active
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.549]	start -> finished
+[LOG  :mock : 618637.551]	...use user data path:	C:\Users\Administrator\AppData\Roaming\Pixpil\Eastward\steam_76561198605930375
+[LOG  :mock : 618637.552]	use test profile	default
+[LOG  :mock : 618637.552]	add pouch item	bomb_pack_full
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x48556f28>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x485576e8>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x48557ef8>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x485582c0>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x485586b0>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x48558b18>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x48558f08>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x485592f8>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x485596e8>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855aa98>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855ae88>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855b278>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855b668>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855ba58>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855be48>
+[LOG  :mock : 618637.553]	register instruction:	<Instruction:0x4855c238>
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618637.555]	no asset found	shader/grass-mrt.shader_script
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618637.555]	no asset found	shader/grass-mrt.shader_script
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618637.555]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618637.555]	shader asset not found:	shader/grass-mrt.shader_script
+[LOG  :mock : 618637.580]	boost loading	2
+[LOG  :mock : 618637.768]	boost loading	1
+[LOG  :mock : 618637.773]	active locale ->	zh-CN
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485ae000>( MainEndCH1  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485af258>( MainEndCH2  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485afaa0>( MainEndCH3  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485b0320>( MainEndCH4  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485b0b68>( MainEndCH5  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485b1438>( MainEndCH6  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485b2be0>( MainEndCH7  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchChapterEnd:0x485b3410>( MainEndCH8  )
+[LOG  :mock : 618637.774]	register achievement:	<AchMiniEnd:0x485b3c88>( MiniEndFake  )
+[LOG  :mock : 618637.774]	register achievement:	(H)<AchMiniEnd:0x485b4628>( MiniEndTrue  )
+[LOG  :mock : 618637.774]	register achievement:	<AchChestAll:0x485b5a58>( CollectAllChest  )
+[LOG  :mock : 618637.774]	register achievement:	<AchPlayerStat:0x485b62a0>( CollectAllHeart  )
+[LOG  :mock : 618637.774]	register achievement:	<AchPlayerStat:0x485b71d8>( CollectAllWeaponUp  )
+[LOG  :mock : 618637.774]	register achievement:	<AchPlayerStat:0x485b7bc0>( CollectAllAmmo  )
+[LOG  :mock : 618637.774]	register achievement:	<AchPlayerStat:0x485b85a8>( CollectAllPouch  )
+[LOG  :mock : 618637.774]	register achievement:	<AchGachaCount:0x485b8f90>( CollectGachaFirst  )
+[LOG  :mock : 618637.775]	register achievement:	<AchGachaCount:0x485b9788>( CollectGachaHalf  )
+[LOG  :mock : 618637.775]	register achievement:	<AchGachaCount:0x485ba138>( CollectGachaAll  )
+[LOG  :mock : 618637.775]	register achievement:	(H)<AchExtraStat:0x485ba960>( FightStoneKill  )
+[LOG  :mock : 618637.775]	register achievement:	(H)<AchExtraStat:0x485bc4a8>( FightCooperation  )
+[LOG  :mock : 618637.775]	register achievement:	(H)<AchExtraStat:0x485bcdf8>( AllJobs  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485bd898>( SaltBug  )
+[LOG  :mock : 618637.775]	register achievement:	(H)<AchExtraStat:0x485bed58>( SideQuests  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485bf710>( NPC50  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c0060>( NPC100  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c09c0>( CollectAllSamAbility  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c1368>( CollectRecipeFirst  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c1d00>( CollectRecipeAll  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c2698>( CollectFoodAll  )
+[LOG  :mock : 618637.775]	register achievement:	<AchExtraStat:0x485c33c0>( CollectAllIngredient  )
+[LOG  :mock : 618637.779]	register cursor	default	<UITexturePlaneCursor:0x485d30d8>
+[LOG  :mock : 618637.779]	start testsave tool
+[LOG  :mock : 618637.799]	boost loading	0
+[LOG  :mock : 618637.800]	boost loading	1
+[LOG  :mock : 618637.801]	boost loading	0
+TEXTURE: '+'          0k =   0.00MB < 
+TEXTURE: '+'          6k =   0.01MB < (texture from MOAIImage)
+[LOG  :mock : 618637.844]	using shader helper	DX11
+[LOG  :mock : 618637.863]	   0.011 /   0.011 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618637.872]	@/Volumes/prj/moai/eastward/game/asset/script/map/EWMapManager.lua:815
+[WARN :mock : 618637.872]	no SceneStartPoint found
+[LOG  :mock : 618638.032]	global sq count	17
+[LOG  :mock : 618638.032]	   0.161 /   0.161 -> Time elapsed <sq_global_script>
+[ERROR:mock : 618638.032]	no input category	main
+[ERROR:mock : 618638.032]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618638.032]	@/Volumes/prj/moai/eastward/game/asset/script/map/EWMapManager.lua:1025
+[LOG  :mock : 618638.050]	hero ready!
+[LOG  :mock : 618638.051]	steam stats stored:	true
+[LOG  :mock : 618638.056]	device.resize	1920	1080
+TEXTURE: '-'          0k =   0.01MB < 
+[LOG  :mock : 618638.063]	boost loading	1
+[LOG  :mock : 618638.065]	use resource group	false	false
+[LOG  :mock : 618638.082]	loading scene:	scene/ui/TopEntry.scene
+[LOG  :mock : 618638.082]	loaded dep asset:	5
+[LOG  :mock : 618638.082]	   0.017 /   0.017 -> Time elapsed <scene_load>
+   0.001 /   0.001 -> Time elapsed <scene_load_struct>
+   0.004 /   0.004 -> Time elapsed <loadscene_insert_entity>
+   0.004 /   0.004 -> Time elapsed <scene_load_dependency>
+   0.013 /   0.013 -> Time elapsed <scene_load_deserialization>
+   0.003 /   0.003 -> Time elapsed <scene_load_deserialize_data>
+[WARN :mock : 618638.082]	@/Volumes/prj/moai/eastward/game/asset/script/audio/EWAdditionalAudio.lua:162
+[WARN :mock : 618638.082]	no fmod project found
+[LOG  :mock : 618638.083]	boost loading	0
+TEXTURE: '+'          1k =   0.01MB < texture/test/fire_piece_test.png
+TEXTURE: '+'          2k =   0.01MB < texture/ui/CursorNew2.psd
+TEXTURE: '+'          0k =   0.01MB < texture/strip.png
+TEXTURE: '+'         64k =   0.07MB < texture/fx/WaterColor.png
+TEXTURE: '+'        256k =   0.32MB < texture/fx/WaterColorL.png
+TEXTURE: '+'        256k =   0.57MB < texture/fx/SporeColorL.png
+TEXTURE: '+'       2048k =   2.57MB < anim/fx/Fire.msprite/Fire_texture
+TEXTURE: '+'       4096k =   6.57MB < @texture_pack/FX/tex_0
+TEXTURE: '+'         25k =   6.60MB < texture/test/DreamStar.psd
+TEXTURE: '+'        256k =   6.85MB < anim/ui/LoadingTV.msprite/LoadingTV_texture
+TEXTURE: '+'       2048k =   8.85MB < @texture_pack/glow/tex_1
+TEXTURE: '+'       8192k =  16.85MB < @texture_pack/mask/tex_0
+TEXTURE: '+'          3k =  16.85MB < texture/glow.png
+[LOG  :mock : 618638.120]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene optimization>
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618638.120]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          0k =  16.85MB < 
+TEXTURE: '+'          0k =  16.85MB < 
+TEXTURE: '+'          0k =  16.85MB < 
+TEXTURE: '+'          0k =  16.85MB < 
+TEXTURE: '+'       2048k =  18.85MB < @texture_pack/UI/tex_0
+TEXTURE: '+'       4096k =  22.85MB < @texture_pack/glow/tex_0
+TEXTURE: '+'      16384k =  38.85MB < @texture_pack/glow/tex_2
+[LOG  :mock : 618638.245]	sync achievemennt state from service
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchMiniEnd:0x485b3c88>( MiniEndFake  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchExtraStat:0x485c2698>( CollectFoodAll  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	(H)<AchExtraStat:0x485ba960>( FightStoneKill  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	(H)<AchMiniEnd:0x485b4628>( MiniEndTrue  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchChestAll:0x485b5a58>( CollectAllChest  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchExtraStat:0x485bd898>( SaltBug  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchPlayerStat:0x485b71d8>( CollectAllWeaponUp  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchExtraStat:0x485c33c0>( CollectAllIngredient  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchExtraStat:0x485c1d00>( CollectRecipeAll  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchPlayerStat:0x485b7bc0>( CollectAllAmmo  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	(H)<AchExtraStat:0x485bed58>( SideQuests  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchExtraStat:0x485c09c0>( CollectAllSamAbility  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchGachaCount:0x485b9788>( CollectGachaHalf  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchPlayerStat:0x485b62a0>( CollectAllHeart  )
+[LOG  :mock : 618638.245]	start checking achievemennt:	<AchGachaCount:0x485ba138>( CollectGachaAll  )
+[LOG  :mock : 618638.256]	boost loading	1
+[LOG  :mock : 618638.266]	loading	false
+[LOG  :mock : 618638.266]	   0.000 /   0.000 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.000 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618638.277]	loading	ui/main/Menu.ui_style
+[LOG  :mock : 618638.277]	   0.003 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.004 /   0.004 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618638.283]	loading	ui/main/Title.ui_style
+[LOG  :mock : 618638.283]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.006 /   0.009 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618638.320]	   0.003 /   0.014 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618638.325]	   0.001 /   0.015 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618638.327]	   0.000 /   0.016 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618638.331]	loading scene:	scene/design/ui/F_Overlay.scene
+[LOG  :mock : 618638.332]	loaded dep asset:	18
+[LOG  :mock : 618638.332]	   0.075 /   0.092 -> Time elapsed <scene_load>
+   0.006 /   0.007 -> Time elapsed <scene_load_struct>
+   0.003 /   0.008 -> Time elapsed <loadscene_insert_entity>
+   0.046 /   0.050 -> Time elapsed <scene_load_dependency>
+   0.023 /   0.036 -> Time elapsed <scene_load_deserialization>
+   0.015 /   0.018 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618638.334]	boost loading	0
+[WARN :mock : 618638.335]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618638.335]	Animator has no clip	default	<EmbedAnimator:0x4acf8878>@UIGP_Overlay/GP_NotifyDialogOld @Overlay
+[WARN :mock : 618638.336]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618638.336]	Animator has no clip	default	<EmbedAnimator:0x4ace7e40>@UIGP_Chapter @Overlay
+TEXTURE: '+'          0k =  38.85MB < ui/main/imgwrap/Grid3.psd
+TEXTURE: '+'          0k =  38.85MB < ui/main/imgwrap/GridB4.psd
+TEXTURE: '+'          8k =  38.86MB < ui/mrpg/img/CoinFrame.png
+TEXTURE: '+'        139k =  39.00MB < ui/mrpg/img/CoinButton.png
+TEXTURE: '+'       1024k =  40.00MB < @texture_pack/UI-smooth/tex_0
+TEXTURE: '+'       4096k =  44.00MB < @texture_pack/UI-icon-big/tex_1
+TEXTURE: '+'      16384k =  60.00MB < @texture_pack/UI-smooth/tex_1
+TEXTURE: '+'      32768k =  92.00MB < @texture_pack/UI-icon-big/tex_0
+TEXTURE: '+'        139k =  92.13MB < ui/mrpg/img/CoinButtonPressed.png
+TEXTURE: '+'         51k =  92.18MB < texture/ui/ChapterTitle/cn/cont.png
+TEXTURE: '+'        162k =  92.34MB < texture/ui/ChapterTitle/cn/T1.png
+TEXTURE: '+'         59k =  92.40MB < texture/ui/ChapterTitle/cn/1.png
+TEXTURE: '+'         54k =  92.45MB < texture/ui/ChapterTitle/icon/1.png
+TEXTURE: '+'         32k =  92.48MB < texture/ui/ChapterTitle/ja/cont.png
+TEXTURE: '+'       2048k =  94.48MB < @texture_pack/UI-icon-ach/tex_0
+TEXTURE: '+'       4096k =  98.48MB < @texture_pack/pixball/tex_0
+TEXTURE: '-'          3k =  98.48MB < texture/glow.png
+TEXTURE: '-'         25k =  98.46MB < texture/test/DreamStar.psd
+TEXTURE: '-'          1k =  98.46MB < texture/test/fire_piece_test.png
+TEXTURE: '-'        256k =  98.21MB < texture/fx/SporeColorL.png
+TEXTURE: '-'        256k =  97.96MB < texture/fx/WaterColorL.png
+TEXTURE: '-'         64k =  97.89MB < texture/fx/WaterColor.png
+TEXTURE: '-'          0k =  97.89MB < texture/strip.png
+[LOG  :mock : 618638.536]	preloading assets
+[LOG  :mock : 618638.536]	preload group
+TEXTURE: '+'       1024k =  98.89MB < page 0 - E:/game/Eastward/content/game/ttf/fa197cff72b86e6cbf4f9ff3f2225f60 (000001DE47A6F540)
+TEXTURE: '+'        512k =  99.39MB < page 0 - E:/game/Eastward/content/game/ttf/3bed7d7223fb8b4f08dfffbd88a97462 (000001DE47A6ECF0)
+TEXTURE: '+'         91k =  99.48MB < texture/ui/ChapterTitle/cnt/cont.png
+TEXTURE: '+'         73k =  99.55MB < texture/ui/ChapterTitle/en/cont.png
+TEXTURE: '+'        217k =  99.77MB < texture/ui/ChapterTitle/fr/cont.png
+TEXTURE: '+'          1k =  99.77MB < texture/test/fire_piece_test.png
+TEXTURE: '+'          0k =  99.77MB < texture/strip.png
+TEXTURE: '+'         64k =  99.83MB < texture/fx/WaterColor.png
+TEXTURE: '+'         25k =  99.85MB < texture/test/DreamStar.psd
+TEXTURE: '+'        256k = 100.10MB < texture/fx/SporeColorL.png
+TEXTURE: '+'        256k = 100.35MB < texture/fx/WaterColorL.png
+TEXTURE: '+'          3k = 100.36MB < texture/glow.png
+TEXTURE: '+'         64k = 100.42MB < texture/mask/NoiseRadialCircleS.png
+TEXTURE: '+'       8192k = 108.42MB < anim/Sam.msprite/Sam_texture
+TEXTURE: '+'       2048k = 110.42MB < anim/obj/Chest.msprite/Chest_texture
+TEXTURE: '+'        512k = 110.92MB < gfx_main/282b6f44015f8aa9b14719c5a062aa71/decks.hmg
+TEXTURE: '+'        512k = 111.42MB < gfx_main/282b6f44015f8aa9b14719c5a062aa71/decks_n.hmg
+TEXTURE: '+'        256k = 111.67MB < texture/vecmap/BallNormal.psd
+TEXTURE: '+'         64k = 111.73MB < texture/vecmap/BallNormal128.psd
+TEXTURE: '+'          4k = 111.74MB < texture/vecmap/BallNormal32.psd
+TEXTURE: '+'         16k = 111.75MB < texture/vecmap/BallNormal64.psd
+TEXTURE: '+'         56k = 111.81MB < texture/shadow-test-1.png
+TEXTURE: '+'       4096k = 115.81MB < anim/obj/CookingEffects.msprite/CookingEffects_texture
+TEXTURE: '+'      16384k = 131.81MB < font/mp12_0.png
+TEXTURE: '+'          4k = 131.81MB < texture/shadow/BlackDrop.psd
+TEXTURE: '+'         64k = 131.87MB < anim/WeaponCog.msprite/WeaponCog_texture
+TEXTURE: '+'        256k = 132.12MB < anim/fx/Dust.msprite/Dust_texture
+TEXTURE: '+'         32k = 132.15MB < anim/WeaponCog2.msprite/WeaponCog2_texture
+TEXTURE: '+'        256k = 132.40MB < gfx/1d5af30de561d76f86c33a6bf173843b/decks_n.hmg
+TEXTURE: '+'        256k = 132.65MB < gfx/1d5af30de561d76f86c33a6bf173843b/decks.hmg
+[LOG  :mock : 618638.988]	   0.011 /   0.027 -> Time elapsed <animator_data_load_deserialization>
+TEXTURE: '+'          3k = 132.66MB < texture/placeholder/Trigger_1.png
+TEXTURE: '+'         72k = 132.73MB < texture/HexGrid.psd
+[LOG  :mock : 618639.023]	   0.012 /   0.039 -> Time elapsed <animator_data_load_deserialization>
+TEXTURE: '+'          2k = 132.73MB < texture/fx/Hero.png
+TEXTURE: '+'          7k = 132.74MB < texture/fx/TestLine3.psd
+TEXTURE: '+'         26k = 132.76MB < texture/fx/env/WaterReedPatchSparse.png
+TEXTURE: '+'         30k = 132.79MB < texture/fx/PuddleSkyTile.png
+TEXTURE: '+'          6k = 132.80MB < texture/fx/TestLine2.psd
+TEXTURE: '+'         71k = 132.87MB < texture/fx/env/WaterReedPatch.png
+TEXTURE: '+'         29k = 132.90MB < texture/fx/env/WaterReedPatchShort.png
+TEXTURE: '+'         32k = 132.93MB < texture/fx/env/WaterReedPatchT.png
+TEXTURE: '+'          0k = 132.93MB < texture/fx/Portal.png
+TEXTURE: '+'         30k = 132.96MB < texture/fx/PuddleSkyDuskTile.png
+TEXTURE: '+'         32k = 132.99MB < anim/WeaponFlame.msprite/WeaponFlame_texture
+TEXTURE: '+'        128k = 133.12MB < gfx_main/0c5563e493d75547e37f79ba887c15ba/decks.hmg
+TEXTURE: '+'        128k = 133.24MB < gfx_main/0c5563e493d75547e37f79ba887c15ba/decks_n.hmg
+TEXTURE: '+'         32k = 133.27MB < anim/WeaponFlame2.msprite/WeaponFlame2_texture
+TEXTURE: '+'          8k = 133.28MB < anim/ui/MagnifyGlass.msprite/MagnifyGlass_texture
+TEXTURE: '+'        256k = 133.53MB < anim/ui/title-graveyard.msprite/title-graveyard_texture
+TEXTURE: '+'        512k = 134.03MB < anim/ui/Box.msprite/Box_texture
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.110]	no asset found	shader/mesh-main-toon.shader
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.110]	no asset found	shader/mesh-main-toon.shader
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.110]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.110]	shader asset not found:	shader/mesh-main-toon.shader
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.128]	no asset found	shader/soft-lit.shader
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.128]	no asset found	shader/soft-lit.shader
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.128]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.128]	shader asset not found:	shader/soft-lit.shader
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.133]	no asset found	shader/snow_mrt.shader_script
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.133]	no asset found	shader/snow_mrt.shader_script
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.133]	shader asset not found:	shader/snow_mrt.shader_script
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.133]	no asset found	shader/grass-test.shader
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.133]	no asset found	shader/grass-test.shader
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.133]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.133]	shader asset not found:	shader/grass-test.shader
+[WARN :mock : 618639.141]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:350
+[WARN :mock : 618639.141]	shader config not found:	main	shader/normal.shader
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.152]	no asset found	shader/soft-lit.shader
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.152]	no asset found	shader/soft-lit.shader
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.152]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.152]	shader asset not found:	shader/soft-lit.shader
+[WARN :mock : 618639.157]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:350
+[WARN :mock : 618639.157]	shader config not found:	main	shader/eel-mud.shader_script
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.162]	no asset found	shader/fx/fogball.shader_script
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.162]	no asset found	shader/fx/fogball.shader_script
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.162]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.162]	shader asset not found:	shader/fx/fogball.shader_script
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.164]	no asset found	shader/alpha-only-mrt.shader
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618639.164]	no asset found	shader/alpha-only-mrt.shader
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618639.164]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:353
+[WARN :mock : 618639.164]	shader asset not found:	shader/alpha-only-mrt.shader
+[WARN :mock : 618639.169]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:350
+[WARN :mock : 618639.169]	shader config not found:	main	shader/normal.shader
+[WARN :mock : 618639.172]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/RenderMaterial.lua:350
+[WARN :mock : 618639.172]	shader config not found:	main	shader/normal-bright.shader
+[WARN :mock : 618639.198]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618639.198]	no loader config for asset	file	config/portal/LittleGame.graphml
+[WARN :mock : 618639.199]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618639.199]	no loader config for asset	file	config/portal/EW.graphml
+[ERROR:mock : 618639.205]	error opening file	game/asset/config/CreditBH.txt
+[ERROR:mock : 618639.205]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618639.205]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:956
+[WARN :mock : 618639.243]	@/Volumes/prj/moai/eastward/game/lib/mock/common/DataSheetAsset.lua:269
+[WARN :mock : 618639.243]	deprecated data sheet type
+TEXTURE: '+'       1024k = 135.03MB < anim/ui/UIStove.msprite/UIStove_texture
+TEXTURE: '+'       1024k = 136.03MB < anim/ui/icon/IconGacha.msprite/IconGacha_texture
+TEXTURE: '+'         32k = 136.06MB < anim/WeaponFlame3.msprite/WeaponFlame3_texture
+TEXTURE: '+'         32k = 136.09MB < anim/WeaponShotgun.msprite/WeaponShotgun_texture
+TEXTURE: '+'       1024k = 137.09MB < anim/fx/Electric.msprite/Electric_texture
+TEXTURE: '+'        339k = 137.42MB < texture/weapon/ShotgunFire.png
+TEXTURE: '+'       2048k = 139.42MB < anim/fx/Fire.msprite/Fire_texture
+TEXTURE: '+'        128k = 139.55MB < gfx/db649edd4d7781dcbd9c3d67625f9893/decks_n.hmg
+TEXTURE: '+'        128k = 139.67MB < gfx/db649edd4d7781dcbd9c3d67625f9893/decks.hmg
+TEXTURE: '+'       1024k = 140.67MB < gfx/31073f71698593f77b219534bd6f2bfb/decks.hmg
+TEXTURE: '+'       1024k = 141.67MB < gfx/31073f71698593f77b219534bd6f2bfb/decks_n.hmg
+TEXTURE: '+'          8k = 141.68MB < anim/fx/Weapon/Sequin1.msprite/Sequin1_texture
+TEXTURE: '+'          8k = 141.69MB < anim/fx/Weapon/Sequin2.msprite/Sequin2_texture
+TEXTURE: '+'          8k = 141.70MB < anim/fx/Weapon/Sequin3.msprite/Sequin3_texture
+TEXTURE: '+'         96k = 141.79MB < gfx/d76b9cb81b4e6c788a32895470c4bc7d
+TEXTURE: '+'         96k = 141.89MB < gfx/65c5db2f9c7e01ee64bb5747c55201c5
+TEXTURE: '+'         96k = 141.98MB < gfx/3d771bc7e10d7f8ca8d9ad6bc5103d17
+TEXTURE: '+'         96k = 142.07MB < gfx/e2138efc67781233b0f04b552909bfb4
+TEXTURE: '+'         96k = 142.17MB < gfx/1403f932d78d12f40c068f6877c9f889
+TEXTURE: '+'         96k = 142.26MB < gfx/271be1ee9538a1c066bf7ff0c4841eff
+TEXTURE: '+'         96k = 142.35MB < gfx/eafde82645c649147dd91594b7fd2820
+TEXTURE: '+'         96k = 142.45MB < gfx/9080c4c0dd007e0d6f191a3f358b8c4e
+TEXTURE: '+'         96k = 142.54MB < gfx/cc65caea1905cdd100c93b8e8d94e072
+TEXTURE: '+'         96k = 142.64MB < gfx/f57621553f02af4f55b5bab3a51a4b26
+TEXTURE: '+'         96k = 142.73MB < gfx/ec810a6ac8d9828eccacdb960463ba42
+TEXTURE: '+'         96k = 142.82MB < gfx/79124b09bcb336c1417678594b33b920
+TEXTURE: '+'         96k = 142.92MB < gfx/7f16551a1e4319df8eac60db68e9d544
+TEXTURE: '+'         96k = 143.01MB < gfx/05fc9538834398670467381feac58d18
+TEXTURE: '+'         96k = 143.10MB < gfx/8313b4203dbbb8210397b133b57da5f6
+TEXTURE: '+'         96k = 143.20MB < gfx/98e44ff79c25cba0bc679eae70e5c380
+TEXTURE: '+'         96k = 143.29MB < gfx/64896640a5a18cdde1d162826bf3d505
+TEXTURE: '+'         96k = 143.39MB < gfx/75f641c51be673f07f688d72f2018311
+TEXTURE: '+'         96k = 143.48MB < gfx/4ad7acde50d110722ca3c3d2728dc25a
+TEXTURE: '+'         96k = 143.57MB < gfx/e96cb7263d6e662ae6f06fd83ecb5871
+TEXTURE: '+'         96k = 143.67MB < gfx/5c5eaa91f3597a938099906ee7546baf
+TEXTURE: '+'         96k = 143.76MB < gfx/ac9dc641238884afa060436165b54520
+TEXTURE: '+'         96k = 143.85MB < gfx/a78e6e47189b78f29c8cb71eeb2a70e6
+TEXTURE: '+'         96k = 143.95MB < gfx/d2557c5272409e25586218246fccc448
+TEXTURE: '+'        128k = 144.07MB < gfx/6fd06b5bcd9666e328e60db025bc1071
+TEXTURE: '+'        128k = 144.20MB < gfx/deefb2af7716b0d4597797a1cf9f8bb1
+TEXTURE: '+'         96k = 144.29MB < gfx/d0a5facdbef03a3c3a776c4f35612618
+TEXTURE: '+'         96k = 144.39MB < gfx/ad53438670a5606985de423acdae16b0
+TEXTURE: '+'         96k = 144.48MB < gfx/dbda89c64ea42d126cf9e9274d578cf4
+TEXTURE: '+'         96k = 144.57MB < gfx/71b8ae1c05cf7e92d3dc4a2b1d88149c
+TEXTURE: '+'         96k = 144.67MB < gfx/ca6abd87e0978e08936b5b987636928f
+TEXTURE: '+'         96k = 144.76MB < gfx/32fefdb4d022ef8a157e081013be2736
+TEXTURE: '+'         96k = 144.85MB < gfx/86506fe1cedbe0f586ff25fb085b4551
+TEXTURE: '+'        128k = 144.98MB < gfx/eafe20a508772d77e153e0a35b1c4a72
+TEXTURE: '+'         96k = 145.07MB < gfx/4fe9091798afbcd2b2d186e18c482fab
+TEXTURE: '+'         96k = 145.17MB < gfx/97f4deea2add82c6053d638aa724260c
+TEXTURE: '+'         96k = 145.26MB < gfx/a1ac6d79e8b0e013fbe17ae70a8a27ce
+TEXTURE: '+'         96k = 145.35MB < gfx/fc9d37318228723d9167d9b803194e8d
+TEXTURE: '+'         96k = 145.45MB < gfx/8d04e56fce76a9e527d9b3f11e249ae9
+TEXTURE: '+'         96k = 145.54MB < gfx/b3ac2146f806b457ab00fc324805ae47
+TEXTURE: '+'         96k = 145.64MB < gfx/38ca128e43e763c377b76edb0d4864d1
+TEXTURE: '+'       1024k = 146.64MB < anim/fx/Weapon/Shotgun.msprite/Shotgun_texture
+TEXTURE: '+'          8k = 146.64MB < anim/fx/Weapon/Sequin4.msprite/Sequin4_texture
+TEXTURE: '+'        128k = 146.77MB < texture/color-grading/LUT5r.png
+TEXTURE: '+'        128k = 146.89MB < texture/color-grading/LUTBright.png
+TEXTURE: '+'        128k = 147.02MB < texture/color-grading/LUTTest5.png
+TEXTURE: '+'        128k = 147.14MB < texture/color-grading/LUT16c.png
+TEXTURE: '+'        128k = 147.27MB < texture/color-grading/LUTCurve3.psd
+TEXTURE: '+'        128k = 147.39MB < texture/color-grading/LUTTrain1.png
+TEXTURE: '+'        128k = 147.52MB < texture/color-grading/ANI1.png
+TEXTURE: '+'        128k = 147.64MB < texture/color-grading/LUTTest4.png
+TEXTURE: '+'        128k = 147.77MB < texture/color-grading/LUTSandTown2.psd
+TEXTURE: '+'        128k = 147.89MB < texture/color-grading/LUTSandTownTest.psd
+TEXTURE: '+'        128k = 148.02MB < texture/color-grading/LUT128b.png
+TEXTURE: '+'        256k = 148.27MB < texture/color-grading/TestFlowMap.png
+TEXTURE: '+'       1024k = 149.27MB < texture/color-grading/TestFlowMap2.png
+TEXTURE: '+'        128k = 149.39MB < texture/color-grading/LUTGBC2.png
+TEXTURE: '+'        128k = 149.52MB < texture/color-grading/LUTGBC.png
+TEXTURE: '+'        128k = 149.64MB < texture/color-grading/LUTGBC4.png
+TEXTURE: '+'        128k = 149.77MB < texture/color-grading/LUTCurveTest_1.psd
+TEXTURE: '+'        128k = 149.89MB < texture/color-grading/LUTGBC.psd
+TEXTURE: '+'        128k = 150.02MB < texture/color-grading/LUTGB_A.psd
+TEXTURE: '+'        128k = 150.14MB < texture/color-grading/LUTCurveTest.psd
+TEXTURE: '+'        128k = 150.27MB < texture/color-grading/LUTRedBrown.png
+TEXTURE: '+'        128k = 150.39MB < texture/color-grading/LUTHyperLightDrifter.png
+TEXTURE: '+'          0k = 150.39MB < texture/wrapping/TrainGroundPatternN.png
+TEXTURE: '+'        128k = 150.52MB < texture/color-grading/LUTCurveTest_2.psd
+TEXTURE: '+'        256k = 150.77MB < texture/wrapping/Noise256.png
+TEXTURE: '+'        128k = 150.89MB < texture/color-grading/LUTGB.psd
+TEXTURE: '+'        128k = 151.02MB < texture/color-grading/LUTGB2.psd
+TEXTURE: '+'        128k = 151.14MB < texture/color-grading/Sand/LUTMallMazeDark.png
+TEXTURE: '+'        128k = 151.27MB < texture/color-grading/LUTCurveDamhillOutDoor.psd
+TEXTURE: '+'       1024k = 152.27MB < texture/wrapping/WaterColorNormal4.png
+TEXTURE: '+'          4k = 152.27MB < texture/wrapping/CRTTex.png
+TEXTURE: '+'          1k = 152.27MB < texture/wrapping/DOtGrid4Solid.png
+TEXTURE: '+'        256k = 152.52MB < texture/wrapping/Noise256Smooth.png
+TEXTURE: '+'        256k = 152.77MB < texture/wrapping/Caustics256.png
+TEXTURE: '+'       1024k = 153.77MB < texture/wrapping/Noise512Smooth.png
+[LOG  :mock : 618639.507]	   0.000 /   0.040 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.511]	   0.002 /   0.041 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.514]	   0.001 /   0.043 -> Time elapsed <animator_data_load_deserialization>
+TEXTURE: '+'          4k = 153.78MB < texture/wrapping/Patterns/Squares.png
+TEXTURE: '+'        256k = 154.03MB < texture/wrapping/FlowTest2.psd
+TEXTURE: '+'       1024k = 155.03MB < texture/wrapping/blankNormal.png
+TEXTURE: '+'       1024k = 156.03MB < texture/wrapping/Star.psd
+TEXTURE: '+'       1024k = 157.03MB < texture/wrapping/WaterColorNormal5.png
+[WARN :mock : 618639.558]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/Texture.lua:866
+[WARN :mock : 618639.558]	nil imagepath specified
+[WARN :mock : 618639.559]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/Texture.lua:866
+[WARN :mock : 618639.559]	nil imagepath specified
+[WARN :mock : 618639.559]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/asset/Texture.lua:866
+[WARN :mock : 618639.559]	nil imagepath specified
+TEXTURE: '+'          0k = 157.03MB < texture/wrapping/TrainGroundPattern.png
+TEXTURE: '+'        198k = 157.22MB < texture/wrapping/FilmEdge.psd
+TEXTURE: '+'       1024k = 158.22MB < texture/wrapping/WaterColorNormal3.png
+TEXTURE: '+'          4k = 158.23MB < (texture from MOAIImage)
+TEXTURE: '+'          4k = 158.23MB < (texture from MOAIImage)
+TEXTURE: '+'          4k = 158.23MB < (texture from MOAIImage)
+TEXTURE: '+'          0k = 158.23MB < texture/placeholder/HPItemSlot.png
+TEXTURE: '+'         15k = 158.25MB < texture/wrapping/bw.psd
+TEXTURE: '+'          4k = 158.25MB < texture/wrapping/SlashWrap.png
+TEXTURE: '+'        256k = 158.50MB < texture/wrapping/WaterColorL.png
+TEXTURE: '+'        256k = 158.75MB < texture/wrapping/WaterColorNormal.png
+TEXTURE: '+'         32k = 158.78MB < anim/WeaponShotgun3.msprite/WeaponShotgun3_texture
+TEXTURE: '+'        512k = 159.28MB < gfx/9b90a97f15cd657c6d1d712f6a2d18ff/decks.hmg
+TEXTURE: '+'       1024k = 160.28MB < texture/wrapping/LightWallDestroy.psd
+TEXTURE: '+'          0k = 160.28MB < texture/placeholder/HPItem.png
+TEXTURE: '+'          4k = 160.29MB < texture/wrapping/HLinesWrap.png
+TEXTURE: '+'        512k = 160.79MB < gfx/9b90a97f15cd657c6d1d712f6a2d18ff/decks_n.hmg
+TEXTURE: '+'       1024k = 161.79MB < texture/wrapping/WaterColorNormal2.png
+TEXTURE: '+'       4096k = 165.79MB < gfx/4b9cb1122fafb0ab4d32ec8bf3d0e509/decks.hmg
+TEXTURE: '+'         16k = 165.80MB < texture/line.png
+[WARN :mock : 618639.647]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618639.647]	no loader config for asset	lua	behaviour/creature/WitcherBullet.lua
+[WARN :mock : 618639.651]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618639.651]	no loader config for asset	lua	behaviour/creature/MouseTrain.lua
+[WARN :mock : 618639.687]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618639.687]	no loader config for asset	lua	behaviour/creature/AnimShuffle.lua
+TEXTURE: '+'          0k = 165.80MB < texture/placeholder/HPItemSam.png
+TEXTURE: '+'       2048k = 167.80MB < gfx/298cf693e23870587354078759509572/decks_n.hmg
+TEXTURE: '+'         39k = 167.84MB < texture/ui/ButtonSymbol/ButtonSymbol_Share.png
+TEXTURE: '+'          1k = 167.84MB < texture/ui/CrossCircle.psd
+TEXTURE: '+'        128k = 167.97MB < anim/fx/Debris.msprite/Debris_texture
+TEXTURE: '+'        512k = 168.47MB < gfx/3b1218f65e9f673d8aa05ea061a35674/decks_n.hmg
+TEXTURE: '+'        512k = 168.97MB < gfx/3b1218f65e9f673d8aa05ea061a35674/decks.hmg
+TEXTURE: '+'       2048k = 170.97MB < gfx/298cf693e23870587354078759509572/decks.hmg
+TEXTURE: '+'       1024k = 171.97MB < texture/vecmap/BallDistortA.psd
+TEXTURE: '+'          1k = 171.97MB < texture/ui/Clock.png
+TEXTURE: '+'         16k = 171.99MB < texture/ui/BGPatternDiaLines.png
+TEXTURE: '+'         32k = 172.02MB < anim/WeaponShotgun4.msprite/WeaponShotgun4_texture
+TEXTURE: '+'       4096k = 176.02MB < gfx/4b9cb1122fafb0ab4d32ec8bf3d0e509/decks_n.hmg
+TEXTURE: '+'       8192k = 184.02MB < @texture_pack/UI-icon/tex_0
+TEXTURE: '+'         40k = 184.06MB < texture/ui/FinalEnergyBar.psd
+TEXTURE: '+'      16384k = 200.06MB < font/zipex_0.png
+TEXTURE: '+'          6k = 200.06MB < texture/ui/CursorNew.psd
+TEXTURE: '+'        512k = 200.56MB < anim/fx/Lightning.msprite/Lightning_texture
+TEXTURE: '+'          2k = 200.56MB < texture/ui/CursorNew2.psd
+TEXTURE: '+'         39k = 200.60MB < texture/ui/ButtonSymbol/ButtonSymbol_R2.png
+TEXTURE: '+'         39k = 200.64MB < texture/ui/ButtonSymbol/ButtonSymbol_Option.png
+TEXTURE: '+'         39k = 200.68MB < texture/ui/ButtonSymbol/ButtonSymbol_L1.png
+TEXTURE: '+'         39k = 200.72MB < texture/ui/ButtonSymbol/ButtonSymbol_R1.png
+TEXTURE: '+'         39k = 200.76MB < texture/ui/ButtonSymbol/ButtonSymbol_L2.png
+TEXTURE: '+'         18k = 200.77MB < texture/ui/FinalEnergeSlot.psd
+TEXTURE: '+'          1k = 200.78MB < texture/ui/InteractionLocHintD.png
+TEXTURE: '+'        128k = 200.90MB < anim/fx/Destroyable/MetalBucket.msprite/MetalBucket_texture
+TEXTURE: '+'         64k = 200.96MB < texture/vecmap/CenterPush.psd
+TEXTURE: '+'        512k = 201.46MB < anim/fx/Destroyable/Obstacle.msprite/Obstacle_texture
+TEXTURE: '+'         56k = 201.52MB < texture/shadow-test.png
+TEXTURE: '+'       4096k = 205.52MB < anim/fx/Impact/HitNew.msprite/HitNew_texture
+TEXTURE: '+'       8192k = 213.52MB < anim/fx/Destroyable/Explosion.msprite/Explosion_texture
+TEXTURE: '+'         32k = 213.55MB < anim/WeaponShotgun2.msprite/WeaponShotgun2_texture
+TEXTURE: '+'        256k = 213.80MB < gfx/22617828bcadb52017f107715f457ab2/decks_n.hmg
+TEXTURE: '+'        256k = 214.05MB < gfx/22617828bcadb52017f107715f457ab2/decks.hmg
+TEXTURE: '+'        512k = 214.55MB < anim/fx/Impact/Hit.msprite/Hit_texture
+TEXTURE: '+'       1024k = 215.55MB < anim/fx/Impact/Hit02.msprite/Hit02_texture
+TEXTURE: '+'       1024k = 216.55MB < anim/fx/Fragment.msprite/Fragment_texture
+TEXTURE: '+'        256k = 216.80MB < page 0 - E:/game/Eastward/content/game/asset/e7ef1b6ed35fe5d65016b5c9b968b502 (000001DE47A70250)
+[LOG  :mock : 618639.840]	   0.000 /   0.043 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.840]	   0.000 /   0.043 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.840]	   0.000 /   0.043 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.842]	   0.001 /   0.044 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.842]	   0.000 /   0.044 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.843]	   0.000 /   0.044 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.844]	   0.000 /   0.045 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.845]	   0.000 /   0.045 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.846]	   0.000 /   0.045 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.846]	   0.000 /   0.046 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.847]	   0.000 /   0.046 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.848]	   0.001 /   0.047 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.851]	   0.001 /   0.048 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.853]	   0.001 /   0.049 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.855]	   0.001 /   0.050 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.857]	   0.001 /   0.051 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.860]	   0.001 /   0.053 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.860]	   0.000 /   0.053 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.861]	   0.000 /   0.053 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.861]	   0.000 /   0.053 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.862]	   0.000 /   0.054 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.863]	   0.000 /   0.054 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.864]	   0.000 /   0.054 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.865]	   0.000 /   0.055 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.866]	   0.000 /   0.055 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618639.910]	   0.000 /   0.055 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618639.958]	@/Volumes/prj/moai/eastward/game/lib/mock/core/Class.lua:699
+[WARN :mock : 618639.958]	more than one class found for name	MiniRPGCommandMenu
+[WARN :mock : 618639.958]	@/Volumes/prj/moai/eastward/game/lib/mock/core/Class.lua:699
+[WARN :mock : 618639.958]	more than one class found for name	MiniRPGCommandMenuItem
+[LOG  :mock : 618639.958]	loading	ui/main/MRPG.ui_style
+[LOG  :mock : 618639.958]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.009 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.959]	loading	ui/main/MRPGWhite.ui_style
+[LOG  :mock : 618639.959]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.009 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.965]	loading	ui/main/SaveFile.ui_style
+[LOG  :mock : 618639.965]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.004 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.966]	loading	ui/main/Shit.ui_style
+[LOG  :mock : 618639.966]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.966]	loading	ui/main/Chapter.ui_style
+[LOG  :mock : 618639.966]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.967]	loading	ui/main/SlotMachine.ui_style
+[LOG  :mock : 618639.967]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.967]	loading	ui/main/EquipPosCommandMenu.ui_style
+[LOG  :mock : 618639.967]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618639.967]	loading	ui/main/GashaUI.ui_style
+[LOG  :mock : 618639.967]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+TEXTURE: '+'      16384k = 232.80MB < anim/John.msprite/John_texture
+TEXTURE: '+'        128k = 232.92MB < anim/fx/Fragment02.msprite/Fragment02_texture
+TEXTURE: '+'          5k = 232.93MB < ui/main/img/ButtonSlotTexture.psd
+TEXTURE: '+'          0k = 232.93MB < ui/main/imgwrap/Grid2.psd
+TEXTURE: '+'         36k = 232.97MB < ui/main/img/ButtonSlot.psd
+TEXTURE: '+'         36k = 233.00MB < ui/main/img/ButtonSlotPress.psd
+TEXTURE: '+'         64k = 233.06MB < anim/WeaponCog3.msprite/WeaponCog3_texture
+TEXTURE: '+'         64k = 233.13MB < font/en/PixelOperator_0.png
+TEXTURE: '+'        144k = 233.27MB < font/mini/EWMRPGIcon.png
+[LOG  :mock : 618640.039]	loading	ui/test/REPL.ui_style
+[LOG  :mock : 618640.039]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.039]	loading	ui/test/New.ui_style
+[LOG  :mock : 618640.039]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.040]	loading	ui/test/MiniStory.ui_style
+[LOG  :mock : 618640.040]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.040]	loading	ui/test/Deco.ui_style
+[LOG  :mock : 618640.040]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.041]	loading	ui/test/Main.ui_style
+[LOG  :mock : 618640.041]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.041]	loading	ui/test/CN.ui_style
+[LOG  :mock : 618640.041]	   0.000 /   0.003 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[LOG  :mock : 618640.041]	loading	ui/test/Test.ui_style
+[LOG  :mock : 618640.041]	   0.000 /   0.004 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.000 /   0.013 -> Time elapsed <ui_style_build_tags>
+[WARN :mock : 618640.042]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.042]	no loader config for asset	tb_scheme	ui/scheme/Settings.tb_scheme
+[WARN :mock : 618640.042]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.042]	no loader config for asset	tb_scheme	ui/scheme/Test2.tb_scheme
+[WARN :mock : 618640.042]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.042]	no loader config for asset	tb_scheme	ui/scheme/Test.tb_scheme
+[WARN :mock : 618640.042]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.042]	no loader config for asset	tb_scheme	ui/scheme/TitleMenu.tb_scheme
+[LOG  :mock : 618640.046]	loading	ui/mrpg/MRPGMenu.ui_style
+[LOG  :mock : 618640.046]	   0.000 /   0.004 -> Time elapsed <ui_style_load_assets>
+   0.000 /   0.000 -> Time elapsed <ui_style_sort_tags>
+   0.001 /   0.014 -> Time elapsed <ui_style_build_tags>
+TEXTURE: '+'        512k = 233.77MB < anim/obj/Bomb.msprite/Bomb_texture
+TEXTURE: '+'          1k = 233.77MB < ui/mrpg/img/ButtonScores.psd
+TEXTURE: '+'          1k = 233.77MB < ui/mrpg/img/ButtonPowerOff.psd
+TEXTURE: '+'          0k = 233.77MB < ui/mrpg/img/ButtonStart.psd
+TEXTURE: '+'          0k = 233.77MB < ui/mrpg/img/ButtonManual.psd
+[LOG  :mock : 618640.076]	   0.003 /   0.058 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.092]	   0.010 /   0.067 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.098]	   0.003 /   0.071 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.099]	   0.000 /   0.071 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.100]	   0.000 /   0.072 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.101]	   0.000 /   0.072 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.103]	   0.001 /   0.073 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.106]	   0.002 /   0.074 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.110]	   0.002 /   0.077 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618640.111]	   0.000 /   0.077 -> Time elapsed <animator_data_load_deserialization>
+TEXTURE: '+'         64k = 233.83MB < ui/52b3f58ba6750beeb091a091e1f53342/decks_n.hmg
+TEXTURE: '+'         64k = 233.90MB < ui/52b3f58ba6750beeb091a091e1f53342/decks.hmg
+TEXTURE: '+'          0k = 233.90MB < ui/mrpg/img/Castle.png
+TEXTURE: '+'       3600k = 237.41MB < ui/johnhouse.png
+TEXTURE: '+'          0k = 237.41MB < ui/mrpg/img/ManualInterval.psd
+TEXTURE: '+'          0k = 237.41MB < ui/mrpg/img/Inn.png
+TEXTURE: '+'          6k = 237.42MB < ui/mrpg/img/Name.psd
+TEXTURE: '+'       2048k = 239.42MB < @texture_pack/MiniStory/tex_0
+TEXTURE: '+'          1k = 239.42MB < ui/mrpg/img/ButtonScreen.psd
+TEXTURE: '+'          1k = 239.42MB < ui/mrpg/img/ButtonRestart.psd
+TEXTURE: '+'         81k = 239.50MB < ui/mrpg/img/Frame.psd
+TEXTURE: '+'          0k = 239.50MB < ui/mrpg/img/MapAnchorBox.png
+TEXTURE: '+'          0k = 239.50MB < ui/mrpg/img/Flag.png
+TEXTURE: '+'          0k = 239.50MB < ui/mrpg/img/Cursor.psd
+TEXTURE: '+'          0k = 239.50MB < ui/mrpg/img/Cave.png
+TEXTURE: '+'         46k = 239.55MB < texture/shadow/ShadowTreeC.png
+TEXTURE: '+'        584k = 240.12MB < texture/shadow/ShadowCloud.png
+TEXTURE: '+'         28k = 240.15MB < texture/shadow/ShadowTunnelB.png
+TEXTURE: '+'          0k = 240.15MB < ui/mrpg/img/Boss.png
+TEXTURE: '+'          0k = 240.15MB < ui/mrpg/img/Cursor.png
+TEXTURE: '+'         64k = 240.21MB < texture/shadow/Rect.png
+TEXTURE: '+'        351k = 240.55MB < ui/mrpg/img/EnergyBlur.png
+TEXTURE: '+'         28k = 240.58MB < texture/shadow/GradientVD.png
+TEXTURE: '+'         17k = 240.60MB < texture/shadow/Shadow-Truck.png
+TEXTURE: '+'         64k = 240.66MB < texture/shadow/ShadowTube.psd
+TEXTURE: '+'        166k = 240.82MB < texture/shadow/ShadowCloudC.png
+TEXTURE: '+'        128k = 240.95MB < texture/shadow/ShadowTubeR.psd
+TEXTURE: '+'         28k = 240.97MB < texture/shadow/GraidentHR.png
+TEXTURE: '+'         28k = 241.00MB < texture/shadow/ShadowTunnelA.png
+TEXTURE: '+'         15k = 241.02MB < texture/shadow/ShadowCornerB.psd
+TEXTURE: '+'         28k = 241.05MB < texture/shadow/GraidentHL.png
+TEXTURE: '+'         28k = 241.07MB < texture/shadow/ShadowTunnelC.png
+TEXTURE: '+'         48k = 241.12MB < texture/shadow/BoatShadow.psd
+TEXTURE: '+'          4k = 241.12MB < texture/shadow/TrainWindowDirt.psd
+TEXTURE: '+'         16k = 241.14MB < texture/shadow/ShadowDesCrate.png
+TEXTURE: '+'         56k = 241.20MB < texture/shadow/CrystalTest1.psd
+TEXTURE: '+'        522k = 241.71MB < texture/shadow/dam/DragonGate.png
+TEXTURE: '+'       1024k = 242.71MB < texture/shadow/dam/PlumSceneShadow.psd
+TEXTURE: '+'        512k = 243.21MB < page 0 - E:/game/Eastward/content/game/ttf/fec8f99c3c7dfc688dbaa0d9002fb17f (000001DE53A7C800)
+TEXTURE: '+'         28k = 243.23MB < texture/shadow/GradientVU.png
+TEXTURE: '+'         21k = 243.25MB < texture/shadow/ShadowCrabTest.png
+TEXTURE: '+'         64k = 243.32MB < texture/shadow/ShadowCornerA.png
+TEXTURE: '+'         16k = 243.33MB < texture/shadow/BlackShadow3.psd
+TEXTURE: '+'        512k = 243.83MB < anim/fx/Hits.msprite/Hits_texture
+[WARN :mock : 618640.242]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.242]	no loader config for asset	file	shader/convertLegacyShader.py
+[WARN :mock : 618640.251]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.251]	no loader config for asset	file	shader/addVariants.py
+[WARN :mock : 618640.271]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:932
+[WARN :mock : 618640.271]	no loader config for asset	file	shader/convertShader.py
+TEXTURE: '+'         15k = 243.85MB < texture/shadow/ShadowCornerA.psd
+TEXTURE: '+'         64k = 243.91MB < texture/shadow/ShadowDiamond.psd
+TEXTURE: '+'        256k = 244.16MB < texture/shadow/DockHouse.psd
+TEXTURE: '+'         64k = 244.22MB < gfx/324a76b80ee7378dbaa909375c6436a2/decks.hmg
+TEXTURE: '+'         40k = 244.26MB < texture/shadow/ShadowRectV.png
+TEXTURE: '+'        120k = 244.38MB < texture/shadow/CablePole.png
+TEXTURE: '+'         64k = 244.44MB < texture/mask/NoiseRadialCircle.png
+TEXTURE: '+'        465k = 244.90MB < texture/shadow/TreeShadowD.png
+[LOG  :mock : 618640.288]	preload done
+TEXTURE: '+'         77k = 244.97MB < texture/shadow/TreeShadowA.png
+TEXTURE: '+'         47k = 245.02MB < texture/shadow/ShadowTreeA.png
+TEXTURE: '+'        225k = 245.24MB < texture/shadow/ShadowEel.png
+TEXTURE: '+'        179k = 245.41MB < texture/shadow/ShadowCloudB.png
+TEXTURE: '+'         64k = 245.48MB < texture/shadow/ShadowArc.psd
+TEXTURE: '+'         64k = 245.54MB < gfx/324a76b80ee7378dbaa909375c6436a2/decks_n.hmg
+TEXTURE: '+'         46k = 245.58MB < texture/shadow/ShadowTreeB.png
+[LOG  :mock : 618641.305]	boost loading	1
+[LOG  :mock : 618641.306]	use resource group	false	false
+[LOG  :mock : 618641.354]	loading scene:	scene/ui/FilterSelect.scene
+[LOG  :mock : 618641.354]	loaded dep asset:	8
+[LOG  :mock : 618641.354]	   0.048 /   0.141 -> Time elapsed <scene_load>
+   0.019 /   0.026 -> Time elapsed <scene_load_struct>
+   0.003 /   0.010 -> Time elapsed <loadscene_insert_entity>
+   0.011 /   0.061 -> Time elapsed <scene_load_dependency>
+   0.018 /   0.054 -> Time elapsed <scene_load_deserialization>
+   0.014 /   0.032 -> Time elapsed <scene_load_deserialize_data>
+TEXTURE: '-'          0k = 245.58MB < 
+[LOG  :mock : 618641.495]	boost loading	0
+TEXTURE: '-'          0k = 245.58MB < 
+TEXTURE: '-'          0k = 245.58MB < 
+[LOG  :mock : 618641.496]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618641.496]	   0.001 /   0.001 -> Time elapsed <scene optimization>
+[LOG  :mock : 618641.496]	   0.001 /   0.001 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618641.496]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618641.496]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618641.496]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618641.496]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+[WARN :mock : 618641.496]	@/Volumes/prj/moai/eastward/game/asset/script/map/EWMapManager.lua:815
+[WARN :mock : 618641.496]	no SceneStartPoint found
+[LOG  :mock : 618641.497]	global sq count	17
+[LOG  :mock : 618641.497]	   0.001 /   0.162 -> Time elapsed <sq_global_script>
+[ERROR:mock : 618641.497]	no input category	main
+[ERROR:mock : 618641.497]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618641.497]	@/Volumes/prj/moai/eastward/game/asset/script/map/EWMapManager.lua:1025
+[LOG  :mock : 618641.538]	hero ready!
+[LOG  :mock : 618641.539]	boost loading	1
+[LOG  :mock : 618641.541]	use resource group	false	false
+[LOG  :mock : 618641.881]	loading scene:	scene/design/ui/Logo.scene
+[LOG  :mock : 618641.881]	loaded dep asset:	23
+[LOG  :mock : 618641.881]	   0.339 /   0.480 -> Time elapsed <scene_load>
+   0.003 /   0.029 -> Time elapsed <scene_load_struct>
+   0.003 /   0.013 -> Time elapsed <loadscene_insert_entity>
+   0.126 /   0.187 -> Time elapsed <scene_load_dependency>
+   0.210 /   0.264 -> Time elapsed <scene_load_deserialization>
+   0.191 /   0.223 -> Time elapsed <scene_load_deserialize_data>
+TEXTURE: '-'       2048k = 243.58MB < anim/fx/Fire.msprite/Fire_texture
+[LOG  :mock : 618641.993]	boost loading	0
+[LOG  :mock : 618642.615]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618642.615]	   0.000 /   0.001 -> Time elapsed <scene optimization>
+[LOG  :mock : 618642.615]	   0.000 /   0.001 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618642.615]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618642.615]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618642.615]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618642.615]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'        625k = 244.19MB < texture/title/CFLogo2.png
+TEXTURE: '+'       1024k = 245.19MB < texture/title/MOAILogo.png
+TEXTURE: '+'        625k = 245.80MB < texture/title/PXP400.png
+TEXTURE: '+'       1024k = 246.80MB < page 0 - E:/game/Eastward/content/game/ttf/e1f55a554a079adc3efab482276e7570 (000001DE53A7DE90)
+TEXTURE: '+'       1024k = 247.80MB < page 0 - E:/game/Eastward/content/game/ttf/3a49802523ac8ec37f3901f417912c13 (000001DE53A7C6D0)
+TEXTURE: '+'        512k = 248.30MB < page 0 - E:/game/Eastward/content/game/ttf/b456bf4c5a7bf0dfb0b352cba96887fc (000001DE53A7DFC0)
+TEXTURE: '+'        512k = 248.80MB < page 0 - E:/game/Eastward/content/game/ttf/d8f9554544e7bed2ce70470c4e342b7a (000001DE53A7E220)
+TEXTURE: '+'         67k = 248.87MB < texture/title/CFLogoText2.png
+TEXTURE: '+'        304k = 249.17MB < texture/large/RecommendJoystick.psd
+TEXTURE: '+'        625k = 249.78MB < texture/title/PXPCN_400.png
+TEXTURE: '+'       1024k = 250.78MB < texture/title/GiiLogo.png
+TEXTURE: '+'       3600k = 254.29MB < texture/large/RecommendJoystickBG.psd
+TEXTURE: '+'         71k = 254.36MB < texture/mask/WarnMark.psd
+TEXTURE: '+'        655k = 255.00MB < texture/title/XD.png
+[ERROR:mock : 618642.623]	no input category	main
+[ERROR:mock : 618642.623]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618642.623]	@/Volumes/prj/moai/eastward/game/asset/script/ui/LogoSceneController.lua:35
+[LOG  :mock : 618642.625]	boost loading	1
+[LOG  :mock : 618642.635]	loading scene:	scene/design/ui/F_Overlay.scene
+[LOG  :mock : 618642.635]	loaded dep asset:	18
+[LOG  :mock : 618642.635]	   0.009 /   0.489 -> Time elapsed <scene_load>
+   0.000 /   0.029 -> Time elapsed <scene_load_struct>
+   0.002 /   0.015 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.187 -> Time elapsed <scene_load_dependency>
+   0.009 /   0.273 -> Time elapsed <scene_load_deserialization>
+   0.002 /   0.226 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618642.635]	boost loading	0
+[WARN :mock : 618642.638]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618642.638]	Animator has no clip	default	<EmbedAnimator:0x43bf0b60>@UIGP_Chapter @Overlay
+[WARN :mock : 618642.640]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618642.640]	Animator has no clip	default	<EmbedAnimator:0x43e426f8>@UIGP_Overlay/GP_NotifyDialogOld @Overlay
+TEXTURE: '+'       1014k = 255.99MB < texture/title/XDLogo.png
+TEXTURE: '-'        512k = 255.49MB < page 0 - E:/game/Eastward/content/game/ttf/fec8f99c3c7dfc688dbaa0d9002fb17f (000001DE53A7C800)
+TEXTURE: '+'       1024k = 256.49MB < page 0 - E:/game/Eastward/content/game/ttf/fec8f99c3c7dfc688dbaa0d9002fb17f (000001DE53A7C800)
+TEXTURE: '-'        512k = 255.99MB < page 0 - E:/game/Eastward/content/game/ttf/3bed7d7223fb8b4f08dfffbd88a97462 (000001DE47A6ECF0)
+TEXTURE: '+'       1024k = 256.99MB < page 0 - E:/game/Eastward/content/game/ttf/3bed7d7223fb8b4f08dfffbd88a97462 (000001DE47A6ECF0)
+[LOG  :mock : 618663.382]	boost loading	1
+[LOG  :mock : 618663.384]	use resource group	false	false
+[LOG  :mock : 618663.493]	loading scene:	scene/design/ui/PV.scene
+[LOG  :mock : 618663.493]	loaded dep asset:	10
+[LOG  :mock : 618663.493]	   0.109 /   0.599 -> Time elapsed <scene_load>
+   0.018 /   0.047 -> Time elapsed <scene_load_struct>
+   0.015 /   0.030 -> Time elapsed <loadscene_insert_entity>
+   0.061 /   0.248 -> Time elapsed <scene_load_dependency>
+   0.030 /   0.304 -> Time elapsed <scene_load_deserialization>
+   0.000 /   0.242 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618663.606]	boost loading	0
+TEXTURE: '-'        625k = 256.38MB < texture/title/CFLogo2.png
+TEXTURE: '-'        625k = 255.77MB < texture/title/PXPCN_400.png
+TEXTURE: '-'        304k = 255.47MB < texture/large/RecommendJoystick.psd
+TEXTURE: '-'       1014k = 254.48MB < texture/title/XDLogo.png
+TEXTURE: '-'        655k = 253.84MB < texture/title/XD.png
+TEXTURE: '-'         71k = 253.78MB < texture/mask/WarnMark.psd
+TEXTURE: '-'        625k = 253.16MB < texture/title/PXP400.png
+[LOG  :mock : 618663.606]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618663.606]	   0.000 /   0.001 -> Time elapsed <scene optimization>
+[LOG  :mock : 618663.606]	   0.000 /   0.001 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618663.606]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618663.606]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618663.606]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618663.606]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'        512k = 253.66MB < page 0 - E:/game/Eastward/content/game/font/66c3691fe63539aeb1966d2140374d32 (000001DE53A7E0F0)
+TEXTURE: '+'          0k = 253.66MB < 
+TEXTURE: '+'         96k = 253.76MB < font/EWDialog.png
+TEXTURE: '+'         64k = 253.82MB < font/rocketcond.png
+TEXTURE: '+'         96k = 253.91MB < font/nokia.png
+TEXTURE: '+'        320k = 254.23MB < font/ComicOutline.png
+TEXTURE: '+'       2700k = 256.86MB < 
+[LOG  :mock : 618671.890]	boost loading	1
+[LOG  :mock : 618671.892]	use resource group	false	false
+[LOG  :mock : 618671.913]	   0.002 /   0.079 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618671.933]	   0.002 /   0.080 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618672.090]	loading scene:	scene/ui/TitleMural.scene
+[LOG  :mock : 618672.090]	loaded dep asset:	16
+[LOG  :mock : 618672.090]	   0.198 /   0.797 -> Time elapsed <scene_load>
+   0.012 /   0.060 -> Time elapsed <scene_load_struct>
+   0.008 /   0.073 -> Time elapsed <loadscene_insert_entity>
+   0.029 /   0.277 -> Time elapsed <scene_load_dependency>
+   0.156 /   0.460 -> Time elapsed <scene_load_deserialization>
+   0.004 /   0.356 -> Time elapsed <scene_load_deserialize_data>
+TEXTURE: '-'         67k = 256.80MB < texture/title/CFLogoText2.png
+[LOG  :mock : 618672.272]	boost loading	0
+TEXTURE: '-'          0k = 256.80MB < 
+[LOG  :mock : 618672.276]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618672.276]	   0.001 /   0.002 -> Time elapsed <scene optimization>
+[LOG  :mock : 618672.276]	   0.001 /   0.002 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618672.276]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618672.276]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618672.276]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618672.276]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          0k = 256.80MB < texture/OffscreenFull.render_target
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'          0k = 256.80MB < 
+TEXTURE: '+'       2115k = 258.86MB < texture/title/Mural/MuralLightCenter.png
+TEXTURE: '+'       7505k = 266.19MB < texture/title/Mural/MuralLight.png
+TEXTURE: '+'       7505k = 273.52MB < texture/title/Mural/MuralColor.png
+[LOG  :mock : 618672.305]	boost loading	1
+[LOG  :mock : 618672.315]	loading scene:	scene/design/ui/F_Overlay.scene
+[LOG  :mock : 618672.315]	loaded dep asset:	18
+[LOG  :mock : 618672.315]	   0.009 /   0.806 -> Time elapsed <scene_load>
+   0.000 /   0.060 -> Time elapsed <scene_load_struct>
+   0.002 /   0.075 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.277 -> Time elapsed <scene_load_dependency>
+   0.009 /   0.469 -> Time elapsed <scene_load_deserialization>
+   0.003 /   0.359 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618672.315]	boost loading	0
+[ERROR:mock : 618672.315]	no input category	main
+[ERROR:mock : 618672.315]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618672.315]	@/Volumes/prj/moai/eastward/game/asset/script/ui/TitleCoverController.lua:45
+[LOG  :mock : 618672.315]	sending startmessage	Setvalue	SQManager
+[WARN :mock : 618672.322]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618672.322]	Animator has no clip	default	<EmbedAnimator:0x436a06b8>@UIGP_Chapter @Overlay
+[WARN :mock : 618672.324]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618672.324]	Animator has no clip	default	<EmbedAnimator:0x485e9d10>@UIGP_Overlay/GP_NotifyDialogOld @Overlay
+TEXTURE: '+'       1276k = 274.77MB < texture/title/EWLogo1024.png
+TEXTURE: '+'       8192k = 282.77MB < texture/title/EWLogoCN.png
+[LOG  :mock : 618673.172]	start playing	audio.fmod/snapshot/Title	<GlobalSoundPlayerSession:0x42fea8b8>
+[LOG  :mock : 618673.172]	start playing	audio.fmod/event/music/etc/Title	<GlobalSoundPlayerSession:0x485cba68>
+[LOG  :mock : 618697.973]	boost loading	1
+[LOG  :mock : 618697.977]	use resource group	false	false
+[WARN :mock : 618698.031]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.031]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolY.png
+[WARN :mock : 618698.031]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.031]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618698.033]	   0.000 /   0.081 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618698.034]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.034]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolY.png
+[WARN :mock : 618698.034]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.034]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618698.073]	loading scene:	scene/ui/TitleMenu.scene
+[LOG  :mock : 618698.073]	loaded dep asset:	31
+[LOG  :mock : 618698.073]	   0.096 /   0.901 -> Time elapsed <scene_load>
+   0.004 /   0.063 -> Time elapsed <scene_load_struct>
+   0.029 /   0.104 -> Time elapsed <loadscene_insert_entity>
+   0.036 /   0.313 -> Time elapsed <scene_load_dependency>
+   0.057 /   0.525 -> Time elapsed <scene_load_deserialization>
+   0.000 /   0.375 -> Time elapsed <scene_load_deserialize_data>
+TEXTURE: '-'          0k = 282.77MB < 
+TEXTURE: '-'          0k = 282.77MB < 
+TEXTURE: '-'          0k = 282.77MB < 
+TEXTURE: '-'       3600k = 279.25MB < texture/large/RecommendJoystickBG.psd
+[LOG  :mock : 618698.213]	boost loading	0
+TEXTURE: '-'          0k = 279.25MB < 
+TEXTURE: '-'          0k = 279.25MB < 
+TEXTURE: '-'       7505k = 271.92MB < texture/title/Mural/MuralColor.png
+TEXTURE: '-'       2115k = 269.86MB < texture/title/Mural/MuralLightCenter.png
+TEXTURE: '-'       7505k = 262.53MB < texture/title/Mural/MuralLight.png
+TEXTURE: '-'          0k = 262.53MB < 
+[LOG  :mock : 618698.217]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618698.217]	   0.002 /   0.004 -> Time elapsed <scene optimization>
+[LOG  :mock : 618698.217]	   0.002 /   0.004 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618698.217]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618698.217]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618698.217]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618698.217]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          0k = 262.53MB < 
+TEXTURE: '+'          0k = 262.53MB < 
+TEXTURE: '+'         24k = 262.55MB < texture/large/AgeCN.png
+TEXTURE: '+'         71k = 262.62MB < texture/mask/WarnMark.psd
+TEXTURE: '+'        132k = 262.75MB < texture/test/SaveFileThumbTest.png
+TEXTURE: '+'       7505k = 270.08MB < texture/title/Mural/MuralLight2.psd
+[ERROR:mock : 618698.302]	no input category	main
+[ERROR:mock : 618698.302]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618698.302]	@/Volumes/prj/moai/eastward/game/asset/script/ui/TitleMenuController.lua:54
+[LOG  :mock : 618698.304]	boost loading	1
+[LOG  :mock : 618698.311]	loading scene:	scene/design/ui/F_Overlay.scene
+[LOG  :mock : 618698.311]	loaded dep asset:	18
+[LOG  :mock : 618698.311]	   0.007 /   0.908 -> Time elapsed <scene_load>
+   0.000 /   0.063 -> Time elapsed <scene_load_struct>
+   0.001 /   0.105 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.313 -> Time elapsed <scene_load_dependency>
+   0.007 /   0.532 -> Time elapsed <scene_load_deserialization>
+   0.002 /   0.377 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618698.311]	boost loading	0
+[LOG  :mock : 618698.312]	load game start stat
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x3e30c0b8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x46d63630>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x46eb13b8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4959d1e0>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4705fb70>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x60b17ee8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4acb3860>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x471c03b0>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4a5f36d8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4a9ff0e0>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4ac3adf8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x459826b8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x42ca60c8>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x43f234c0>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x4379bd08>
+[LOG  :mock : 618698.312]	register instruction:	<Instruction:0x48b98568>
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.494]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.494]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.494]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.502]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolB.png
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618698.502]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolB.png
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618698.502]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618698.615]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618698.615]	Animator has no clip	default	<EmbedAnimator:0x493997f0>@UIGP_Chapter @Overlay
+[WARN :mock : 618698.617]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618698.617]	Animator has no clip	default	<EmbedAnimator:0x43fd3f80>@UIGP_Overlay/GP_NotifyDialogOld @Overlay
+TEXTURE: '+'       1372k = 271.42MB < texture/title/EWLogoJP.png
+TEXTURE: '+'       8192k = 279.42MB < texture/title/EWLogoCNT.png
+TEXTURE: '-'       1024k = 278.42MB < page 0 - E:/game/Eastward/content/game/ttf/3bed7d7223fb8b4f08dfffbd88a97462 (000001DE47A6ECF0)
+TEXTURE: '+'       2048k = 280.42MB < page 0 - E:/game/Eastward/content/game/ttf/3bed7d7223fb8b4f08dfffbd88a97462 (000001DE47A6ECF0)
+TEXTURE: '+'         52k = 280.47MB < texture/ui/ChapterTitle/icon/0.png
+TEXTURE: '-'          0k = 280.47MB < 
+TEXTURE: '-'          0k = 280.47MB < texture/OffscreenFull.render_target
+[LOG  :mock : 618727.796]	boost loading	1
+[LOG  :mock : 618727.813]	use resource group	false	false
+[LOG  :mock : 618727.815]	loading scene:	scene/ui/GameEntry.scene
+[LOG  :mock : 618727.815]	loaded dep asset:	0
+[LOG  :mock : 618727.815]	   0.002 /   0.910 -> Time elapsed <scene_load>
+   0.001 /   0.064 -> Time elapsed <scene_load_struct>
+   0.001 /   0.106 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.313 -> Time elapsed <scene_load_dependency>
+   0.001 /   0.533 -> Time elapsed <scene_load_deserialization>
+   0.000 /   0.390 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618727.944]	boost loading	0
+TEXTURE: '-'       8192k = 272.47MB < texture/title/EWLogoCN.png
+TEXTURE: '-'       1276k = 271.22MB < texture/title/EWLogo1024.png
+TEXTURE: '-'         71k = 271.16MB < texture/mask/WarnMark.psd
+[LOG  :mock : 618727.947]	total merged output: 0 -> 0, 0
+[LOG  :mock : 618727.947]	   0.000 /   0.004 -> Time elapsed <scene optimization>
+[LOG  :mock : 618727.947]	   0.000 /   0.004 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618727.947]	   0.000 /   0.000 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618727.947]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618727.947]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618727.947]	   0.000 /   0.000 -> Time elapsed <scene_opti_decks>
+[LOG  :mock : 618727.947]	@root -> active
+[LOG  :mock : 618727.947]	GameStart -> active
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	Village -> active
+[LOG  :mock : 618727.947]	Village.start -> finished
+[LOG  :mock : 618727.947]	Village.Goblins -> active
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.947]	start -> finished
+[LOG  :mock : 618727.948]	load game start stat
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x42e4ab18>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x42a53020>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x43417f40>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x42b98c58>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x42797888>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x42753600>
+[LOG  :mock : 618727.948]	register instruction:	<Instruction:0x484ba0b8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x485d2060>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x485e8558>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x494de478>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x46cc67f0>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x485e1438>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x42e378b0>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x427a50d8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x5dad5f18>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49b7d1a8>
+[LOG  :mock : 618727.949]	load game start stat
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49b0fbc0>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49b6d4d8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49b9ad98>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49bc77f8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49bfc8b8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49c2f320>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49c40430>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49c7ced8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49cb5ac0>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49cee878>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49d07fd8>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49d268f0>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49d43750>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49d78648>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49d86f48>
+[LOG  :mock : 618727.949]	register instruction:	<Instruction:0x49da0e78>
+[LOG  :mock : 618727.971]	boost loading	1
+[LOG  :mock : 618727.972]	use resource group	sand_town	<ResourceHolder:0x42e02170>(preloadsand_town)
+[LOG  :mock : 618728.030]	   0.001 /   0.082 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.044]	   0.000 /   0.082 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.100]	   0.000 /   0.082 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.229]	   0.000 /   0.083 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.735]	   0.000 /   0.083 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618728.755]	@/Volumes/prj/moai/eastward/game/lib/mock/common/SceneAsset.lua:1067
+[WARN :mock : 618728.755]	prefab instance not found in objMap:1e580fa4202711eca9be408d5c91574f
+[LOG  :mock : 618728.831]	   0.001 /   0.084 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.875]	   0.001 /   0.085 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.887]	   0.001 /   0.086 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618728.930]	init camera pass	<EWCameraPass:0x4d4ba710>
+[LOG  :mock : 618729.033]	loading scene:	scene/design/env/Sand/Town/SandTown_Town_Middle.scene
+[LOG  :mock : 618729.033]	loaded dep asset:	197
+[LOG  :mock : 618729.033]	   1.061 /   1.971 -> Time elapsed <scene_load>
+   0.030 /   0.094 -> Time elapsed <scene_load_struct>
+   0.036 /   0.202 -> Time elapsed <loadscene_insert_entity>
+   0.452 /   0.765 -> Time elapsed <scene_load_dependency>
+   0.578 /   1.111 -> Time elapsed <scene_load_deserialization>
+   0.051 /   0.597 -> Time elapsed <scene_load_deserialize_data>
+TEXTURE: '-'          0k = 271.16MB < 
+TEXTURE: '-'       8192k = 263.16MB < texture/title/EWLogoCNT.png
+TEXTURE: '-'       1372k = 261.82MB < texture/title/EWLogoJP.png
+TEXTURE: '-'        132k = 261.69MB < texture/test/SaveFileThumbTest.png
+TEXTURE: '-'       7505k = 254.36MB < texture/title/Mural/MuralLight2.psd
+TEXTURE: '-'       1024k = 253.36MB < texture/title/MOAILogo.png
+TEXTURE: '-'       1024k = 252.36MB < texture/title/GiiLogo.png
+[LOG  :mock : 618729.319]	boost loading	0
+[LOG  :mock : 618729.330]	total merged output: 354 -> 50, 4248
+[LOG  :mock : 618729.330]	   0.010 /   0.014 -> Time elapsed <scene optimization>
+[LOG  :mock : 618729.330]	   0.002 /   0.006 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618729.330]	   0.000 /   0.001 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618729.330]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618729.330]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618729.330]	   0.004 /   0.008 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          0k = 252.36MB < solid
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'          0k = 252.36MB < 
+TEXTURE: '+'       1024k = 253.36MB < gfx_main/b500111c5c094be0de0465564149a0cb/decks.hmg
+TEXTURE: '+'       1024k = 254.36MB < gfx_main/b500111c5c094be0de0465564149a0cb/decks_n.hmg
+TEXTURE: '+'       2048k = 256.36MB < gfx_main/8c73126dfa55463a08e828b1659a1a26/decks_n.hmg
+TEXTURE: '+'       4096k = 260.36MB < asset/436fa3d0697d2a584c80548bb27a9127/decks.hmg
+TEXTURE: '+'       4096k = 264.36MB < asset/436fa3d0697d2a584c80548bb27a9127/decks_n.hmg
+TEXTURE: '+'       2048k = 266.36MB < gfx_main/8c73126dfa55463a08e828b1659a1a26/decks.hmg
+TEXTURE: '+'       8192k = 274.36MB < gfx_main/953f8f78b79df0e761b71b8a160f151c/decks.hmg
+TEXTURE: '+'       8192k = 282.36MB < gfx_main/953f8f78b79df0e761b71b8a160f151c/decks_n.hmg
+TEXTURE: '+'         25k = 282.38MB < texture/decal-light/Env/Dam/FenceOldTownShadowH.psd
+TEXTURE: '+'          1k = 282.38MB < user/oRan/glow_gamerflash.png
+TEXTURE: '+'       4096k = 286.38MB < gfx_main/56c91e84002ad283b472815e9ebf2a10/decks.hmg
+TEXTURE: '+'          3k = 286.39MB < user/oRan/glow_gamer.png
+TEXTURE: '+'       1024k = 287.39MB < anim/env/Sand/SandTown.msprite/SandTown_texture
+TEXTURE: '+'       4096k = 291.39MB < gfx_main/56c91e84002ad283b472815e9ebf2a10/decks_n.hmg
+TEXTURE: '+'       8192k = 299.39MB < gfx_main/162be58ccc07e42b05be8033c789c78b/decks_n.hmg
+TEXTURE: '+'       8192k = 307.39MB < gfx_main/162be58ccc07e42b05be8033c789c78b/decks.hmg
+[LOG  :mock : 618729.557]	init default stat
+[LOG  :mock : 618729.557]	player mode change
+[LOG  :mock : 618729.565]	init default stat
+[LOG  :mock : 618729.565]	player mode change
+[LOG  :mock : 618729.565]	sam face	normal	normal
+[LOG  :mock : 618729.565]	from SQ or default
+[LOG  :mock : 618729.565]	apply DEFAULT visual config
+[LOG  :mock : 618729.575]	global sq count	23
+[LOG  :mock : 618729.575]	   0.001 /   0.162 -> Time elapsed <sq_global_script>
+[LOG  :mock : 618729.575]	boost loading	1
+[LOG  :mock : 618729.638]	   0.001 /   0.087 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618729.641]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.641]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolY.png
+[WARN :mock : 618729.641]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.641]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618729.643]	   0.000 /   0.087 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618729.649]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.649]	no asset found	texture/test/TestMapGreenBig.psd
+[WARN :mock : 618729.649]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.649]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.651]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.651]	no asset found	texture/test/TestMapGreenBig.psd
+[WARN :mock : 618729.651]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.651]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618729.709]	loading scene:	scene/design/ui/F_Menu.scene
+[LOG  :mock : 618729.709]	loaded dep asset:	87
+[LOG  :mock : 618729.709]	   0.134 /   2.104 -> Time elapsed <scene_load>
+   0.025 /   0.120 -> Time elapsed <scene_load_struct>
+   0.056 /   0.258 -> Time elapsed <loadscene_insert_entity>
+   0.003 /   0.768 -> Time elapsed <scene_load_dependency>
+   0.105 /   1.216 -> Time elapsed <scene_load_deserialization>
+   0.000 /   0.645 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618729.709]	boost loading	0
+[LOG  :mock : 618729.709]	boost loading	1
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.748]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.748]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618729.752]	   0.000 /   0.088 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.752]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.752]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.752]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618729.761]	loading scene:	scene/design/ui/F_FastMenu.scene
+[LOG  :mock : 618729.761]	loaded dep asset:	37
+[LOG  :mock : 618729.761]	   0.052 /   2.156 -> Time elapsed <scene_load>
+   0.031 /   0.150 -> Time elapsed <scene_load_struct>
+   0.007 /   0.265 -> Time elapsed <loadscene_insert_entity>
+   0.001 /   0.769 -> Time elapsed <scene_load_dependency>
+   0.021 /   1.237 -> Time elapsed <scene_load_deserialization>
+   0.009 /   0.654 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618729.761]	boost loading	0
+[LOG  :mock : 618729.761]	boost loading	1
+[WARN :mock : 618729.788]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.788]	no asset found	texture/ui/icon/IconItem/Icon_SandBox2.png
+[WARN :mock : 618729.788]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.788]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.789]	no asset found	texture/ui/icon/IconItem/Icon_Gas.png
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.789]	no asset found	texture/ui/icon/IconItem/Icon_Gas.png
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.789]	no asset found	texture/ui/icon/IconItem/Icon_Gas.png
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.789]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.790]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolB.png
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.790]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.790]	no asset found	texture/ui/icon/IconItem/Icon_Gas.png
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.790]	no asset found	texture/ui/icon/IconItem/Icon_Gas.png
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.790]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618729.826]	   0.001 /   0.089 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618729.837]	loading scene:	scene/design/ui/F_Cook.scene
+[LOG  :mock : 618729.837]	loaded dep asset:	51
+[LOG  :mock : 618729.837]	   0.076 /   2.232 -> Time elapsed <scene_load>
+   0.021 /   0.172 -> Time elapsed <scene_load_struct>
+   0.000 /   0.274 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.769 -> Time elapsed <scene_load_dependency>
+   0.055 /   1.291 -> Time elapsed <scene_load_deserialization>
+   0.014 /   0.696 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618729.838]	boost loading	0
+[LOG  :mock : 618729.838]	boost loading	1
+[LOG  :mock : 618729.849]	loading scene:	scene/design/ui/F_Store.scene
+[LOG  :mock : 618729.849]	loaded dep asset:	22
+[LOG  :mock : 618729.849]	   0.011 /   2.243 -> Time elapsed <scene_load>
+   0.003 /   0.175 -> Time elapsed <scene_load_struct>
+   0.004 /   0.278 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   0.769 -> Time elapsed <scene_load_dependency>
+   0.008 /   1.299 -> Time elapsed <scene_load_deserialization>
+   0.002 /   0.698 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618729.849]	boost loading	0
+[LOG  :mock : 618729.849]	boost loading	1
+[LOG  :mock : 618729.913]	   0.001 /   0.090 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618729.924]	   0.001 /   0.090 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618729.941]	loading scene:	scene/design/ui/F_GashaMachine.scene
+[LOG  :mock : 618729.941]	loaded dep asset:	60
+[LOG  :mock : 618729.941]	   0.092 /   2.335 -> Time elapsed <scene_load>
+   0.027 /   0.201 -> Time elapsed <scene_load_struct>
+   0.011 /   0.300 -> Time elapsed <loadscene_insert_entity>
+   0.014 /   0.783 -> Time elapsed <scene_load_dependency>
+   0.051 /   1.350 -> Time elapsed <scene_load_deserialization>
+   0.000 /   0.717 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618729.941]	boost loading	0
+[LOG  :mock : 618729.941]	boost loading	1
+[WARN :mock : 618729.998]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618729.998]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618729.998]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618729.998]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618730.005]	   0.001 /   0.091 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618730.005]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618730.005]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618730.005]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618730.005]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618730.007]	   0.001 /   0.093 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618730.020]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618730.020]	no asset found	texture/ui/ButtonSymbol/ButtonSymbolA.png
+[WARN :mock : 618730.020]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618730.020]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[LOG  :mock : 618730.056]	loading scene:	scene/design/ui/F_HUD.scene
+[LOG  :mock : 618730.056]	loaded dep asset:	82
+[LOG  :mock : 618730.056]	   0.114 /   2.449 -> Time elapsed <scene_load>
+   0.018 /   0.219 -> Time elapsed <scene_load_struct>
+   0.024 /   0.324 -> Time elapsed <loadscene_insert_entity>
+   0.031 /   0.814 -> Time elapsed <scene_load_dependency>
+   0.066 /   1.415 -> Time elapsed <scene_load_deserialization>
+   0.034 /   0.751 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618730.056]	boost loading	0
+[ERROR:mock : 618730.056]	no input category	main
+[ERROR:mock : 618730.056]	@/Volumes/prj/moai/eastward/game/lib/mock/common/InputListener.lua:83
+[ERROR:mock : 618730.056]	@/Volumes/prj/moai/eastward/game/asset/script/map/EWMapManager.lua:1025
+[LOG  :mock : 618730.063]	using MOUSE mode:	normal
+[LOG  :mock : 618730.165]	using MOUSE mode:	normal
+[LOG  :mock : 618730.168]	apply DEFAULT audio config
+[LOG  :mock : 618730.173]	sending startmessage	GameStart	SQManager
+[ERROR:mock : 618730.201]	NO command entry	false
+[ERROR:mock : 618730.201]	@/Volumes/prj/moai/eastward/game/asset/script/ui/IconInputKey.lua:162
+[ERROR:mock : 618730.201]	@/Volumes/prj/moai/eastward/game/asset/script/ui/IconInputKey.lua:109
+[ERROR:mock : 618730.204]	NO command entry	false
+[ERROR:mock : 618730.204]	@/Volumes/prj/moai/eastward/game/asset/script/ui/IconInputKey.lua:162
+[ERROR:mock : 618730.204]	@/Volumes/prj/moai/eastward/game/asset/script/ui/IconInputKey.lua:89
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618730.922]	no asset found	texture/ministory/manual/0.jpg
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:901
+[WARN :mock : 618730.922]	no asset found	texture/ministory/manual/0.jpg
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/AssetLibrary.lua:902
+[WARN :mock : 618730.922]	@/Volumes/prj/moai/eastward/game/lib/mock/core/ResourceHolder.lua:93
+[WARN :mock : 618730.962]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618730.962]	Animator has no clip	default	<EmbedAnimator:0x63c04ba8>@HUD::GP_HUD/UIGP_Overlay/UI_Dialog @HUD
+[WARN :mock : 618730.962]	@/Volumes/prj/moai/eastward/game/lib/mock/animator/Animator.lua:212
+[WARN :mock : 618730.962]	Animator has no clip	default	<EmbedAnimator:0x63c88a90>@HUD::GP_HUD/UIGP_Overlay/UI_SaveConfirm @HUD
+[LOG  :mock : 618730.963]	boost loading	1
+[LOG  :mock : 618730.964]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618730.964]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618730.964]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618730.966]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+TEXTURE: '+'         16k = 307.40MB < texture/shadow-rect.png
+TEXTURE: '+'        512k = 307.90MB < anim/npc/StudentWithGlass.msprite/StudentWithGlass_texture
+TEXTURE: '+'       1024k = 308.90MB < anim/npc/Carota.msprite/Carota_texture
+TEXTURE: '+'        512k = 309.40MB < anim/npc/Hunt.msprite/Hunt_texture
+TEXTURE: '+'       8192k = 317.40MB < anim/npc/npc_sam.msprite/npc_sam_texture
+TEXTURE: '+'          0k = 317.40MB < texture/OffscreenMap.render_target
+TEXTURE: '-'       1024k = 316.40MB < page 0 - E:/game/Eastward/content/game/ttf/fa197cff72b86e6cbf4f9ff3f2225f60 (000001DE47A6F540)
+TEXTURE: '+'       2048k = 318.40MB < page 0 - E:/game/Eastward/content/game/ttf/fa197cff72b86e6cbf4f9ff3f2225f60 (000001DE47A6F540)
+TEXTURE: '+'          0k = 318.40MB < texture/overlay-scanline.png
+TEXTURE: '+'       8192k = 326.40MB < texture/ministory/manual/maingame/Instruction.msprite/Instruction_texture
+TEXTURE: '+'          3k = 326.41MB < texture/test/foods/crab.png
+TEXTURE: '+'        256k = 326.66MB < @texture_pack/foods/tex_0
+TEXTURE: '+'         17k = 326.67MB < texture/test/cook/CookShowPan.png
+TEXTURE: '+'         44k = 326.72MB < texture/test/cook/CookShowStove.png
+TEXTURE: '+'         27k = 326.74MB < texture/Character/Carota_avatar.png
+TEXTURE: '+'         15k = 326.76MB < texture/Character/Hunt_avatar.png
+TEXTURE: '+'         15k = 326.77MB < texture/Character/Glass_avatar.png
+TEXTURE: '+'       1024k = 327.77MB < anim/fx/Gashapon.msprite/Gashapon_texture
+TEXTURE: '+'          0k = 327.77MB < texture/GameScreenBlackBlend.render_target
+TEXTURE: '+'          0k = 327.77MB < texture/UIBackdropTexture.render_target
+TEXTURE: '+'          0k = 327.77MB < texture/GameScreenBlack.render_target
+TEXTURE: '+'          0k = 327.77MB < texture/GameScreenBlackB.render_target
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'          0k = 327.77MB < 
+TEXTURE: '+'        128k = 327.90MB < gfx/017135182b6ae851131015f5fa7a871c/decks.hmg
+TEXTURE: '+'        128k = 328.02MB < gfx/017135182b6ae851131015f5fa7a871c/decks_n.hmg
+TEXTURE: '+'        630k = 328.64MB < texture/challenge/js.png
+TEXTURE: '+'        900k = 329.52MB < texture/test/damtest4.png
+TEXTURE: '+'       1786k = 331.26MB < texture/ministory/TVCase.psd
+TEXTURE: '+'        864k = 332.11MB < texture/placeholder/scene_sample.png
+TEXTURE: '+'          4k = 332.11MB < texture/icon/sound.png
+TEXTURE: '+'        480k = 332.58MB < font/ArialOutline.png
+[LOG  :mock : 618731.490]	boost loading	0
+[LOG  :mock : 618731.506]	hero ready!
+[LOG  :mock : 618731.506]	found companion	<Creature:0x5da5f0a8>(John)CH_Hero
+[LOG  :mock : 618731.506]	found companion	<Creature:0x60ec6460>(Sam)CH_Sam
+[LOG  :mock : 618731.508]	boost loading	1
+[LOG  :mock : 618731.508]	boost loading	0
+[WARN :mock : 618731.510]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618731.510]	Hero has no weapon
+[WARN :mock : 618731.511]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618731.511]	Hero has no weapon
+[ERROR:mock : 618731.511]	error opening file	SQFF.txt
+[ERROR:mock : 618731.511]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618731.511]	@/Volumes/prj/moai/eastward/game/asset/script/sq/EWSQNodeCutscene.lua:48
+[LOG  :mock : 618731.511]	start playing	audio.fmod/event/music/ambient/AmbientWait	<GlobalSoundPlayerSession:0x485cbc70>
+[LOG  :mock : 618731.512]	start playing	audio.fmod/snapshot/MusicOnly	<GlobalSoundPlayerSession:0x4aa51be8>
+[LOG  :mock : 618731.522]	scene start point fade in!!!!
+[LOG  :mock : 618731.522]	skip fade in
+[LOG  :mock : 618731.525]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618731.525]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618731.525]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618731.525]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618731.605]	apply custom audio config	<EWMapAudioConfig:0x65dbd738>@_DefaultAudioConfig @main
+[LOG  :mock : 618731.605]	start playing	audio.fmod/event/ambient/town/SandTown	<GlobalSoundPlayerSession:0x42fea8b8>
+[WARN :mock : 618755.688]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618755.688]	msprite animation clip not found:	all:wait	anim/npc/Hunt.msprite
+[WARN :mock : 618755.688]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:204
+[WARN :mock : 618755.688]	no msprite clip named	all:wait	in	anim/npc/Hunt.msprite
+[LOG  :mock : 618759.954]	start playing	audio.fmod/event/music/Slient	<GlobalSoundPlayerSession:0x485cbc70>
+[LOG  :mock : 618759.954]	start playing	audio.fmod/snapshot/Dungeon/Normal	<GlobalSoundPlayerSession:0x4aa51be8>
+[LOG  :mock : 618830.449]	boost loading	1
+[LOG  :mock : 618830.458]	use resource group	sand_town	<ResourceHolder:0x42e02170>(preloadsand_town)
+[LOG  :mock : 618830.520]	   0.010 /   0.103 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618830.525]	   0.000 /   0.103 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618830.536]	   0.001 /   0.104 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618830.571]	   0.001 /   0.104 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618830.614]	   0.010 /   0.114 -> Time elapsed <animator_data_load_deserialization>
+[WARN :mock : 618830.686]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.686]	msprite animation clip not found:	L_sam_run	anim/Sam.msprite
+[WARN :mock : 618830.690]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.690]	msprite animation clip not found:	C:shoot-S-arm3	anim/John.msprite
+[WARN :mock : 618830.690]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.690]	msprite animation clip not found:	C:shoot-S-arm1	anim/John.msprite
+[WARN :mock : 618830.694]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.694]	msprite animation clip not found:	Right_run_new	anim/John.msprite
+[WARN :mock : 618830.695]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.695]	msprite animation clip not found:	C:shoot-S-arm1	anim/John.msprite
+[WARN :mock : 618830.695]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSprite.lua:385
+[WARN :mock : 618830.695]	msprite animation clip not found:	C:shoot-E-arm	anim/John.msprite
+[LOG  :mock : 618830.774]	loading scene:	scene/design/env/Sand/Town/SandTown_Room_JohnHouse.scene
+[LOG  :mock : 618830.774]	loaded dep asset:	103
+[LOG  :mock : 618830.774]	   0.316 /   2.766 -> Time elapsed <scene_load>
+   0.032 /   0.251 -> Time elapsed <scene_load_struct>
+   0.003 /   0.366 -> Time elapsed <loadscene_insert_entity>
+   0.135 /   0.950 -> Time elapsed <scene_load_dependency>
+   0.149 /   1.565 -> Time elapsed <scene_load_deserialization>
+   0.004 /   0.924 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618830.980]	boost loading	0
+[LOG  :mock : 618830.985]	total merged output: 59 -> 10, 486
+[LOG  :mock : 618830.985]	   0.003 /   0.018 -> Time elapsed <scene optimization>
+[LOG  :mock : 618830.985]	   0.002 /   0.007 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618830.985]	   0.000 /   0.001 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618830.985]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618830.985]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618830.985]	   0.001 /   0.010 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          1k = 332.58MB < texture/Character/JohnInnerArm.png
+TEXTURE: '+'         15k = 332.60MB < texture/decal-light/Env/Common/BasicWindowA.psd
+TEXTURE: '+'       2048k = 334.60MB < gfx_main/14751778a50af083e8d08b56c0d52773/decks.hmg
+TEXTURE: '+'       2048k = 336.60MB < gfx_main/14751778a50af083e8d08b56c0d52773/decks_n.hmg
+TEXTURE: '+'          1k = 336.60MB < texture/HardMask/MirrorMaskJohnHouse.psd
+TEXTURE: '+'         18k = 336.62MB < texture/decal-light/Env/Common/PassageLightSide.psd
+TEXTURE: '+'          0k = 336.62MB < texture/MirrorOffscreenJohn.render_target
+TEXTURE: '+'          0k = 336.62MB < texture/MirrorOffscreenSam.render_target
+TEXTURE: '+'         32k = 336.65MB < texture/decal-light/GradientLightHL.png
+[LOG  :mock : 618831.014]	init default stat
+[LOG  :mock : 618831.014]	player mode change
+[LOG  :mock : 618831.019]	init default stat
+[LOG  :mock : 618831.019]	player mode change
+[LOG  :mock : 618831.019]	sam face	normal	normal
+[LOG  :mock : 618831.019]	from SQ or default
+[LOG  :mock : 618831.019]	apply DEFAULT visual config
+[LOG  :mock : 618831.020]	global sq count	21
+[LOG  :mock : 618831.020]	   0.001 /   0.163 -> Time elapsed <sq_global_script>
+[LOG  :mock : 618831.024]	using MOUSE mode:	normal
+[LOG  :mock : 618831.028]	using MOUSE mode:	normal
+[LOG  :mock : 618831.032]	apply DEFAULT audio config
+[LOG  :mock : 618831.034]	sending startmessage	GameStart	SQManager
+[LOG  :mock : 618831.061]	hero ready!
+[LOG  :mock : 618831.061]	found companion	<Creature:0x42959ad0>(Sam)CH_Sam
+[LOG  :mock : 618831.061]	found companion	<Creature:0x4676dda0>(John)CH_Hero
+TEXTURE: '+'        117k = 336.76MB < user/oRan/TempCh/ToiletCover.png
+TEXTURE: '+'      16384k = 352.76MB < anim/npc/npc_john.msprite/npc_john_texture
+[LOG  :mock : 618831.072]	boost loading	1
+[LOG  :mock : 618831.072]	boost loading	0
+[WARN :mock : 618831.074]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618831.074]	Hero has no weapon
+[WARN :mock : 618831.074]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618831.074]	Hero has no weapon
+[ERROR:mock : 618831.074]	error opening file	SQFF.txt
+[ERROR:mock : 618831.074]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618831.074]	@/Volumes/prj/moai/eastward/game/asset/script/sq/EWSQNodeCutscene.lua:48
+[LOG  :mock : 618831.074]	push stat
+[LOG  :mock : 618831.090]	scene start point fade in!!!!
+[LOG  :mock : 618831.090]	skip fade in
+[LOG  :mock : 618831.107]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618831.107]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618831.107]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618831.107]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618831.156]	apply custom audio config	<EWMapAudioConfig:0x42f96388>@_DefaultAudioConfig @main
+[LOG  :mock : 618831.156]	start playing	audio.fmod/event/music/mood/HomeLike	<GlobalSoundPlayerSession:0x485cba68>
+[WARN :mock : 618831.156]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:479
+[WARN :mock : 618831.156]	event parameter not found	FromRoom
+[LOG  :mock : 618831.156]	same event, ignore
+[LOG  :mock : 618837.238]	GameStart -> finished
+[LOG  :mock : 618837.238]	Tour -> active
+[LOG  :mock : 618837.238]	Tour.start -> finished
+[LOG  :mock : 618837.238]	Sub_SlugSashimi -> active
+[LOG  :mock : 618837.238]	Sub_SlugSashimi.start -> finished
+[LOG  :mock : 618837.238]	Sub_Cemetery -> active
+[LOG  :mock : 618837.238]	Tour.Town -> active
+[LOG  :mock : 618837.238]	Sub_SlugSashimi.Boguta -> active
+[WARN :mock : 618837.405]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.405]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618837.405]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.405]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618837.405]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.405]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[WARN :mock : 618837.407]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.407]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618837.407]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.407]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618837.407]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618837.407]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[LOG  :mock : 618841.404]	start playing	audio.fmod/event/music/town/SandTown	<GlobalSoundPlayerSession:0x485cba68>
+[WARN :mock : 618841.404]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:479
+[WARN :mock : 618841.404]	event parameter not found	FromRoom
+TEXTURE: '+'         59k = 352.82MB < texture/ui/ChapterTitle/cn/0.png
+TEXTURE: '+'        162k = 352.98MB < texture/ui/ChapterTitle/cn/T0.png
+[LOG  :mock : 618852.488]	push stat	false	CH_Hero	SandTown_Town_East.JohnHouse
+[LOG  :mock : 618852.488]	wait for scene fade?
+[LOG  :mock : 618852.488]	wait for scene fade done!
+[LOG  :mock : 618852.489]	boost loading	1
+[LOG  :mock : 618852.494]	use resource group	sand_town	<ResourceHolder:0x42e02170>(preloadsand_town)
+[LOG  :mock : 618852.544]	   0.000 /   0.114 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.856]	   0.000 /   0.114 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.878]	   0.000 /   0.115 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.880]	   0.000 /   0.115 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.887]	   0.000 /   0.115 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.901]	   0.000 /   0.116 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.905]	   0.000 /   0.116 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.917]	   0.000 /   0.116 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.938]	   0.001 /   0.117 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.951]	   0.001 /   0.118 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618852.953]	   0.000 /   0.118 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618853.050]	loading scene:	scene/design/env/Sand/Town/SandTown_Town_East.scene
+[LOG  :mock : 618853.050]	loaded dep asset:	233
+[LOG  :mock : 618853.050]	   0.555 /   3.321 -> Time elapsed <scene_load>
+   0.031 /   0.282 -> Time elapsed <scene_load_struct>
+   0.040 /   0.447 -> Time elapsed <loadscene_insert_entity>
+   0.170 /   1.119 -> Time elapsed <scene_load_dependency>
+   0.355 /   1.919 -> Time elapsed <scene_load_deserialization>
+   0.012 /   1.073 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618853.320]	boost loading	0
+[LOG  :mock : 618853.343]	total merged output: 656 -> 93, 9474
+[LOG  :mock : 618853.343]	   0.020 /   0.038 -> Time elapsed <scene optimization>
+[LOG  :mock : 618853.343]	   0.004 /   0.011 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618853.343]	   0.000 /   0.003 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618853.343]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618853.343]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618853.343]	   0.012 /   0.027 -> Time elapsed <scene_opti_decks>
+TEXTURE: '+'          1k = 352.98MB < texture/glow/system/FridgeGlow.png
+TEXTURE: '+'        256k = 353.23MB < anim/env/Greenberg/ShipHouse.msprite/ShipHouse_texture
+TEXTURE: '+'       1024k = 354.23MB < anim/env/Sand/SamFound_Hole.msprite/SamFound_Hole_texture
+TEXTURE: '+'       1024k = 355.23MB < anim/env/Sand/SuperMarket.msprite/SuperMarket_texture
+TEXTURE: '+'        256k = 355.48MB < anim/npc/FarmerB.msprite/FarmerB_texture
+TEXTURE: '+'        256k = 355.73MB < anim/npc/FarmerD.msprite/FarmerD_texture
+TEXTURE: '+'        256k = 355.98MB < anim/npc/MomGlass.msprite/MomGlass_texture
+TEXTURE: '+'        512k = 356.48MB < anim/npc/Miruku.msprite/Miruku_texture
+TEXTURE: '+'        512k = 356.98MB < anim/npc/SandNeighborA.msprite/SandNeighborA_texture
+TEXTURE: '+'       1024k = 357.98MB < anim/npc/TeacherReal.msprite/TeacherReal_texture
+TEXTURE: '+'        256k = 358.23MB < anim/npc/SandTownBlock.msprite/SandTownBlock_texture
+TEXTURE: '+'        256k = 358.48MB < anim/npc/SchoolBoys.msprite/SchoolBoys_texture
+[LOG  :mock : 618853.354]	from Portal
+[LOG  :mock : 618853.354]	apply DEFAULT visual config
+[LOG  :mock : 618853.354]	saving common data
+[LOG  :mock : 618853.354]	saving map state data
+[LOG  :mock : 618853.355]	saving player data
+[LOG  :mock : 618853.357]	johnPortalId	SandTown_Town_East.JohnHouse
+[LOG  :mock : 618853.357]	samPortalId
+[LOG  :mock : 618853.357]	johnMode	manual
+[LOG  :mock : 618853.357]	samMode
+[LOG  :mock : 618853.368]	player mode change
+[LOG  :mock : 618853.369]	global sq count	27
+[LOG  :mock : 618853.369]	   0.001 /   0.164 -> Time elapsed <sq_global_script>
+[LOG  :mock : 618853.371]	using MOUSE mode:	normal
+[LOG  :mock : 618853.385]	apply DEFAULT audio config
+[LOG  :mock : 618853.392]	sending startmessage	JohnAndSam	SQManager
+[LOG  :mock : 618853.417]	hero ready!
+[LOG  :mock : 618853.417]	cannot find companion	CH_Sam
+[LOG  :mock : 618853.418]	boost loading	1
+[LOG  :mock : 618853.419]	boost loading	0
+[WARN :mock : 618853.419]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.419]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618853.419]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.419]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618853.419]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.419]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[WARN :mock : 618853.420]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618853.420]	Hero has no weapon
+[ERROR:mock : 618853.421]	error opening file	SQFF.txt
+[ERROR:mock : 618853.421]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618853.421]	@/Volumes/prj/moai/eastward/game/asset/script/sq/EWSQNodeCutscene.lua:48
+TEXTURE: '+'        512k = 358.98MB < anim/npc/OldArthur.msprite/OldArthur_texture
+[LOG  :mock : 618853.425]	scene portal fade in!!!!
+[LOG  :mock : 618853.439]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618853.439]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618853.439]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618853.439]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618853.489]	apply custom audio config	<EWMapAudioConfig:0x42992e00>@_DefaultAudioConfig @main
+[LOG  :mock : 618853.489]	same event, ignore
+[WARN :mock : 618853.489]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:479
+[WARN :mock : 618853.489]	event parameter not found	FromRoom
+[LOG  :mock : 618853.489]	same event, ignore
+[LOG  :mock : 618853.489]	start playing	audio.fmod/event/ambient/town/SandTown	<GlobalSoundPlayerSession:0x42fea8b8>
+[LOG  :mock : 618853.904]	autosave done.
+[ERROR:mock : 618853.904]	stopwatch mistached start/stop
+[ERROR:mock : 618853.904]	@/Volumes/prj/moai/eastward/game/lib/mock/tools/ProfilerHelper.lua:54
+[ERROR:mock : 618853.904]	@/Volumes/prj/moai/eastward/game/asset/script/PlayerData.lua:1430
+[LOG  :mock : 618853.904]	   0.000 /   0.000 -> Time elapsed <ew_auto_save>
+[WARN :mock : 618853.923]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.923]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618853.923]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.923]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618853.923]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618853.923]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[LOG  :mock : 618863.814]	player mode change
+[LOG  :mock : 618863.814]	sam face	normal	normal
+[LOG  :mock : 618863.814]	sam face	isolated	normal
+[LOG  :mock : 618863.814]	push stat	false	CH_Hero
+[LOG  :mock : 618863.815]	push stat	false	CH_Sam
+[LOG  :mock : 618863.826]	using MOUSE mode:	normal
+[WARN :mock : 618863.826]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618863.826]	Hero has no weapon
+[LOG  :mock : 618863.826]	found companion	<Creature:0x4a0f66b8>(John)CH_Hero
+[LOG  :mock : 618863.827]	found companion	<Creature:0x4dfbec38>(Sam)CH_Sam
+[LOG  :mock : 618863.921]	player mode change	CH_Sam	isolated	->	following
+[LOG  :mock : 618863.921]	sam face	normal	normal
+[LOG  :mock : 618863.922]	push stat	false	CH_Hero
+[LOG  :mock : 618863.922]	push stat	false	CH_Sam
+[LOG  :mock : 618864.005]	push stat	false	CH_Hero
+[LOG  :mock : 618864.005]	push stat	false	CH_Sam
+[LOG  :mock : 618864.005]	saving common data
+[LOG  :mock : 618864.005]	saving map state data
+[LOG  :mock : 618864.005]	saving player data
+[LOG  :mock : 618864.007]	autosave done.
+[ERROR:mock : 618864.007]	stopwatch mistached start/stop
+[ERROR:mock : 618864.007]	@/Volumes/prj/moai/eastward/game/lib/mock/tools/ProfilerHelper.lua:54
+[ERROR:mock : 618864.007]	@/Volumes/prj/moai/eastward/game/asset/script/PlayerData.lua:1430
+[LOG  :mock : 618864.007]	   0.000 /   0.000 -> Time elapsed <ew_auto_save>
+[WARN :mock : 618867.073]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618867.073]	Hero has no weapon
+[WARN :mock : 618867.073]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618867.074]	Hero has no weapon
+[ERROR:mock : 618867.074]	error opening file	SQFF.txt
+[ERROR:mock : 618867.074]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618867.074]	@/Volumes/prj/moai/eastward/game/asset/script/sq/EWSQNodeCutscene.lua:48
+[LOG  :mock : 618877.705]	push stat	false	CH_Hero
+[LOG  :mock : 618877.705]	push stat	false	CH_Sam
+[LOG  :mock : 618877.706]	saving common data
+[LOG  :mock : 618877.706]	saving map state data
+[LOG  :mock : 618877.706]	saving player data
+[LOG  :mock : 618890.505]	push stat	false	CH_Hero	SandTown_Town_Middle.SouthEast
+[LOG  :mock : 618890.505]	push stat	false	CH_Sam
+[LOG  :mock : 618890.505]	wait for scene fade?
+[LOG  :mock : 618890.972]	wait for scene fade done!
+[LOG  :mock : 618890.977]	boost loading	1
+[LOG  :mock : 618890.987]	use resource group	sand_town	<ResourceHolder:0x42e02170>(preloadsand_town)
+[WARN :mock : 618891.027]	@/Volumes/prj/moai/eastward/game/lib/mock/common/SceneAsset.lua:1067
+[WARN :mock : 618891.027]	prefab instance not found in objMap:1e580fa4202711eca9be408d5c91574f
+[LOG  :mock : 618891.029]	   0.000 /   0.119 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618891.082]	   0.001 /   0.120 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618891.084]	   0.000 /   0.120 -> Time elapsed <animator_data_load_deserialization>
+[LOG  :mock : 618891.117]	loading scene:	scene/design/env/Sand/Town/SandTown_Town_Middle.scene
+[LOG  :mock : 618891.117]	loaded dep asset:	197
+[LOG  :mock : 618891.117]	   0.130 /   3.451 -> Time elapsed <scene_load>
+   0.012 /   0.294 -> Time elapsed <scene_load_struct>
+   0.011 /   0.470 -> Time elapsed <loadscene_insert_entity>
+   0.000 /   1.120 -> Time elapsed <scene_load_dependency>
+   0.118 /   2.037 -> Time elapsed <scene_load_deserialization>
+   0.011 /   1.177 -> Time elapsed <scene_load_deserialize_data>
+[LOG  :mock : 618891.336]	boost loading	0
+[LOG  :mock : 618891.349]	total merged output: 354 -> 50, 4248
+[LOG  :mock : 618891.349]	   0.011 /   0.049 -> Time elapsed <scene optimization>
+[LOG  :mock : 618891.349]	   0.003 /   0.014 -> Time elapsed <scene_opti_collect>
+[LOG  :mock : 618891.349]	   0.000 /   0.003 -> Time elapsed <scene_opti_combine>
+[LOG  :mock : 618891.349]	   0.000 /   0.000 -> Time elapsed <scene_opti_process>
+[LOG  :mock : 618891.349]	   0.000 /   0.000 -> Time elapsed <scene_opti_tilemap>
+[LOG  :mock : 618891.349]	   0.004 /   0.034 -> Time elapsed <scene_opti_decks>
+[LOG  :mock : 618891.353]	from Portal
+[LOG  :mock : 618891.353]	apply DEFAULT visual config
+[LOG  :mock : 618891.353]	saving common data
+[LOG  :mock : 618891.353]	saving map state data
+[LOG  :mock : 618891.353]	saving player data
+[LOG  :mock : 618891.356]	johnPortalId	SandTown_Town_Middle.SouthEast
+[LOG  :mock : 618891.356]	samPortalId
+[LOG  :mock : 618891.356]	johnMode	manual
+[LOG  :mock : 618891.356]	samMode	following
+[LOG  :mock : 618891.371]	player mode change
+[LOG  :mock : 618891.377]	player mode change
+[LOG  :mock : 618891.377]	sam face	normal	normal
+[LOG  :mock : 618891.378]	global sq count	23
+[LOG  :mock : 618891.378]	   0.001 /   0.164 -> Time elapsed <sq_global_script>
+[LOG  :mock : 618891.379]	using MOUSE mode:	normal
+[LOG  :mock : 618891.383]	using MOUSE mode:	normal
+[LOG  :mock : 618891.393]	apply DEFAULT audio config
+[LOG  :mock : 618891.428]	hero ready!
+[LOG  :mock : 618891.428]	found companion	<Creature:0x4a3f3910>(Sam)CH_Sam
+[LOG  :mock : 618891.428]	found companion	<Creature:0x5a9fbb40>(John)CH_Hero
+TEXTURE: '+'        256k = 359.23MB < anim/npc/DeamonMask.msprite/DeamonMask_texture
+TEXTURE: '+'        512k = 359.73MB < anim/npc/CaptainTiger.msprite/CaptainTiger_texture
+TEXTURE: '+'       1024k = 360.73MB < anim/npc/FarmerA.msprite/FarmerA_texture
+[LOG  :mock : 618891.439]	boost loading	1
+[LOG  :mock : 618891.439]	boost loading	0
+[WARN :mock : 618891.442]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.442]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618891.442]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.442]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618891.442]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.442]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[LOG  :mock : 618891.458]	scene portal fade in!!!!
+[LOG  :mock : 618891.472]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618891.472]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618891.472]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618891.472]	link main camera buffer	000001DE53B28C60 <MOAIColorBufferTexture>
+[LOG  :mock : 618891.523]	apply custom audio config	<EWMapAudioConfig:0x6e034350>@_DefaultAudioConfig @main
+[LOG  :mock : 618891.523]	same event, ignore
+[WARN :mock : 618891.523]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:479
+[WARN :mock : 618891.523]	event parameter not found	FromRoom
+[LOG  :mock : 618891.523]	same event, ignore
+[LOG  :mock : 618891.523]	same event, ignore
+[WARN :mock : 618891.856]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.856]	false	no sprite:_ArmsNew._SpriteArmsS_R\MSprite[1]
+[WARN :mock : 618891.856]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.856]	false	no sprite:_ArmsNew._SpriteArmsS_L\MSprite[1]
+[WARN :mock : 618891.856]	@/Volumes/prj/moai/eastward/game/lib/mock/gfx/MSpriteAnimatorTrack.lua:173
+[WARN :mock : 618891.856]	false	no sprite:_ArmsNew._SpriteArmsS_C\MSprite[1]
+[LOG  :mock : 618891.938]	autosave done.
+[ERROR:mock : 618891.938]	stopwatch mistached start/stop
+[ERROR:mock : 618891.938]	@/Volumes/prj/moai/eastward/game/lib/mock/tools/ProfilerHelper.lua:54
+[ERROR:mock : 618891.938]	@/Volumes/prj/moai/eastward/game/asset/script/PlayerData.lua:1430
+[LOG  :mock : 618891.938]	   0.000 /   0.000 -> Time elapsed <ew_auto_save>
+[WARN :mock : 618892.955]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618892.955]	Hero has no weapon
+[WARN :mock : 618892.955]	@/Volumes/prj/moai/eastward/game/asset/script/actor/HeroController.lua:6811
+[WARN :mock : 618892.955]	Hero has no weapon
+[ERROR:mock : 618892.956]	error opening file	SQFF.txt
+[ERROR:mock : 618892.956]	@/Volumes/prj/moai/eastward/game/lib/mock/common/BasicAsset.lua:27
+[ERROR:mock : 618892.956]	@/Volumes/prj/moai/eastward/game/asset/script/sq/EWSQNodeCutscene.lua:48
+[WARN :mock : 618902.823]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618902.823]	no audio bus found	Main
+[WARN :mock : 618902.823]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618902.823]	audio bus not found	music
+[WARN :mock : 618905.922]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618905.922]	no audio bus found	Main
+[WARN :mock : 618906.092]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618906.092]	no audio bus found	Main
+[WARN :mock : 618906.092]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618906.092]	audio bus not found	music
+[WARN :mock : 618907.506]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618907.506]	no audio bus found	Main
+[WARN :mock : 618909.025]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618909.025]	no audio bus found	Main
+[WARN :mock : 618909.025]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618909.025]	audio bus not found	music
+[LOG  :mock : 618909.604]	select weapon	平底锅
+[WARN :mock : 618910.005]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618910.005]	no audio bus found	Main
+[WARN :mock : 618911.239]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618911.239]	no audio bus found	Main
+[WARN :mock : 618911.239]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618911.239]	audio bus not found	music
+[WARN :mock : 618912.172]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618912.172]	no audio bus found	Main
+[WARN :mock : 618912.408]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618912.408]	no audio bus found	Main
+[WARN :mock : 618912.408]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618912.408]	audio bus not found	music
+[WARN :mock : 618913.522]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618913.522]	no audio bus found	Main
+[WARN :mock : 618914.624]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:280
+[WARN :mock : 618914.624]	no audio bus found	Main
+[WARN :mock : 618914.624]	@/Volumes/prj/moai/eastward/game/lib/mock/audio/FMODStudioAudioManager.lua:242
+[WARN :mock : 618914.624]	audio bus not found	music
