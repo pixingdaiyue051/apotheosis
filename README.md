@@ -16,3 +16,5 @@ C:\Users\lenovo\AppData\LocalLow\Cellar Door Games
 C:\Users\lenovo\AppData\Local
 ## LostInPlay
 C:\Users\lenovo\AppData\LocalLow\HappyJuice
+## Blasphemous
+C:\Users\lenovo\AppData\LocalLow\TheGameKitchen

@@ -1,0 +1,949 @@
+Initialize engine version: 2017.4.40f1 (6e14067f8a9a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.511 seconds
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Pass 'FLIP_RGBARECT_TO_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 126.156800 ms
+Fallback handler could not load library E:/game/Blasphemous/Blasphemous_Data/Mono/data-0000021EA29A3020.dll
+Fallback handler could not load library E:/game/Blasphemous/Blasphemous_Data/Mono/data-0000021EA29A5C30.dll
+Fallback handler could not load library E:/game/Blasphemous/Blasphemous_Data/Mono/data-0000021EA3767040.dll
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+Galaxy SDK was initialized
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sign in GOG Galaxy
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+User: Galaxy.Api.IUser
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+https://script.google.com/macros/s/AKfycbyeGIlGmKl44qObG82OgvNcNQYPMjBR-6GWLQHFgA/exec
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Singleton] Created: (singleton) Framework.Managers.Core
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+============================================== (Initialization: Framework)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+This is a GOG version running as a standalone. Canceling migration
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GOG DEBUG - Initialized: True - User logged on: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][VSCREEN] Virtual Screen has been initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][NEW MAP] 4 maps loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG]******************************************* CELLS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG] NG+: 12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG] Normal: 981
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Term Map/D23 not found in Maps Localization
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Term Map/D23_Z01 not found in Maps Localization
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DLCMANAGER] Base DLC path: E:/game/Blasphemous/Blasphemous_Data/StreamingAssets\DLC
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DLCMANAGER] Base DLC path: E:/game/Blasphemous/Blasphemous_Data\DLC
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DLCMANAGER] Base DLC path: C:/Users/lenovo/AppData/LocalLow/TheGameKitchen/Blasphemous/Savegames//DLC
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DLCMANAGER] 2 DLCs loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG]DLC: BACKER_DLC is not present.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG]DLC: DIGITAL_DELUXE_DLC is not present.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+* Loading file C:/Users/lenovo/AppData/LocalLow/TheGameKitchen/Blasphemous/Savegames//BossRushData.config
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][EVENTS] The event manager has been reseted sucessfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Miriam Quest scenes 5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][EVENTMANAGER] 624 initial flags loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BLOCKING INPUT until main menu is fully shown
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>InitialBlocker</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR01  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR03  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR04  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR05  Time:15
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR07  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR08  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR09  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR10  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR101  Time:20
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR11  Time:8
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR12  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR14  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR15  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR16  Time:25
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR201  Time:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR202  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR203  Time:6
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 206 items loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 52 beads.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 7 relics.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 75 quest items.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 17 prayers.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 44 collectibles.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 11 swords.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+https://script.google.com/macros/s/AKfycbyeGIlGmKl44qObG82OgvNcNQYPMjBR-6GWLQHFgA/exec
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DIALOG] 350 dialogs loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][DIALOG] 23 messages loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Audio localization event, new bank VoiceOver_EN
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][SKILLS] 15 skills loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][TUTORIAL] 17 tutorials loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[WARNING] The Action "Submit" does not exist. You can create Actions in the editor.
+UnloadTime: 15.661600 ms
+https://script.google.com/macros/s/AKfycbyeGIlGmKl44qObG82OgvNcNQYPMjBR-6GWLQHFgA/exec
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1188 unused Assets to reduce memory usage. Loaded Objects now: 29981.
+Total: 255.333300 ms (FindLiveObjects: 1.715400 ms CreateObjectMapping: 3.818900 ms MarkObjects: 245.259900 ms  DeleteObjects: 4.538800 ms)
+
+==============  LevelInitializer
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+============================================== (Framework Ready)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GetCurrentEnemiesBalanceChart: current Game Mode is 'MENU'! Returning base game Enemies Balance Chart by default
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Searching for compatible XInput library...
+Found Xinput1_4.dll.
+BestFit is only supported for dynamic fonts. Font 'MSJhengHei-cut' is not dynamic.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][UI] Refreshing UI widget references.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][VSCREEN] Virtual camera initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+---> LevelManager:  Load and activate level MainMenu
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading mapping definitions for :xinput_gamepad_1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Singleton] Using instance already created: Rewired Input Manager
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+[TRACE][SPAWN] Spawning enemies on level.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>BLOCK_UNTIL_FPS_STABLE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>BLOCK_UNTIL_FPS_STABLE</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 51586.
+Total: 71.551500 ms (FindLiveObjects: 3.816700 ms CreateObjectMapping: 4.687000 ms MarkObjects: 62.911200 ms  DeleteObjects: 0.136000 ms)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] All blockers have been removed.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** NEW Scene Audio: PlayTrack event:/Background Layer/Background Main Menu reverb ,volume 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: current game mode and new game mode are the same! Current game mode: MENU
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading render mode settings (should be already loaded from the beginning of the game...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=yellow>Removing initial input block</color>
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Signed failure FAILURE_REASON_GALAXY_SERVICE_NOT_SIGNED_IN
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE]Continue pressed, starting the game...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** Fadeout last event:/Background Layer/Background Main Menu
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** Persistent: LOADGAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][[PERSISTENCE]] Reset all
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][NEW MAP] 4 maps loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG]******************************************* CELLS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG] NG+: 12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG] Normal: 981
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][EVENTS] The event manager has been reseted sucessfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ Miriam Quest scenes 5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][EVENTMANAGER] 624 initial flags loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR01  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR03  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR04  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR05  Time:15
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR07  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR08  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR09  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR10  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR101  Time:20
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR11  Time:8
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR12  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR14  Time:2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR15  Time:10
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR16  Time:25
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR201  Time:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR202  Time:1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Prayer PR203  Time:6
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 206 items loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 52 beads.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 7 relics.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 75 quest items.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 17 prayers.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 44 collectibles.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][INVENTORY] 11 swords.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][TUTORIAL] 17 tutorials loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: changing current mode to NEW_GAME! Old mode: MENU
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[DEBUG][SKILLS] 15 skills loaded succesfully.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: current game mode and new game mode are the same! Current game mode: NEW_GAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+---> LevelManager:  Load and activate level D03Z01S02
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 483 unused Assets to reduce memory usage. Loaded Objects now: 53246.
+Total: 58.091300 ms (FindLiveObjects: 2.526200 ms CreateObjectMapping: 4.538400 ms MarkObjects: 50.685900 ms  DeleteObjects: 0.340500 ms)
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+[TRACE][SPAWN] Spawning enemies on level.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>BLOCK_UNTIL_FPS_STABLE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Object reference not set to an instance of an object  at Gameplay.GameControllers.Enemies.BellCarrier.Audio.BellCarrierAudio.OnStart () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 58725.
+Total: 62.257800 ms (FindLiveObjects: 2.657200 ms CreateObjectMapping: 4.663900 ms MarkObjects: 54.832700 ms  DeleteObjects: 0.103700 ms)
+
+[TRACE][INPUT] The input blocker <color=yellow>BLOCK_UNTIL_FPS_STABLE</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] All blockers have been removed.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** PERSITENT EVENT: OnLevelLoaded D03Z01S02
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: current game mode and new game mode are the same! Current game mode: NEW_GAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** NEW Scene Audio: PlayTrack event:/Background Layer/Background Bronze Frontier reverb snapshot:/ReverbExterior,volume 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>UIBLOCKING</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading render mode settings (should be already loaded from the beginning of the game...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>UIBLOCKING</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>PLAYER_LOGIC</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>PLAYER_LOGIC</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>PLAYER_LOGIC</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>DOOR</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>FADE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>INTERACTABLE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][FADE] Called fade function. Active: True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][DOOR] Door has been activated.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** PERSITENT EVENT: OnBeforeLevelLoad D03Z01S02
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=red> Active priedieu scene: D03Z01S02
+ activePriedieuIdb28e1e56-7a43-4b3d-8571-e319ecd6afff</color>
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+* SaveGame, saving slot 0 to file C:/Users/lenovo/AppData/LocalLow/TheGameKitchen/Blasphemous/Savegames//savegame_0.save
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][PERSISTENCE] Persistence SAVE: D03Z01S02
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][FADE] Called fade function. Active: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+---> LevelManager:  Load and activate level D03Z01S01
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>FADE</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][SPAWN] Spawning enemies on level.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+[TRACE][INPUT] The input blocker <color=green>BLOCK_UNTIL_FPS_STABLE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>BLOCK_UNTIL_FPS_STABLE</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 197 unused Assets to reduce memory usage. Loaded Objects now: 63817.
+Total: 72.288000 ms (FindLiveObjects: 3.802300 ms CreateObjectMapping: 5.496500 ms MarkObjects: 62.633600 ms  DeleteObjects: 0.355200 ms)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] All blockers have been removed.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** PERSITENT EVENT: OnLevelLoaded D03Z01S01
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: current game mode and new game mode are the same! Current game mode: NEW_GAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** NEW Scene Audio: PlayTrack event:/Background Layer/Background Bronze Frontier reverb snapshot:/ReverbExterior,volume 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: ID: AC41  Progress:38.73877
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: we are not online!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][EVENTS] Event ENTITY_DEAD with parameter NO_PARAMS has been raised.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentHeavyEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentCutDamage
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: ID: AC41  Progress:38.88892
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: we are not online!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][EVENTS] Event ENTITY_DEAD with parameter NO_PARAMS has been raised.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: ID: AC41  Progress:39.03907
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetAchievementProgress: we are not online!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][EVENTS] Event ENTITY_DEAD with parameter NO_PARAMS has been raised.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyHit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentSimpleEnemyDamage
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentCutDamage
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentCutDamage
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>INVENTORY</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>INVENTORY</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>PLAYER_LOGIC</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][AUDIO] Playing audio hit. event:/SFX/Penitent/Damage/PenitentCutDamage
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>INVENTORY</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>INVENTORY</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>PLAYER_LOGIC</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>UIBLOCKING</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading render mode settings (should be already loaded from the beginning of the game...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>UIBLOCKING</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>UIBLOCKING</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading render mode settings (should be already loaded from the beginning of the game...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** Persistent: SAVEGAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=red> Active priedieu scene: D03Z01S02
+ activePriedieuIdb28e1e56-7a43-4b3d-8571-e319ecd6afff</color>
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+* SaveGame, saving slot 0 to file C:/Users/lenovo/AppData/LocalLow/TheGameKitchen/Blasphemous/Savegames//savegame_0.save
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>PLAYER_LOGIC</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**** PERSITENT EVENT: OnBeforeLevelLoad D03Z01S01
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=red> Active priedieu scene: D03Z01S02
+ activePriedieuIdb28e1e56-7a43-4b3d-8571-e319ecd6afff</color>
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+* SaveGame, saving slot 0 to file C:/Users/lenovo/AppData/LocalLow/TheGameKitchen/Blasphemous/Savegames//savegame_0.save
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][PERSISTENCE] Persistence SAVE: D03Z01S01
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: changing current mode to MENU! Old mode: NEW_GAME
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+---> LevelManager:  Load and activate level MainMenu
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to UNRESPONSIVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GetCurrentEnemiesBalanceChart: current Game Mode is 'MENU'! Returning base game Enemies Balance Chart by default
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][SPAWN] Spawning enemies on level.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+SpawnManager: Pending spawn Door with id Wnot found, trying spanw first PrieDeu or Debug or Zero
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=green>BLOCK_UNTIL_FPS_STABLE</color> has been enabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] The input blocker <color=yellow>BLOCK_UNTIL_FPS_STABLE</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 376 unused Assets to reduce memory usage. Loaded Objects now: 63136.
+Total: 73.853500 ms (FindLiveObjects: 3.187300 ms CreateObjectMapping: 4.850500 ms MarkObjects: 64.680500 ms  DeleteObjects: 1.134700 ms)
+
+[TRACE][INPUT] The input blocker <color=yellow>UIBLOCKING</color> has been disabled.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][LOGIC] Game state has been set to PLAYING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TRACE][INPUT] All blockers have been removed.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** NEW Scene Audio: PlayTrack event:/Background Layer/Background Main Menu reverb ,volume 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+** Fadeout last event:/Background Layer/Background Bronze Frontier
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameModeManager:: ChangeMode: current game mode and new game mode are the same! Current game mode: MENU
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2540 -> priority: 1 
+  Thread -> id: 4950 -> priority: 1 
