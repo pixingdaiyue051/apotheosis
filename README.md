@@ -18,3 +18,5 @@ C:\Users\lenovo\AppData\Local
 C:\Users\lenovo\AppData\LocalLow\HappyJuice
 ## Blasphemous
 C:\Users\lenovo\AppData\LocalLow\TheGameKitchen
+## FarLoneSails
+C:\Users\lenovo\AppData\LocalLow\Okomotive

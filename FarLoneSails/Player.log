@@ -1,0 +1,83 @@
+Initialize engine version: 2019.1.7f1 (f3c4928e5742)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 228.156200 ms
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+Galaxy SDK was initialized
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:Log(Object, Object)
+GogGalaxyManager:Init()
+Okomotive.FarLoneSails.PlatformHandlerGoG:Init()
+Okomotive.FarLoneSails.Logic:Init()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+Logic: PlatformHandler could not get initialized!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<SignIn>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+AchievementManager: OnInit failed
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<SignIn>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 14913.
+Total: 224.506900 ms (FindLiveObjects: 2.606400 ms CreateObjectMapping: 0.980500 ms MarkObjects: 217.223300 ms  DeleteObjects: 3.695900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 14917.
+Total: 18.628500 ms (FindLiveObjects: 1.751100 ms CreateObjectMapping: 0.326200 ms MarkObjects: 16.477800 ms  DeleteObjects: 0.072600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 14917.
+Total: 17.798400 ms (FindLiveObjects: 1.772800 ms CreateObjectMapping: 0.328400 ms MarkObjects: 15.659700 ms  DeleteObjects: 0.037000 ms)
+
+Logic: User Quit game
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.Logic:QuitGame()
+Okomotive.FarLoneSails.OnButtonForceStart:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+System.Reflection.AddEventAdapter:Invoke(Object, Delegate)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+InControl.InControlInputModule:SendButtonEventToSelectedObject()
+InControl.InControlInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Logic: OnApplicationQuit
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 865c -> priority: 1 
