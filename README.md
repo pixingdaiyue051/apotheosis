@@ -12,3 +12,5 @@ C:\Users\Administrator\AppData\Roaming\Pixpil
 C:\Users\Administrator\AppData\Roaming
 ## Rogue Legacy 2
 C:\Users\lenovo\AppData\LocalLow\Cellar Door Games
+## BloodstainedRotN
+C:\Users\lenovo\AppData\Local
