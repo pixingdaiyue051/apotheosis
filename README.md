@@ -20,3 +20,5 @@ C:\Users\lenovo\AppData\LocalLow\HappyJuice
 C:\Users\lenovo\AppData\LocalLow\TheGameKitchen
 ## FarLoneSails
 C:\Users\lenovo\AppData\LocalLow\Okomotive
+## Filament
+C:\Users\lenovo\AppData\Local
