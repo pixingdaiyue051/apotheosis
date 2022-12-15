@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     8085 MB
     Driver:   30.0.101.2079
 Begin MonoManager ReloadAssembly
-- Completed reload, in  2.243 seconds
+- Completed reload, in  0.067 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -25,7 +25,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
 The class named 'ConfigManager' is abstract. The script class can't be abstract!
 
-UnloadTime: 96.900100 ms
+UnloadTime: 0.994300 ms
 Graphics tier changed to High
 
 GOG signing in...
@@ -41,14 +41,14 @@ Restored language code 'ZH'
 
 
 Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
-Total: 7.570900 ms (FindLiveObjects: 0.508800 ms CreateObjectMapping: 0.386600 ms MarkObjects: 6.336500 ms  DeleteObjects: 0.337500 ms)
+Total: 5.080800 ms (FindLiveObjects: 0.414800 ms CreateObjectMapping: 0.373900 ms MarkObjects: 4.075800 ms  DeleteObjects: 0.215300 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 GOG authorization failed: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
 
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 22.367900 ms
+UnloadTime: 4.165200 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -57,15 +57,15 @@ Game controller set to None.
 
 pd.maxHealth: 9 pd.maxHealthBase: 9
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+pd.maxHealth: 9 pd.maxHealthBase: 9
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+pd.maxHealth: 11 pd.maxHealthBase: 9
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+pd.maxHealth: 9 pd.maxHealthBase: 9
 
 
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 45155.
-Total: 108.716300 ms (FindLiveObjects: 2.033200 ms CreateObjectMapping: 1.224900 ms MarkObjects: 105.356400 ms  DeleteObjects: 0.101300 ms)
+Total: 106.520100 ms (FindLiveObjects: 2.163800 ms CreateObjectMapping: 1.206200 ms MarkObjects: 102.912700 ms  DeleteObjects: 0.236600 ms)
 
 Making UI menu lean.
 
@@ -95,305 +95,6 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Deferring level start (marked as manual).
-
-Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 192 unused Assets to reduce memory usage. Loaded Objects now: 49485.
-Total: 125.312700 ms (FindLiveObjects: 2.225300 ms CreateObjectMapping: 1.963400 ms MarkObjects: 120.282100 ms  DeleteObjects: 0.841500 ms)
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
@@ -410,3040 +111,10 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-nailDamage: 21, multiplied: 52.5
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
-
-Persistent Bool Item - Couldn't reset value on FSM because it's missing.
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-
-Unloading 3473 unused Assets to reduce memory usage. Loaded Objects now: 58412.
-Total: 164.257200 ms (FindLiveObjects: 3.621500 ms CreateObjectMapping: 2.899800 ms MarkObjects: 151.861200 ms  DeleteObjects: 5.874300 ms)
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 19.529800 ms
-Deferring level start (marked as manual).
-
-
-Unloading 3927 unused Assets to reduce memory usage. Loaded Objects now: 55906.
-Total: 155.550600 ms (FindLiveObjects: 3.793600 ms CreateObjectMapping: 3.133300 ms MarkObjects: 143.215800 ms  DeleteObjects: 5.407300 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.268800 ms
-DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
-
-Performing automatic level start.
-
-Game controller set to None.
-
-pd.maxHealth: 9 pd.maxHealthBase: 9
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-
-Unloading 608 unused Assets to reduce memory usage. Loaded Objects now: 47623.
-Total: 128.014800 ms (FindLiveObjects: 3.102100 ms CreateObjectMapping: 1.393300 ms MarkObjects: 122.021200 ms  DeleteObjects: 1.497800 ms)
-
-Making UI menu lean.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 52552.
-Total: 152.322300 ms (FindLiveObjects: 2.486200 ms CreateObjectMapping: 1.484700 ms MarkObjects: 146.401200 ms  DeleteObjects: 1.949400 ms)
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.601000 ms
-Deferring level start (marked as manual).
-
-
-Unloading 1052 unused Assets to reduce memory usage. Loaded Objects now: 54647.
-Total: 153.293500 ms (FindLiveObjects: 2.660200 ms CreateObjectMapping: 1.939800 ms MarkObjects: 146.721700 ms  DeleteObjects: 1.971300 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.262600 ms
-DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
-
-Performing automatic level start.
-
-Game controller set to None.
-
-pd.maxHealth: 9 pd.maxHealthBase: 9
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-pd.maxHealth: 5 pd.maxHealthBase: 5
-
-
-Unloading 378 unused Assets to reduce memory usage. Loaded Objects now: 48528.
-Total: 130.529700 ms (FindLiveObjects: 3.642000 ms CreateObjectMapping: 1.573600 ms MarkObjects: 124.096900 ms  DeleteObjects: 1.215900 ms)
-
-Making UI menu lean.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 192 unused Assets to reduce memory usage. Loaded Objects now: 52356.
-Total: 145.392500 ms (FindLiveObjects: 2.386700 ms CreateObjectMapping: 2.065000 ms MarkObjects: 139.472200 ms  DeleteObjects: 1.468200 ms)
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerLateUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Could not find FSM: attack_range_detect
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-nailDamage: 21, multiplied: 52.5
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-Could not find FSM: damages_hero
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Could not find FSM: damages_hero
-
-PlayOneShot was called with a null AudioClip.
-
-Could not find FSM: damages_hero
-
-Could not find FSM: damages_hero
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
-
-Persistent Bool Item - Couldn't reset value on FSM because it's missing.
-
-Persistent Bool Item - Couldn't reset value on FSM because it's missing.
-
-Persistent Bool Item - Couldn't reset value on FSM because it's missing.
-
-Could not find FSM: damages_hero
-
-PlayOneShot was called with a null AudioClip.
-
-Could not find FSM: damages_hero
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-
-Unloading 3447 unused Assets to reduce memory usage. Loaded Objects now: 61314.
-Total: 183.610500 ms (FindLiveObjects: 4.238100 ms CreateObjectMapping: 3.430200 ms MarkObjects: 170.134400 ms  DeleteObjects: 5.807400 ms)
-
-Unable to get achievement MAP, because GOG is not authenticated.
-
-Unable to push achievement MAP, because GOG is not authenticated.
-
-Unable to get achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to push achievement STAG_STATION_HALF, because GOG is not authenticated.
-
-Unable to get achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to push achievement GRUBFRIEND, because GOG is not authenticated.
-
-Unable to get achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to push achievement METAMORPHOSIS, because GOG is not authenticated.
-
-Unable to get achievement CHARMED, because GOG is not authenticated.
-
-Unable to push achievement CHARMED, because GOG is not authenticated.
-
-Unable to get achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to push achievement ENCHANTED, because GOG is not authenticated.
-
-Unable to get achievement BLESSED, because GOG is not authenticated.
-
-Unable to push achievement BLESSED, because GOG is not authenticated.
-
-Unable to get achievement SOULFUL, because GOG is not authenticated.
-
-Unable to push achievement SOULFUL, because GOG is not authenticated.
-
-Unable to get achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to push achievement WORLDSOUL, because GOG is not authenticated.
-
-Unable to get achievement PROTECTED, because GOG is not authenticated.
-
-Unable to push achievement PROTECTED, because GOG is not authenticated.
-
-Unable to get achievement MASKED, because GOG is not authenticated.
-
-Unable to push achievement MASKED, because GOG is not authenticated.
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to get achievement AWAKENING, because GOG is not authenticated.
-
-Unable to push achievement AWAKENING, because GOG is not authenticated.
-
-Unable to get achievement ASCENSION, because GOG is not authenticated.
-
-Unable to push achievement ASCENSION, because GOG is not authenticated.
-
-Unable to get achievement HORNET_1, because GOG is not authenticated.
-
-Unable to push achievement HORNET_1, because GOG is not authenticated.
-
-Unable to get achievement HORNET_2, because GOG is not authenticated.
-
-Unable to push achievement HORNET_2, because GOG is not authenticated.
-
-Unable to get achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to push achievement DREAM_SOUL_MASTER_DEFEAT, because GOG is not authenticated.
-
-Unable to get achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to push achievement DREAM_BROKEN_VESSEL, because GOG is not authenticated.
-
-Unable to get achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement DUNG_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to push achievement DREAM_FK, because GOG is not authenticated.
-
-Unable to get achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to push achievement MANTIS_LORDS, because GOG is not authenticated.
-
-Unable to get achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to push achievement COLLECTOR, because GOG is not authenticated.
-
-Unable to get achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to push achievement TRAITOR_LORD, because GOG is not authenticated.
-
-Unable to get achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to push achievement WHITE_DEFENDER, because GOG is not authenticated.
-
-Unable to get achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to push achievement GREY_PRINCE, because GOG is not authenticated.
-
-Unable to get achievement BEAST, because GOG is not authenticated.
-
-Unable to push achievement BEAST, because GOG is not authenticated.
-
-Unable to get achievement WATCHER, because GOG is not authenticated.
-
-Unable to push achievement WATCHER, because GOG is not authenticated.
-
-Unable to get achievement TEACHER, because GOG is not authenticated.
-
-Unable to push achievement TEACHER, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_1, because GOG is not authenticated.
-
-Unable to get achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to push achievement COLOSSEUM_2, because GOG is not authenticated.
-
-Unable to get achievement GRIMM, because GOG is not authenticated.
-
-Unable to push achievement GRIMM, because GOG is not authenticated.
-
-Unable to get achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-Unable to push achievement NAILSMITH_KILL, because GOG is not authenticated.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 471 unused Assets to reduce memory usage. Loaded Objects now: 66219.
-Total: 174.202100 ms (FindLiveObjects: 3.754400 ms CreateObjectMapping: 2.073600 ms MarkObjects: 167.159900 ms  DeleteObjects: 1.213900 ms)
-
-Couldn't get static variable: skipRemoveDreamOrbs
-
-Unable to get achievement ATTUNEMENT, because GOG is not authenticated.
-
-Unable to push achievement ATTUNEMENT, because GOG is not authenticated.
-
-PlayOneShot was called with a null AudioClip.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-Deferring level start (marked as manual).
-
-PlayOneShot was called with a null AudioClip.
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 53745.
+Total: 135.956400 ms (FindLiveObjects: 2.754800 ms CreateObjectMapping: 1.382800 ms MarkObjects: 131.091300 ms  DeleteObjects: 0.725800 ms)
 
 Achievement <b>MAP</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
@@ -3497,8 +168,6 @@ Achievement <b>TRAITOR_LORD</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
 Achievement <b>WHITE_DEFENDER</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
-Achievement <b>GREY_PRINCE</b> can not be awarded in map zone <b>GODS_GLORY</b>
-
 Achievement <b>BEAST</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
 Achievement <b>WATCHER</b> can not be awarded in map zone <b>GODS_GLORY</b>
@@ -3511,211 +180,17 @@ Achievement <b>COLOSSEUM_2</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
 Achievement <b>GRIMM</b> can not be awarded in map zone <b>GODS_GLORY</b>
 
-Achievement <b>NAILSMITH_KILL</b> can not be awarded in map zone <b>GODS_GLORY</b>
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
 
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Deferring level start (marked as manual).
 
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Using fallback 1 to find tilemap. Scene GG_Boss_Door_Entrance requires manual fixing.
 
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
+Using fallback 2 to find tilemap. Scene GG_Boss_Door_Entrance requires manual fixing.
 
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Spatter White R prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool could not find a copy of Dripper White, Instantiating a new one.
-
-Object Pool attached to GlobalPool has run out of Splash Out Small prefabs, Instantiating an additional one.
-
-Object Pool attached to GlobalPool has run out of Dripper White prefabs, Instantiating an additional one.
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Failed to find tilemap in GG_Boss_Door_Entrance entirely.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -3735,17 +210,39 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Counted completion for Statue, Total: 44, Completed: 0, Tier: Tier3
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Counted completion for Statue, Total: 44, Completed: 0, Tier: Tier2
+PlayOneShot was called with a null AudioClip.
 
-Counted completion for Statue, Total: 44, Completed: 1, Tier: Tier1
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 0, Tier: Tier3
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 0, Tier: Tier2
+nailDamage: 21, multiplied: 26.25
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 1, Tier: Tier1
+nailDamage: 21, multiplied: 26.25
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -3759,31 +256,35 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Recorded statue boss scene. Current: Gruz Boss Scene, Previous: null
-
-AddEventHandlerComponent: PlayMakerCollisionStay
-
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
-
-AddEventHandlerComponent: PlayMakerCollisionStay2D
+Object Pool attached to GlobalPool has run out of Fireball2 Top prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerCollisionEnter2D
+Object Pool attached to GlobalPool has run out of Fireball2 Spiral prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Boss scene ended
+
+Continuing boss sequence...
 
 Deferring level start (marked as manual).
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Could not find FSM: damages_enemy
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Could not find FSM: damages_enemy
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Could not find FSM: damages_enemy
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
 
-Could not find FSM: damages_enemy
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Audio Player Actor 2D prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -3813,59 +314,19 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+nailDamage: 21, multiplied: 52.5
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+nailDamage: 21, multiplied: 52.5
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+nailDamage: 21, multiplied: 52.5
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+nailDamage: 21, multiplied: 52.5
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+nailDamage: 21, multiplied: 52.5
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Boss scene ended
 
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
-
-AddEventHandlerComponent: PlayMakerFixedUpdate
+Continuing boss sequence...
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -3873,17 +334,37 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 Deferring level start (marked as manual).
 
-Counted completion for Statue, Total: 44, Completed: 0, Tier: Tier3
+Object Pool attached to GlobalPool could not find a copy of Slash Effect Shade, Instantiating a new one.
 
-Counted completion for Statue, Total: 44, Completed: 0, Tier: Tier2
+Object Pool attached to GlobalPool has run out of Slash Effect Shade prefabs, Instantiating an additional one.
 
-Counted completion for Statue, Total: 44, Completed: 1, Tier: Tier1
+Object Pool attached to GlobalPool has run out of Slash Effect Shade prefabs, Instantiating an additional one.
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 0, Tier: Tier3
+Object Pool attached to GlobalPool has run out of Hit Flash Black prefabs, Instantiating an additional one.
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 0, Tier: Tier2
+Object Pool attached to GlobalPool has run out of Hit Flash Black prefabs, Instantiating an additional one.
 
-Counted completion for Knight Statue Cage, Total: 44, Completed: 1, Tier: Tier1
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Hit Puff Med, Instantiating a new one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Hit Puff Med prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Hit Shade prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Hit Puff Med prefabs, Instantiating an additional one.
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
@@ -3897,38 +378,287 @@ AddEventHandlerComponent: PlayMakerFixedUpdate
 
 AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.134400 ms
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Boss scene ended
+
+Continuing boss sequence...
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
 Deferring level start (marked as manual).
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Unloading 2421 unused Assets to reduce memory usage. Loaded Objects now: 59928.
-Total: 171.289500 ms (FindLiveObjects: 3.651600 ms CreateObjectMapping: 2.473600 ms MarkObjects: 161.120800 ms  DeleteObjects: 4.043100 ms)
+nailDamage: 21, multiplied: 26.25
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.372600 ms
-DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+nailDamage: 21, multiplied: 26.25
 
-Performing automatic level start.
+PlayOneShot was called with a null AudioClip.
 
-Game controller set to None.
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-pd.maxHealth: 9 pd.maxHealthBase: 9
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-pd.maxHealth: 5 pd.maxHealthBase: 5
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Unloading 471 unused Assets to reduce memory usage. Loaded Objects now: 51285.
-Total: 144.358700 ms (FindLiveObjects: 3.781000 ms CreateObjectMapping: 1.474300 ms MarkObjects: 137.871100 ms  DeleteObjects: 1.231900 ms)
+AddEventHandlerComponent: PlayMakerFixedUpdate
 
-Setting up 6 worker threads for Enlighten.
-  Thread -> id: c28 -> priority: 1 
-  Thread -> id: 41c8 -> priority: 1 
-  Thread -> id: 1b14 -> priority: 1 
-  Thread -> id: 313c -> priority: 1 
-  Thread -> id: 4298 -> priority: 1 
-  Thread -> id: 1594 -> priority: 1 
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Could not find FSM: recoil
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of particle_orange blood prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Boss scene ended
+
+Continuing boss sequence...
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Unsupported type: null
+
+Object Pool attached to GlobalPool has run out of Grimm UP Ball prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool could not find a copy of Uninfected Hit Pt, Instantiating a new one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+nailDamage: 21, multiplied: 52.5
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
+
+nailDamage: 21, multiplied: 52.5
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Uninfected Hit Pt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Flameball Grimmballoon Straight prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+nailDamage: 21, multiplied: 52.5
+
+nailDamage: 21, multiplied: 52.5
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+nailDamage: 21, multiplied: 52.5
+
+Unsupported type: null
+
+PlayOneShot was called with a null AudioClip.
+
+d3d11: failed to create staging 2D texture w=1 h=1 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=1 h=1 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=1 h=1 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=1 h=1 d3dfmt=28 [887a0005]
