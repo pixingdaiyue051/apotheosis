@@ -1,0 +1,113 @@
+Initialize engine version: 2019.1.7f1 (f3c4928e5742)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 166.204400 ms
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+Galaxy SDK was initialized
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:Log(Object, Object)
+GogGalaxyManager:Init()
+Okomotive.FarLoneSails.PlatformHandlerGoG:Init()
+Okomotive.FarLoneSails.Logic:Init()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Logic: PlatformHandler could not get initialized!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<SignIn>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+AchievementManager: OnInit failed
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.OnInit:Invoke(PlatformHandler, Boolean)
+Okomotive.FarLoneSails.<SignIn>d__7:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 12473.
+Total: 90.163800 ms (FindLiveObjects: 1.100400 ms CreateObjectMapping: 0.562200 ms MarkObjects: 88.423500 ms  DeleteObjects: 0.077400 ms)
+
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 17260.
+Total: 25.770100 ms (FindLiveObjects: 2.050600 ms CreateObjectMapping: 0.532600 ms MarkObjects: 23.077300 ms  DeleteObjects: 0.108900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 17266.
+Total: 16.298400 ms (FindLiveObjects: 1.542700 ms CreateObjectMapping: 0.324100 ms MarkObjects: 14.372300 ms  DeleteObjects: 0.058800 ms)
+
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 17299.
+Total: 12.403700 ms (FindLiveObjects: 1.042300 ms CreateObjectMapping: 0.244600 ms MarkObjects: 10.958000 ms  DeleteObjects: 0.158300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 17228.
+Total: 24.719400 ms (FindLiveObjects: 3.259900 ms CreateObjectMapping: 0.472200 ms MarkObjects: 20.927400 ms  DeleteObjects: 0.059200 ms)
+
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 17299.
+Total: 15.332100 ms (FindLiveObjects: 1.154000 ms CreateObjectMapping: 0.318400 ms MarkObjects: 13.635600 ms  DeleteObjects: 0.223600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17266.
+Total: 20.038200 ms (FindLiveObjects: 2.133800 ms CreateObjectMapping: 0.716200 ms MarkObjects: 17.154700 ms  DeleteObjects: 0.033000 ms)
+
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 17061.
+Total: 32.001300 ms (FindLiveObjects: 2.989100 ms CreateObjectMapping: 0.578600 ms MarkObjects: 28.188200 ms  DeleteObjects: 0.244800 ms)
+
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 170 unused Assets to reduce memory usage. Loaded Objects now: 15253.
+Total: 23.602700 ms (FindLiveObjects: 2.384400 ms CreateObjectMapping: 0.361900 ms MarkObjects: 19.166100 ms  DeleteObjects: 1.689800 ms)
+
+Logic: User Quit game
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Okomotive.FarLoneSails.Logic:QuitGame()
+Okomotive.FarLoneSails.OnButtonForceStart:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.UI.Button:OnSubmit(BaseEventData)
+System.Reflection.AddEventAdapter:Invoke(Object, Delegate)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+InControl.InControlInputModule:SendButtonEventToSelectedObject()
+InControl.InControlInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Logic: OnApplicationQuit
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2d38 -> priority: 1 

@@ -9,7 +9,7 @@ Direct3D:
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 228.156200 ms
+UnloadTime: 34.511900 ms
 WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
 ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
 WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
@@ -23,8 +23,7 @@ Okomotive.FarLoneSails.Logic:Init()
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
-WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
-WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
 Logic: PlatformHandler could not get initialized!
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogError(Object)
@@ -43,20 +42,85 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 12473.
+Total: 46.825900 ms (FindLiveObjects: 1.449700 ms CreateObjectMapping: 0.631200 ms MarkObjects: 44.673500 ms  DeleteObjects: 0.071100 ms)
+
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 15516.
+Total: 21.471700 ms (FindLiveObjects: 2.415400 ms CreateObjectMapping: 0.685200 ms MarkObjects: 18.300500 ms  DeleteObjects: 0.070000 ms)
+
 Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 14913.
-Total: 224.506900 ms (FindLiveObjects: 2.606400 ms CreateObjectMapping: 0.980500 ms MarkObjects: 217.223300 ms  DeleteObjects: 3.695900 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 15344.
+Total: 17.119900 ms (FindLiveObjects: 2.078300 ms CreateObjectMapping: 0.451800 ms MarkObjects: 14.475600 ms  DeleteObjects: 0.113600 ms)
+
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 15516.
+Total: 31.592800 ms (FindLiveObjects: 3.542700 ms CreateObjectMapping: 0.668400 ms MarkObjects: 26.985500 ms  DeleteObjects: 0.395200 ms)
+
+Unloading 26 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 15003.
+Total: 27.932900 ms (FindLiveObjects: 2.040600 ms CreateObjectMapping: 0.466500 ms MarkObjects: 25.149000 ms  DeleteObjects: 0.276100 ms)
+
+Kinematic body only supports Speculative Continuous collision detection
+UnityEngine.Events.UnityAction`1:Invoke(T0)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.AnimationSystem.<Process>d__21:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.AnimationSystem.<IPlayState>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.AnimationSystem.AnimationBase:PlayState(Int32)
+Okomotive.FarLoneSails.OnWeatherDayBrightnessChange:Invoke(WeatherDayBrightness)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.Toolset.<IInvokeState>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+Okomotive.Toolset.DelayedEvent:InvokeState(Int32)
+Okomotive.FarLoneSails.OnWeatherDayBrightnessChange:Invoke(WeatherDayBrightness)
+UnityEngine.Events.InvokableCall`1:Invoke(T1)
+UnityEngine.Events.UnityEvent:Invoke()
+Okomotive.FarLoneSails.<EnterActionDelay>d__11:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[C:\buildslave\unity\build\Modules/Physics/Rigidbody.cpp line 737] 
+(Filename: C:\buildslave\unity\build\Modules/Physics/Rigidbody.cpp Line: 737)
+
+Unloading 30 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 337 unused Assets to reduce memory usage. Loaded Objects now: 14369.
+Total: 24.883900 ms (FindLiveObjects: 2.063600 ms CreateObjectMapping: 0.547300 ms MarkObjects: 20.626300 ms  DeleteObjects: 1.645800 ms)
+
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 14369.
+Total: 12.767200 ms (FindLiveObjects: 1.088000 ms CreateObjectMapping: 0.295300 ms MarkObjects: 11.056200 ms  DeleteObjects: 0.327300 ms)
+
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 16347.
+Total: 23.974700 ms (FindLiveObjects: 3.057700 ms CreateObjectMapping: 0.741200 ms MarkObjects: 20.040500 ms  DeleteObjects: 0.134700 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 420 unused Assets to reduce memory usage. Loaded Objects now: 15327.
+Total: 14.271600 ms (FindLiveObjects: 1.099300 ms CreateObjectMapping: 0.238200 ms MarkObjects: 12.133100 ms  DeleteObjects: 0.800700 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 14917.
-Total: 18.628500 ms (FindLiveObjects: 1.751100 ms CreateObjectMapping: 0.326200 ms MarkObjects: 16.477800 ms  DeleteObjects: 0.072600 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 15325.
+Total: 28.992200 ms (FindLiveObjects: 1.787000 ms CreateObjectMapping: 0.395400 ms MarkObjects: 26.697100 ms  DeleteObjects: 0.112000 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 14917.
-Total: 17.798400 ms (FindLiveObjects: 1.772800 ms CreateObjectMapping: 0.328400 ms MarkObjects: 15.659700 ms  DeleteObjects: 0.037000 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 16185.
+Total: 21.991700 ms (FindLiveObjects: 1.795400 ms CreateObjectMapping: 0.293600 ms MarkObjects: 19.812900 ms  DeleteObjects: 0.089200 ms)
 
 Logic: User Quit game
 UnityEngine.Logger:Log(LogType, Object)
@@ -80,4 +144,4 @@ UnityEngine.Debug:Log(Object)
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 865c -> priority: 1 
+  Thread -> id: 9e4 -> priority: 1 
