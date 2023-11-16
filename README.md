@@ -26,3 +26,5 @@ C:\Users\lenovo\AppData\Local
 C:\Users\lenovo\AppData\Local
 ## ToodeeAndTopdee
 C:\Users\lenovo\AppData\Local
+## Planet of Lana
+C:\Users\lenovo\AppData\LocalLow\Wishfully

@@ -1,0 +1,133 @@
+Initialize engine version: 2020.3.41f1 (7c19dc9acfda)
+[Subsystems] Discovering subsystems at path E:/game/Planet of Lana/Planet of Lana_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 135.902000 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 5.044900 ms (FindLiveObjects: 0.168700 ms CreateObjectMapping: 0.247100 ms MarkObjects: 4.594700 ms  DeleteObjects: 0.034000 ms)
+
+[OnLoad] slot_1.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_2.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
+
+[ line -1714493000]
+
+[No virtual camera] @ Broken Control Station (PoL.Gameplay.Markup.ControlStation)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+
+Unloading 45 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 66532.
+Total: 86.186400 ms (FindLiveObjects: 3.293300 ms CreateObjectMapping: 1.252200 ms MarkObjects: 81.378000 ms  DeleteObjects: 0.262700 ms)
+
+Unloading 51 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 1028 unused Assets to reduce memory usage. Loaded Objects now: 66715.
+Total: 129.671400 ms (FindLiveObjects: 9.413000 ms CreateObjectMapping: 2.647500 ms MarkObjects: 116.284900 ms  DeleteObjects: 1.325700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 66715.
+Total: 85.313900 ms (FindLiveObjects: 4.772000 ms CreateObjectMapping: 1.118300 ms MarkObjects: 79.365500 ms  DeleteObjects: 0.057700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 66715.
+Total: 80.632700 ms (FindLiveObjects: 6.007400 ms CreateObjectMapping: 1.150200 ms MarkObjects: 73.422100 ms  DeleteObjects: 0.052800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 66715.
+Total: 69.426300 ms (FindLiveObjects: 2.808200 ms CreateObjectMapping: 0.704400 ms MarkObjects: 65.859500 ms  DeleteObjects: 0.053900 ms)
+
+Unloading 53 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 770 unused Assets to reduce memory usage. Loaded Objects now: 41010.
+Total: 71.579700 ms (FindLiveObjects: 2.739000 ms CreateObjectMapping: 0.859700 ms MarkObjects: 67.087400 ms  DeleteObjects: 0.893300 ms)
+
+Unloading 34 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 558 unused Assets to reduce memory usage. Loaded Objects now: 49813.
+Total: 69.925400 ms (FindLiveObjects: 3.161400 ms CreateObjectMapping: 0.778800 ms MarkObjects: 64.770500 ms  DeleteObjects: 1.214500 ms)
+
+Unloading 36 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 560 unused Assets to reduce memory usage. Loaded Objects now: 35514.
+Total: 68.151600 ms (FindLiveObjects: 2.184200 ms CreateObjectMapping: 0.901300 ms MarkObjects: 63.816100 ms  DeleteObjects: 1.249800 ms)
+
+Unloading 24 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 40796.
+Total: 62.777800 ms (FindLiveObjects: 1.813600 ms CreateObjectMapping: 0.727100 ms MarkObjects: 60.191600 ms  DeleteObjects: 0.045300 ms)
+
+[Not implemented yet] @ FMOD Audio Service (PoL.Audio.FMODAudioService)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Core.<Enumerator>d__1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2431 unused Assets to reduce memory usage. Loaded Objects now: 10995.
+Total: 56.354900 ms (FindLiveObjects: 1.075800 ms CreateObjectMapping: 0.793200 ms MarkObjects: 48.818600 ms  DeleteObjects: 5.666700 ms)
+
+[OnLoad] slot_1.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_2.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 42: Callback aborted
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 102c -> priority: 1 
+  Thread -> id: 2264 -> priority: 1 

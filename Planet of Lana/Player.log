@@ -1,0 +1,336 @@
+Initialize engine version: 2020.3.41f1 (7c19dc9acfda)
+[Subsystems] Discovering subsystems at path E:/game/Planet of Lana/Planet of Lana_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   26.20.12026.2001
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Initialized touch support.
+UnloadTime: 86.979200 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 25.381000 ms (FindLiveObjects: 0.373300 ms CreateObjectMapping: 0.644200 ms MarkObjects: 24.290700 ms  DeleteObjects: 0.072200 ms)
+
+[OnLoad] slot_1.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_2.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because it is not close enough to the NavMesh
+Southgrove.LiveNavMeshes.LiveNavMeshDynamicBuilder:OnEnable()
+
+[ line -834868872]
+
+Unloading 39 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 40247.
+Total: 65.755400 ms (FindLiveObjects: 2.886200 ms CreateObjectMapping: 1.368900 ms MarkObjects: 61.076500 ms  DeleteObjects: 0.423500 ms)
+
+Unloading 36 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 696 unused Assets to reduce memory usage. Loaded Objects now: 43004.
+Total: 69.727600 ms (FindLiveObjects: 2.593200 ms CreateObjectMapping: 0.940100 ms MarkObjects: 65.254800 ms  DeleteObjects: 0.939300 ms)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 257 unused Assets to reduce memory usage. Loaded Objects now: 38480.
+Total: 71.906000 ms (FindLiveObjects: 3.053600 ms CreateObjectMapping: 0.982400 ms MarkObjects: 67.262300 ms  DeleteObjects: 0.607200 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38956.
+Total: 79.985500 ms (FindLiveObjects: 2.726100 ms CreateObjectMapping: 1.165900 ms MarkObjects: 76.056900 ms  DeleteObjects: 0.036400 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38957.
+Total: 74.962900 ms (FindLiveObjects: 2.673700 ms CreateObjectMapping: 0.936300 ms MarkObjects: 71.316500 ms  DeleteObjects: 0.036200 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38956.
+Total: 77.705900 ms (FindLiveObjects: 2.749600 ms CreateObjectMapping: 0.817100 ms MarkObjects: 74.103300 ms  DeleteObjects: 0.035600 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38956.
+Total: 79.037100 ms (FindLiveObjects: 3.139800 ms CreateObjectMapping: 1.080900 ms MarkObjects: 74.780900 ms  DeleteObjects: 0.035200 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38956.
+Total: 66.881600 ms (FindLiveObjects: 2.665200 ms CreateObjectMapping: 0.809900 ms MarkObjects: 63.368000 ms  DeleteObjects: 0.038000 ms)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Temporary Solution
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Characters.Mui.<Enumerator>d__6:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 21 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 37855.
+Total: 68.249800 ms (FindLiveObjects: 2.821500 ms CreateObjectMapping: 0.996600 ms MarkObjects: 64.142800 ms  DeleteObjects: 0.288400 ms)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Unloading 45 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 555 unused Assets to reduce memory usage. Loaded Objects now: 87933.
+Total: 92.198100 ms (FindLiveObjects: 6.305800 ms CreateObjectMapping: 1.765900 ms MarkObjects: 83.088600 ms  DeleteObjects: 1.037500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 87933.
+Total: 75.854000 ms (FindLiveObjects: 4.575500 ms CreateObjectMapping: 0.825800 ms MarkObjects: 70.388300 ms  DeleteObjects: 0.064000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 87933.
+Total: 76.691200 ms (FindLiveObjects: 5.924000 ms CreateObjectMapping: 1.426600 ms MarkObjects: 69.285000 ms  DeleteObjects: 0.055200 ms)
+
+'Scout Robot 2' is trying to patrol, but either is missing patrol path or has isPatrollingEnabled disabled. Going to idle instead!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:Log(Object, Object)
+PoL.Robots.ScoutRobot.ScoutRobotPatrollingBehaviour:OnUpdate()
+Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 87933.
+Total: 73.059300 ms (FindLiveObjects: 4.054600 ms CreateObjectMapping: 0.847200 ms MarkObjects: 68.059000 ms  DeleteObjects: 0.098200 ms)
+
+'Scout Robot 2' is trying to patrol, but either is missing patrol path or has isPatrollingEnabled disabled. Going to idle instead!
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:Log(Object, Object)
+PoL.Robots.ScoutRobot.ScoutRobotPatrollingBehaviour:OnUpdate()
+Southgrove.BehaviourMachines.BehaviourMachine`1:Update()
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Unloading 72 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 782 unused Assets to reduce memory usage. Loaded Objects now: 97137.
+Total: 82.148600 ms (FindLiveObjects: 5.035700 ms CreateObjectMapping: 1.192200 ms MarkObjects: 74.769300 ms  DeleteObjects: 1.151000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 97515.
+Total: 81.667800 ms (FindLiveObjects: 5.773800 ms CreateObjectMapping: 1.313500 ms MarkObjects: 74.492200 ms  DeleteObjects: 0.088100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 97515.
+Total: 100.214000 ms (FindLiveObjects: 14.147100 ms CreateObjectMapping: 2.260900 ms MarkObjects: 83.730600 ms  DeleteObjects: 0.074900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 97767.
+Total: 84.515500 ms (FindLiveObjects: 5.809600 ms CreateObjectMapping: 1.097300 ms MarkObjects: 77.532400 ms  DeleteObjects: 0.075800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 97555.
+Total: 86.247600 ms (FindLiveObjects: 5.779500 ms CreateObjectMapping: 1.077200 ms MarkObjects: 79.317800 ms  DeleteObjects: 0.072900 ms)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+[Begin] Already playing @ 16.170 QTE Timeline (PoL.Animation.Cutscene)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Animation.Cutscene:Begin(Double)
+PoL.Graph.CutsceneNode:Execute()
+PoL.Graph.FlowGraphRunner:Update()
+
+Unloading 28 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 1856 unused Assets to reduce memory usage. Loaded Objects now: 92629.
+Total: 82.948600 ms (FindLiveObjects: 5.920900 ms CreateObjectMapping: 3.024600 ms MarkObjects: 71.492800 ms  DeleteObjects: 2.509900 ms)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Death count: 82
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.TriggerActionCreditsAchievements:OnExecute()
+PoL.Gameplay.ActionTrigger:ExecuteState(ActionStates, Collider)
+PoL.Gameplay.AbstractTrigger:OnTriggerEnter(Collider)
+
+[Not implemented yet] @ FMOD Audio Service (PoL.Audio.FMODAudioService)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PoL.Core.<Enumerator>d__1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 17 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 9707 unused Assets to reduce memory usage. Loaded Objects now: 11000.
+Total: 79.832700 ms (FindLiveObjects: 1.720200 ms CreateObjectMapping: 1.661000 ms MarkObjects: 54.089000 ms  DeleteObjects: 22.362000 ms)
+
+[OnLoad] slot_1.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[OnLoad] slot_2.sav - LoadFail
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoL.Gameplay.<>c__DisplayClass0_0:<OnLoad>b__0()
+UnityEngine.FontTextureRebuildCallback:Invoke()
+Platforms.Platform:Load(Container, Action)
+PoL.Gameplay.SlotStorageContainer`1:OnLoad(T, Action`1)
+TadBitDim.Slots.SlotSelector`1:Load(Int32, ISlotLoadHandle`1, Action`1)
+PoL.Core.<Enumerator>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1464 -> priority: 1 
+  Thread -> id: 1508 -> priority: 1 
