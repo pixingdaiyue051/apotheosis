@@ -30,3 +30,5 @@ C:\Users\lenovo\AppData\Local
 C:\Users\lenovo\AppData\LocalLow\Wishfully
 ## The Messenger
 C:\Users\lenovo\AppData\LocalLow\Sabotage Studio
+## Katana_ZERO 
+C:\Users\lenovo\AppData\Local
