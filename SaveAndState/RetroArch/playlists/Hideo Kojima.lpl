@@ -1,0 +1,77 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Yume Tairiku Adventure (J).mx1",
+            "label":"Yume Tairiku Adventure (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\bluemsx_libretro.dll",
+            "core_name":"bluemsx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Boktai - The Sun Is in Your Hand (U).gba",
+            "label":"Boktai - The Sun Is in Your Hand (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Metal Gear\\Metal Gear 1 (J).mx2",
+            "label":"Metal Gear 1 (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\bluemsx_libretro.dll",
+            "core_name":"bluemsx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Metal Gear\\Metal Gear 1 (C).mx2",
+            "label":"Metal Gear 1 (C)",
+            "core_path":"E:\\game\\RetroArch\\cores\\bluemsx_libretro.dll",
+            "core_name":"bluemsx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Metal Gear\\Metal Gear 2 - Solid Snake (J).mx2",
+            "label":"Metal Gear 2 - Solid Snake (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\bluemsx_libretro.dll",
+            "core_name":"bluemsx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Snatcher (Sega CD) (U).chd",
+            "label":"Snatcher (Sega CD) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+            "core_name":"genesis_plus_gx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Policenauts\\Policenauts (SS) (U) (Disc 1).cue",
+            "label":"Policenauts (SS) (U) (Disc 1)",
+            "core_path":"E:\\game\\RetroArch\\cores\\yabause_libretro.dll",
+            "core_name":"yabause_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Policenauts\\Policenauts (SS) (U) (Disc 2).cue",
+            "label":"Policenauts (SS) (U) (Disc 2)",
+            "core_path":"E:\\game\\RetroArch\\cores\\yabause_libretro.dll",
+            "core_name":"yabause_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Policenauts\\Policenauts (SS) (U) (Disc 3).cue",
+            "label":"Policenauts (SS) (U) (Disc 3)",
+            "core_path":"E:\\game\\RetroArch\\cores\\yabause_libretro.dll",
+            "core_name":"yabause_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Metal Gear Solid\\Metal Gear Solid 1 (PS) (U) (Disc 1).iso",
+            "label":"Metal Gear Solid 1 (PS) (U) (Disc 1)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Hideo Kojima\\Metal Gear Solid\\Metal Gear Solid 1 (PS) (U) (Disc 2).iso",
+            "label":"Metal Gear Solid 1 (PS) (U) (Disc 2)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        }
+    ]
+}

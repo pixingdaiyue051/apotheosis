@@ -1,0 +1,101 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\The Legend of Zelda (U).nes",
+            "label":"The Legend of Zelda (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Zelda II - The Adventure of Link (U).nes",
+            "label":"Zelda II - The Adventure of Link (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\A Link to the Past (U).sfc",
+            "label":"A Link to the Past (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Link's Awakening (UE).gb",
+            "label":"Link's Awakening (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Link's Awakening DX (UE).gbc",
+            "label":"Link's Awakening DX (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Oracle of Ages (U).gbc",
+            "label":"Oracle of Ages (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Oracle of Seasons (U).gbc",
+            "label":"Oracle of Seasons (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Four Swords (U).gba",
+            "label":"Four Swords (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\The Minish Cap (U).gba",
+            "label":"The Minish Cap (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Phantom Hourglass (U).nds",
+            "label":"Phantom Hourglass (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Spirit Tracks (U).nds",
+            "label":"Spirit Tracks (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\A Link Between Worlds (U).3ds",
+            "label":"A Link Between Worlds (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\TriForce Heroes (U).3ds",
+            "label":"TriForce Heroes (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Ocarina of Time (U).3ds",
+            "label":"Ocarina of Time (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Zelda\\Majora's Mask (U).3ds",
+            "label":"Majora's Mask (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby's Dream Land (UE).gb",
+            "label":"Kirby's Dream Land (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby's Adventure (U).nes",
+            "label":"Kirby's Adventure (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby's Dream Land 2 (UE).gb",
+            "label":"Kirby's Dream Land 2 (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby Super Star (U).sfc",
+            "label":"Kirby Super Star (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby's Dream Land 3 (U).sfc",
+            "label":"Kirby's Dream Land 3 (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby Nightmare in Dream Land (U).gba",
+            "label":"Kirby Nightmare in Dream Land (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby The Amazing Mirror (U).gba",
+            "label":"Kirby The Amazing Mirror (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby Squeak Squad (U).nds",
+            "label":"Kirby Squeak Squad (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby Super Star Ultra (U).nds",
+            "label":"Kirby Super Star Ultra (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby Triple Deluxe (U).3ds",
+            "label":"Kirby Triple Deluxe (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Kirby\\Kirby Planet Robobot (U).3ds",
+            "label":"Kirby Planet Robobot (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        }
+    ]
+}

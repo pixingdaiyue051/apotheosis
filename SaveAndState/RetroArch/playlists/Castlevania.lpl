@@ -1,0 +1,137 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania III - Dracula's Curse (E).nes",
+            "label":"Castlevania III - Dracula's Curse (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - The Adventure (UE).gb",
+            "label":"Castlevania - The Adventure (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania II - Belmont's Revenge (UE).gb",
+            "label":"Castlevania II - Belmont's Revenge (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania (E).nes",
+            "label":"Castlevania (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Chronicles (PS) (U).chd",
+            "label":"Castlevania - Chronicles (PS) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania II - Simon's Quest (E).nes",
+            "label":"Castlevania II - Simon's Quest (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Harmony of Dissonance (U).gba",
+            "label":"Castlevania - Harmony of Dissonance (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Akumajou Dracula X - Chi no Rondo (PCE) (J).chd",
+            "label":"Akumajou Dracula X - Chi no Rondo (PCE) (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mednafen_pce_libretro.dll",
+            "core_name":"mednafen_pce_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Dracula X (U).sfc",
+            "label":"Castlevania - Dracula X (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - The Dracula X Chronicles (PSP) (U).iso",
+            "label":"Castlevania - The Dracula X Chronicles (PSP) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\ppsspp_libretro.dll",
+            "core_name":"ppsspp_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Symphony of the Night (PS) (U).chd",
+            "label":"Castlevania - Symphony of the Night (PS) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Symphony of the Night (PS) (C).pbp",
+            "label":"Castlevania - Symphony of the Night (PS) (C)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Akumajou Dracula X - Gekka no Yasoukyoku (SS) (J).chd",
+            "label":"Akumajou Dracula X - Gekka no Yasoukyoku (SS) (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\yabause_libretro.dll",
+            "core_name":"yabause_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Bloodlines (U).md",
+            "label":"Castlevania - Bloodlines (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+            "core_name":"genesis_plus_gx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Portrait of Ruin (U).nds",
+            "label":"Castlevania - Portrait of Ruin (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Aria of Sorrow (U).gba",
+            "label":"Castlevania - Aria of Sorrow (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania - Dawn of Sorrow (U).nds",
+            "label":"Castlevania - Dawn of Sorrow (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Legends (U).gb",
+            "label":"Castlevania - Legends (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Super Castlevania IV (U).sfc",
+            "label":"Super Castlevania IV (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Circle of the Moon (U).gba",
+            "label":"Castlevania - Circle of the Moon (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Order of Ecclesia (U).nds",
+            "label":"Castlevania - Order of Ecclesia (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        }
+    ]
+}

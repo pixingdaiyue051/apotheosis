@@ -1,0 +1,245 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Bros (W).nes",
+            "label":"Super Mario Bros (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Bros 2 (J).fds",
+            "label":"Super Mario Bros 2 (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Bros 2 (U).nes",
+            "label":"Super Mario Bros 2 (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario USA (J).nes",
+            "label":"Super Mario USA (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Bros 3 (U).nes",
+            "label":"Super Mario Bros 3 (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\New Super Mario Bros (U).nds",
+            "label":"New Super Mario Bros (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\New Super Mario Bros 2 (E).3ds",
+            "label":"New Super Mario Bros 2 (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario 3D Land (U).3ds",
+            "label":"Super Mario 3D Land (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Captain Toad - Treasure Tracker (U).3ds",
+            "label":"Captain Toad - Treasure Tracker (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Land (W).gb",
+            "label":"Super Mario Land (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Land 2 - 6 Golden Coins (UE).gb",
+            "label":"Super Mario Land 2 - 6 Golden Coins (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario Land 3 - Wario Land (W).gb",
+            "label":"Super Mario Land 3 - Wario Land (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Wario Land 2 (UE).gbc",
+            "label":"Wario Land 2 (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Wario Land 3 (W).gbc",
+            "label":"Wario Land 3 (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Wario Land 4 (UE).gba",
+            "label":"Wario Land 4 (UE)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\WarioWare (U).gba",
+            "label":"WarioWare (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\WarioWare - Touched (U).nds",
+            "label":"WarioWare - Touched (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\WarioWare Gold (U).3ds",
+            "label":"WarioWare Gold (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario World (U).sfc",
+            "label":"Super Mario World (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Super Mario World 2 - Yoshi's Island (U).sfc",
+            "label":"Super Mario World 2 - Yoshi's Island (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Yoshi's Island DS (U).nds",
+            "label":"Yoshi's Island DS (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Yoshis New Island (U).3ds",
+            "label":"Yoshis New Island (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong (W).nes",
+            "label":"Donkey Kong (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong Jr (W).nes",
+            "label":"Donkey Kong Jr (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong 3 (W).nes",
+            "label":"Donkey Kong 3 (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong Country (U).sfc",
+            "label":"Donkey Kong Country (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong Country 2 - Diddy's Kong Quest (U).sfc",
+            "label":"Donkey Kong Country 2 - Diddy's Kong Quest (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Donkey Kong Country 3 - Dixie Kong's Double Trouble (U).sfc",
+            "label":"Donkey Kong Country 3 - Dixie Kong's Double Trouble (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Mario vs Donkey Kong (U).gba",
+            "label":"Mario vs Donkey Kong (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Mario vs Donkey Kong 2 - March of the Minis (U).nds",
+            "label":"Mario vs Donkey Kong 2 - March of the Minis (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Mario vs Donkey Kong - Mini-Land Mayhem (U).nds",
+            "label":"Mario vs Donkey Kong - Mini-Land Mayhem (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Mario vs Donkey Kong - Minis on the Move (U).3ds",
+            "label":"Mario vs Donkey Kong - Minis on the Move (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Mario vs Donkey Kong - Tipping Stars (U).3ds",
+            "label":"Mario vs Donkey Kong - Tipping Stars (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Luigi's Mansion (U).3ds",
+            "label":"Luigi's Mansion (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Luigi's Mansion - Dark Moon (U).3ds",
+            "label":"Luigi's Mansion - Dark Moon (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Hey Pikmin (U).3ds",
+            "label":"Hey Pikmin (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Brain Age - Train Your Brain in Minutes a Day (U).nds",
+            "label":"Brain Age - Train Your Brain in Minutes a Day (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Brain Age 2 - More Training in Minutes a Day (U).nds",
+            "label":"Brain Age 2 - More Training in Minutes a Day (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Super Mario\\Brain Age - Concentration Training (U).3ds",
+            "label":"Brain Age - Concentration Training (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        }
+    ]
+}

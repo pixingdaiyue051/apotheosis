@@ -1,0 +1,245 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Other\\WIN\\PAL (DOS)\\PAL.EXE",
+            "label":"PAL (DOS)",
+            "core_path":"E:\\game\\RetroArch\\cores\\dosbox_svn_libretro.dll",
+            "core_name":"dosbox_svn_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\WIN\\Doom (DOS)\\DOOM.EXE",
+            "label":"Doom (DOS)",
+            "core_path":"E:\\game\\RetroArch\\cores\\dosbox_svn_libretro.dll",
+            "core_name":"dosbox_svn_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\WIN\\DarkSeed (DOS)\\START.EXE",
+            "label":"DarkSeed (DOS)",
+            "core_path":"E:\\game\\RetroArch\\cores\\dosbox_svn_libretro.dll",
+            "core_name":"dosbox_svn_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Alien Hominid (E).gba",
+            "label":"Alien Hominid (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Astro Boy - Omega Factor (U).gba",
+            "label":"Astro Boy - Omega Factor (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Dragon Ball - Advanced Adventure (U).gba",
+            "label":"Dragon Ball - Advanced Adventure (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Brain Challenge (U).nds",
+            "label":"Brain Challenge (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Monster Tale (U).nds",
+            "label":"Monster Tale (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Plants vs Zombies (U).nds",
+            "label":"Plants vs Zombies (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ghost Trick - Phantom Detective (U).nds",
+            "label":"Ghost Trick - Phantom Detective (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Arcade Classics 3D (E).3ds",
+            "label":"Arcade Classics 3D (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\R-Type Complete CD (PCE) (J).chd",
+            "label":"R-Type Complete CD (PCE) (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mednafen_pce_libretro.dll",
+            "core_name":"mednafen_pce_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Sonic CD (Sega CD) (U).chd",
+            "label":"Sonic CD (Sega CD) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+            "core_name":"genesis_plus_gx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Sega Classics 5-in-1 (Sega CD) (U).chd",
+            "label":"Sega Classics 5-in-1 (Sega CD) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\genesis_plus_gx_libretro.dll",
+            "core_name":"genesis_plus_gx_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Dark Seed II (PS) (J).chd",
+            "label":"Dark Seed II (PS) (J)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Doom (PS) (U).chd",
+            "label":"Doom (PS) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Quake II (PS) (U).chd",
+            "label":"Quake II (PS) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\The King of Fighters 99 (PS) (U).chd",
+            "label":"The King of Fighters 99 (PS) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Street Fighter Collection (PS) (U) (Disc 1).chd",
+            "label":"Street Fighter Collection (PS) (U) (Disc 1)",
+            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
+            "core_name":"pcsx_rearmed_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Echochrome - Mugen Kairou (PSP).iso",
+            "label":"Echochrome - Mugen Kairou (PSP)",
+            "core_path":"E:\\game\\RetroArch\\cores\\ppsspp_libretro.dll",
+            "core_name":"ppsspp_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Grand Theft Auto - Vice City Stories (PSP) (U).iso",
+            "label":"Grand Theft Auto - Vice City Stories (PSP) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\ppsspp_libretro.dll",
+            "core_name":"ppsspp_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Grand Theft Auto - Liberty City Stories (PSP) (U).iso",
+            "label":"Grand Theft Auto - Liberty City Stories (PSP) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\ppsspp_libretro.dll",
+            "core_name":"ppsspp_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\PSX\\Grand Theft Auto - Chinatown Wars (PSP) (U).iso",
+            "label":"Grand Theft Auto - Chinatown Wars (PSP) (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\ppsspp_libretro.dll",
+            "core_name":"ppsspp_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney (C).gba",
+            "label":"Ace Attorney (C)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney - Justice For All (C).gba",
+            "label":"Ace Attorney - Justice For All (C)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney - Trials and Tribulations (C).gba",
+            "label":"Ace Attorney - Trials and Tribulations (C)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney - Apollo Justice (U).nds",
+            "label":"Ace Attorney - Apollo Justice (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney - Dual Destinies (U).3ds",
+            "label":"Ace Attorney - Dual Destinies (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney - Spirit of Justice (U).3ds",
+            "label":"Ace Attorney - Spirit of Justice (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Ace Attorney Trilogy (U).3ds",
+            "label":"Ace Attorney Trilogy (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Zero Escape -  9 Hours 9 Persons 9 Doors (U).nds",
+            "label":"Zero Escape -  9 Hours 9 Persons 9 Doors (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Zero Escape - Virtue's Last Reward (U).3ds",
+            "label":"Zero Escape - Virtue's Last Reward (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Zero Escape - Zero Time Dilemma (U).3ds",
+            "label":"Zero Escape - Zero Time Dilemma (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - The Curious Village (U).nds",
+            "label":"Professor Layton - The Curious Village (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - Pandora's Box (E).nds",
+            "label":"Professor Layton - Pandora's Box (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - The Unwound Future (U).nds",
+            "label":"Professor Layton - The Unwound Future (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - The Last Specter (U).nds",
+            "label":"Professor Layton - The Last Specter (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
+            "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - The Miracle Mask (U).3ds",
+            "label":"Professor Layton - The Miracle Mask (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Other\\GBXDS\\Professor Layton - The Azran Legacy (U).3ds",
+            "label":"Professor Layton - The Azran Legacy (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        }
+    ]
+}

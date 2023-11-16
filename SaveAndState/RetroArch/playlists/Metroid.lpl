@@ -1,0 +1,47 @@
+{
+    "version":"1.5",
+    "default_core_path":"",
+    "default_core_name":"",
+    "label_display_mode":0,
+    "right_thumbnail_mode":0,
+    "left_thumbnail_mode":0,
+    "sort_mode":0,
+    "items":[
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Metroid (U).nes",
+            "label":"Metroid (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Metroid II - Return of Samus (W).gb",
+            "label":"Metroid II - Return of Samus (W)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Super Metroid (U).sfc",
+            "label":"Super Metroid (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
+            "core_name":"snes9x_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Metroid - Zero Mission (U).gba",
+            "label":"Metroid - Zero Mission (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Metroid - Fusion (U).gba",
+            "label":"Metroid - Fusion (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
+            "core_name":"mgba_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Metroid\\Metroid - Samus Returns (E).3ds",
+            "label":"Metroid - Samus Returns (E)",
+            "core_path":"E:\\game\\RetroArch\\cores\\citra_libretro.dll",
+            "core_name":"citra_libretro"
+        }
+    ]
+}
