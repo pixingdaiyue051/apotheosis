@@ -32,3 +32,5 @@ C:\Users\lenovo\AppData\LocalLow\Wishfully
 C:\Users\lenovo\AppData\LocalLow\Sabotage Studio
 ## Katana_ZERO 
 C:\Users\lenovo\AppData\Local
+## Cocoon
+C:\Users\lenovo\AppData\LocalLow\GeometricInteractive
