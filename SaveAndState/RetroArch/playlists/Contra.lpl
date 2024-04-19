@@ -8,58 +8,40 @@
     "sort_mode":0,
     "items":[
         {
-            "path":"E:\\gamepack\\rom\\Other\\Mame\\contra.zip",
-            "label":"魂斗罗(街机)",
-            "core_path":"E:\\game\\RetroArch\\cores\\mame_libretro.dll",
-            "core_name":"mame_libretro"
-        },
-        {
-            "path":"E:\\gamepack\\rom\\Contra\\Contra (U).nes",
-            "label":"魂斗罗(nes)",
+            "path":"E:\\gamepack\\rom\\Contra\\Contra (J).nes",
+            "label":"Contra (J)",
             "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
             "core_name":"mesen_libretro"
         },
         {
             "path":"E:\\gamepack\\rom\\Contra\\Contra - Operation C (U).gb",
-            "label":"魂斗罗(gb)",
+            "label":"Contra - Operation C (U)",
             "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
             "core_name":"mgba_libretro"
         },
         {
-            "path":"E:\\gamepack\\rom\\Other\\Mame\\scontra.zip",
-            "label":"超级魂斗罗(街机)",
-            "core_path":"E:\\game\\RetroArch\\cores\\mame_libretro.dll",
-            "core_name":"mame_libretro"
-        },
-        {
             "path":"E:\\gamepack\\rom\\Contra\\Super Contra (J).nes",
-            "label":"超级魂斗罗(nes)",
+            "label":"Super Contra (J)",
             "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
             "core_name":"Nintendo - NES / Famicom (Mesen)"
         },
         {
             "path":"E:\\gamepack\\rom\\Contra\\Contra III - The Alien Wars (U).sfc",
-            "label":"魂斗罗3(sfc)",
+            "label":"Contra III - The Alien Wars (U)",
             "core_path":"E:\\game\\RetroArch\\cores\\snes9x_libretro.dll",
             "core_name":"snes9x_libretro"
-        },
-        {
-            "path":"E:\\gamepack\\rom\\Contra\\Contra - The Alien Wars (U).gb",
-            "label":"魂斗罗3(gb)",
-            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
-            "core_name":"mgba_libretro"
-        },
-        {
-            "path":"E:\\gamepack\\rom\\Contra\\Contra Advance - The Alien Wars EX (U).gba",
-            "label":"魂斗罗3(gba)",
-            "core_path":"E:\\game\\RetroArch\\cores\\mgba_libretro.dll",
-            "core_name":"mgba_libretro"
         },
         {
             "path":"E:\\gamepack\\rom\\Contra\\Contra 4 (U).nds",
             "label":"Contra 4 (U)",
             "core_path":"E:\\game\\RetroArch\\cores\\melonds_libretro.dll",
             "core_name":"melonds_libretro"
+        },
+        {
+            "path":"E:\\gamepack\\rom\\Contra\\Contra Force (U).nes",
+            "label":"Contra Force (U)",
+            "core_path":"E:\\game\\RetroArch\\cores\\mesen_libretro.dll",
+            "core_name":"mesen_libretro"
         },
         {
             "path":"E:\\gamepack\\rom\\Contra\\Contra - Hard Corps (W).md",

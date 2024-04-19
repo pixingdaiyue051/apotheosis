@@ -1,15 +1,15 @@
 ## Journey
-C:\Users\Administrator\Documents
+C:\Users\lenovo\Documents
 ## Hollow Knight
-C:\Users\Administrator\AppData\LocalLow\Team Cherry
+C:\Users\lenovo\AppData\LocalLow\Team Cherry
 ## Ori and the Blind Forest DE
-C:\Users\Administrator\AppData\Local
+C:\Users\lenovo\AppData\Local
 ## Ori and the Will of The Wisps
-C:\Users\Administrator\AppData\Local
+C:\Users\lenovo\AppData\Local
 ## Eastward
-C:\Users\Administrator\AppData\Roaming\Pixpil
+C:\Users\lenovo\AppData\Roaming\Pixpil
 ## Baba Is You
-C:\Users\Administrator\AppData\Roaming
+C:\Users\lenovo\AppData\Roaming
 ## Rogue Legacy 2
 C:\Users\lenovo\AppData\LocalLow\Cellar Door Games
 ## BloodstainedRotN

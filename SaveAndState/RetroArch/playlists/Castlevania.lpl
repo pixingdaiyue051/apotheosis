@@ -74,12 +74,6 @@
             "core_name":"pcsx_rearmed_libretro"
         },
         {
-            "path":"E:\\gamepack\\rom\\Castlevania\\Castlevania - Symphony of the Night (PS) (C).pbp",
-            "label":"Castlevania - Symphony of the Night (PS) (C)",
-            "core_path":"E:\\game\\RetroArch\\cores\\pcsx_rearmed_libretro.dll",
-            "core_name":"pcsx_rearmed_libretro"
-        },
-        {
             "path":"E:\\gamepack\\rom\\Castlevania\\Akumajou Dracula X - Gekka no Yasoukyoku (SS) (J).chd",
             "label":"Akumajou Dracula X - Gekka no Yasoukyoku (SS) (J)",
             "core_path":"E:\\game\\RetroArch\\cores\\yabause_libretro.dll",
