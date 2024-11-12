@@ -34,3 +34,5 @@ C:\Users\lenovo\AppData\LocalLow\Sabotage Studio
 C:\Users\lenovo\AppData\Local
 ## Cocoon
 C:\Users\lenovo\AppData\LocalLow\GeometricInteractive
+## HUMANITY
+C:\Users\lenovo\AppData\LocalLow\tha ltd
