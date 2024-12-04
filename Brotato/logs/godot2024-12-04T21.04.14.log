@@ -1,0 +1,152 @@
+Godot Engine v3.5.3.stable.custom_build.4e8840baa - https://godotengine.org
+OpenGL ES 3.0 Renderer: AMD Radeon(TM) 530
+Async. shader compilation: OFF
+ 
+Brotato v1.1.7.1
+Did Steam initialize?: {status:1, verbal:Steamworks active.}
+steam_is_online: True
+steam_id: 76561197960270388
+steam_is_owned: True
+INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+INFO ModLoader:Store: Applying options override with feature tag "steam".
+INFO ModLoader: game_install_directory: D:/game/Brotato/
+INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/workshop/content/1942280"
+Can't open workshop folder D:/workshop/content/1942280 (Error: 31)
+ERROR: Can't open workshop folder D:/workshop/content/1942280 (Error: 31)
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Can't open workshop folder D:/workshop/content/1942280 (Error: 31)
+INFO ModLoader: No zipped mods found
+WARNING ModLoader: Can't open unpacked mods folder res://mods-unpacked/.
+WARNING: Can't open unpacked mods folder res://mods-unpacked/.
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:789) - Can't open unpacked mods folder res://mods-unpacked/.
+INFO ModLoader: No mods were setup
+SUCCESS ModLoader: DONE: Loaded all meta data
+SUCCESS ModLoader: DONE: Completely finished loading mods
+SUCCESS ModLoader: DONE: Installed all script extensions
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+LOG_PATH: user://76561197960270388/log.txt
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Loading user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ERROR: Focus emulator signal not triggered
+   at: GDScriptFunctions::call (modules\gdscript\gdscript_functions.cpp:775) - Focus emulator signal not triggered
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: ResourceCache::clear (core\resource.cpp:417) - Resources still in use at exit (run with --verbose for details).

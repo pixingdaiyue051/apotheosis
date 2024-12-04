@@ -1,0 +1,4 @@
+2024-12-01 Created log
+20:45:41   INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+20:45:41   INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+20:45:41   INFO ModLoader:Store: Applying options override with feature tag "steam".

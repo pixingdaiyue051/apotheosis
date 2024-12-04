@@ -1,0 +1,16 @@
+2024-12-01 Created log
+20:45:41   INFO ModLoader: game_install_directory: D:/game/Brotato/
+20:45:41   ERROR ModLoader:UserProfile: No profile file found at "user://mod_user_profiles.json"
+20:45:41   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "D:/workshop/content/1942280"
+20:45:41   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder D:/workshop/content/1942280 (Error: 31)
+20:45:41   INFO ModLoader: No zipped mods found
+20:45:41   WARNING ModLoader: Can't open unpacked mods folder res://mods-unpacked/.
+20:45:41   INFO ModLoader: No mods were setup
+20:45:41   INFO ModLoader:UserProfile: There is no current user profile. The "default" profile will be created.
+20:45:41   SUCCESS ModLoader: DONE: Loaded all meta data
+20:45:41   SUCCESS ModLoader: DONE: Completely finished loading mods
+20:45:41   SUCCESS ModLoader: DONE: Installed all script extensions
+20:45:43   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+22:54:58   INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+22:54:58   INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+22:54:58   INFO ModLoader:Store: Applying options override with feature tag "steam".

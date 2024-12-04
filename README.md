@@ -36,3 +36,7 @@ C:\Users\lenovo\AppData\Local
 C:\Users\lenovo\AppData\LocalLow\GeometricInteractive
 ## HUMANITY
 C:\Users\lenovo\AppData\LocalLow\tha ltd
+## Brotato
+C:\Users\lenovo\AppData\Roaming
+## Magicraft
+C:\Users\lenovo\AppData\LocalLow\bolang
