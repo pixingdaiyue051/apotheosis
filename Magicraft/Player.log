@@ -12,27 +12,27 @@ Direct3D:
     VRAM:     8124 MB
     Driver:   24.20.100.6292
 Begin MonoManager ReloadAssembly
-- Completed reload, in  5.328 seconds
+- Completed reload, in  5.813 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using XInput
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.941300 ms
+UnloadTime: 15.336000 ms
 SteamID: 76561197960270388
 SteamConnected
 通关记录备份不存在
 生成新的通关记录
 通关数据存在
-UnloadTime: 2.913200 ms
+UnloadTime: 3.038700 ms
 先获取我的数据
 开始获取我的数据
 You must have atleast one friend to use the SteamFriends test!
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 ======================================================================
 Game Version: 1.0.40f1
-Launch Time: 2024-12-5 13:46:05
+Launch Time: 2024-12-6 11:29:15
 OS: Windows 10  (10.0.19045) 64bit
 Device: Desktop
 DeviceModel: B360M-D2V (Gigabyte Technology Co., Ltd.)
@@ -54,16 +54,16 @@ MD5 Check:
 	 - \Magicraft_Data\Managed\Assembly-CSharp.dll >>> b4768dd90bfcc9fe3500c4fefc494fba
 	 - \Magicraft_Data\Plugins\x86_64\steam_api64.dll >>> 9538d3d22a3e98272136f711d5bc09a5
 	 - \Magicraft.exe >>> d6a58bf74984bbdc47f2be1bbf80db43
-Check time cost: 0.095
+Check time cost: 0.102
 ======================================================================
 Unloading 18245 unused Assets to reduce memory usage. Loaded Objects now: 10517.
-Total: 29.900400 ms (FindLiveObjects: 1.138400 ms CreateObjectMapping: 0.952400 ms MarkObjects: 9.305100 ms  DeleteObjects: 18.504100 ms)
+Total: 27.943800 ms (FindLiveObjects: 1.109300 ms CreateObjectMapping: 0.979900 ms MarkObjects: 8.015400 ms  DeleteObjects: 17.838900 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.670200 ms
+UnloadTime: 3.209200 ms
 图片和视频都不存在
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 11910.
-Total: 9.373000 ms (FindLiveObjects: 0.478200 ms CreateObjectMapping: 0.130400 ms MarkObjects: 8.669000 ms  DeleteObjects: 0.095200 ms)
+Total: 9.626500 ms (FindLiveObjects: 0.498600 ms CreateObjectMapping: 0.142500 ms MarkObjects: 8.879900 ms  DeleteObjects: 0.105300 ms)
 
 我的数据获取完成steamID76561197960270388
 开始获取朋友统计
@@ -77,33 +77,53 @@ WindowsVideoMedia error unhandled Color Standard: 0  falling back to default thi
 WindowsVideoMedia error unhandled Color Standard: 0  falling back to default this may result in rendering issues
 WindowsVideoMedia error unhandled Color Standard: 0  falling back to default this may result in rendering issues
 WindowsVideoMedia error unhandled Color Standard: 0  falling back to default this may result in rendering issues
-UnloadTime: 3.307600 ms
+UnloadTime: 3.072400 ms
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-加载Camp场景预制体用时:586ms
+加载Camp场景预制体用时:1140ms
 Unloading 19204 unused Assets to reduce memory usage. Loaded Objects now: 31700.
-Total: 18.796800 ms (FindLiveObjects: 2.305300 ms CreateObjectMapping: 1.942500 ms MarkObjects: 10.153500 ms  DeleteObjects: 4.395200 ms)
+Total: 19.009900 ms (FindLiveObjects: 2.252500 ms CreateObjectMapping: 1.657100 ms MarkObjects: 10.401500 ms  DeleteObjects: 4.698400 ms)
 
 enter Camp
-Camp Awake->Start:71ms
+Camp Awake->Start:79ms
+SaveData
+SaveData
+SaveData
+Set_MeleeMage
+SaveData
+SaveData
+SaveData
+SaveData
+SaveData
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 56.977300 ms
+UnloadTime: 58.289100 ms
 Releasing render texture that is set as Camera.targetTexture!
-Unloading 12589 unused Assets to reduce memory usage. Loaded Objects now: 24662.
-Total: 23.065700 ms (FindLiveObjects: 1.496900 ms CreateObjectMapping: 0.727900 ms MarkObjects: 16.541100 ms  DeleteObjects: 4.299300 ms)
+Unloading 12941 unused Assets to reduce memory usage. Loaded Objects now: 25023.
+Total: 21.296100 ms (FindLiveObjects: 1.597300 ms CreateObjectMapping: 0.854600 ms MarkObjects: 13.849500 ms  DeleteObjects: 4.994400 ms)
 
-Curl error 35: Handshake failed. UnityTls error code: 7
 1011finish
 CFG 为空的法杖不能 ResetAndRecheck
-10018finish
+CFG 为空的法杖不能 ResetAndRecheck
+10091finish
 SaveData
 CFG 为空的法杖不能 ResetAndRecheck
-10148finish
+CFG 为空的法杖不能 ResetAndRecheck
+10089finish
 SaveData
 CFG 为空的法杖不能 ResetAndRecheck
-10159finish
+CFG 为空的法杖不能 ResetAndRecheck
+10024finish
 SaveData
 CFG 为空的法杖不能 ResetAndRecheck
-10030finish
+CFG 为空的法杖不能 ResetAndRecheck
+10006finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+CFG 为空的法杖不能 ResetAndRecheck
+10033finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+CFG 为空的法杖不能 ResetAndRecheck
+11001finish
 SaveData
 没找到可以行走的点,返回最接近的点
 为什么没有找到点 请检查！
@@ -111,34 +131,18 @@ SaveData
 为什么没有找到点 请检查！
 没有路径 这不应该发生！
 CFG 为空的法杖不能 ResetAndRecheck
-10131finish
+20166finish
 SaveData
 CFG 为空的法杖不能 ResetAndRecheck
-11002finish
+20105finish
 SaveData
 没找到可以行走的点,返回最接近的点
 为什么没有找到点 请检查！
 为什么没有找到点 请检查！
 为什么没有找到点 请检查！
 没有路径 这不应该发生！
-20160finish
-SaveData
-没找到可以行走的点,返回最接近的点
-为什么没有找到点 请检查！
-为什么没有找到点 请检查！
-为什么没有找到点 请检查！
-没有路径 这不应该发生！
-20023finish
-SaveData
-20109finish
-SaveData
-20154finish
-SaveData
-20144finish
-SaveData
-20027finish
-SaveData
-20034finish
+CFG 为空的法杖不能 ResetAndRecheck
+20116finish
 SaveData
 没找到可以行走的点,返回最接近的点
 为什么没有找到点 请检查！
@@ -150,174 +154,112 @@ SaveData
 为什么没有找到点 请检查！
 为什么没有找到点 请检查！
 没有路径 这不应该发生！
+CFG 为空的法杖不能 ResetAndRecheck
+20045finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+20088finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+20040finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+20042finish
+SaveData
+CFG 为空的法杖不能 ResetAndRecheck
+CFG 为空的法杖不能 ResetAndRecheck
 21001finish
 SaveData
+SaveData
+30025finish
+SaveData
+30003finish
+SaveData
 没找到可以行走的点,返回最接近的点
 为什么没有找到点 请检查！
 为什么没有找到点 请检查！
 为什么没有找到点 请检查！
 没有路径 这不应该发生！
+30051finish
 SaveData
-30122finish
+30002finish
 SaveData
-30075finish
+没找到可以行走的点,返回最接近的点
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+没找到可以行走的点,返回最接近的点
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+30027finish
 SaveData
-30147finish
+没找到可以行走的点,返回最接近的点
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+30023finish
 SaveData
-30128finish
+30006finish
 SaveData
-30078finish
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+31002finish
 SaveData
-30058finish
+40021finish
 SaveData
-30149finish
+40082finish
 SaveData
-31003finish
-SaveData
-SaveData
-40006finish
-SaveData
-40057finish
-SaveData
-40017finish
-SaveData
-40064finish
-SaveData
-40075finish
-SaveData
-40034finish
-SaveData
-40083finish
-SaveData
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "RoomController(Clone)/HideBoundary(Clone)"
-find set3
-41001finish
-SaveData
-SaveData
-50002finish
-SaveData
-50031finish
-SaveData
-50013finish
-法术整理用时：50
-SaveData
-50036finish
-SaveData
-CMPPNJNOOOA
-DAPDGBKLFHM
-50064finish
-SaveData
-50076finish
-SaveData
-50060finish
-SaveData
-50063finish
-SaveData
-51002finish
-SaveData
-60064finish
-SaveData
-60001finish
-SaveData
-60010finish
+没找到可以行走的点,返回最接近的点
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+没找到可以行走的点,返回最接近的点
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+为什么没有找到点 请检查！
+没有路径 这不应该发生！
+完成成就PNMABGFDCPB
+完成成就get special spell成功
+上传到Steam
+[1102 - UserStatsStored] - 2103140 -- HJDILBDMGJC
+40008finish
 SaveData
 SaveData
-CMPPNJNOOOA
-DAPDGBKLFHM
-60063finish
+40074finish
 SaveData
+40066finish
 SaveData
-60006finish
-SaveData
-SaveData
-DAPDGBKLFHM
 Player Dead
-击杀者id500422
+击杀者id101122
 SaveData
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 56.890700 ms
-加载Camp场景预制体用时:508ms
-Unloading 52735 unused Assets to reduce memory usage. Loaded Objects now: 36758.
-Total: 95.474400 ms (FindLiveObjects: 5.411000 ms CreateObjectMapping: 5.551900 ms MarkObjects: 21.703000 ms  DeleteObjects: 62.808200 ms)
+UnloadTime: 42.936700 ms
+加载Camp场景预制体用时:496ms
+Releasing render texture that is set as Camera.targetTexture!
+Unloading 39084 unused Assets to reduce memory usage. Loaded Objects now: 36331.
+Total: 56.842700 ms (FindLiveObjects: 3.960300 ms CreateObjectMapping: 3.406900 ms MarkObjects: 13.593500 ms  DeleteObjects: 35.881300 ms)
 
 enter Camp
-Camp Awake->Start:130ms
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
-
-  at (wrapper managed-to-native) UnityEngine.SpriteRenderer.get_color_Injected(UnityEngine.SpriteRenderer,UnityEngine.Color&)
-  at UnityEngine.SpriteRenderer.get_color () [0x00000] in <926d9a9b123540d19ce8818f4da8d5a1>:0 
-  at DG.Tweening.DOTweenModuleSprite+<>c__DisplayClass1_0.<DOFade>b__0 () [0x00000] in <ae9adb876ed44f5aba4efbf168c379e4>:0 
-  at (wrapper delegate-invoke) DG.Tweening.Core.DOGetter`1[UnityEngine.Color].invoke_T()
-  at DG.Tweening.Plugins.ColorPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.ColorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Color startValue, UnityEngine.Color changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0011c] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
-
-<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
-<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
-<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
-<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+Camp Awake->Start:92ms
 SaveData
 保存备份存档
 Setting up 12 worker threads for Enlighten.
-<color=#ff7337><color=#0099bc><b>DOTWEEN ► </b></color> SAFE MODE ►</color> DOTween's safe mode captured 10 errors. This is usually ok (it's what safe mode is there for) but if your game is encountering issues you should set Log Behaviour to Default in DOTween Utility Panel in order to get detailed warnings when an error is captured (consider that these errors are always on the user side).
-- 6 missing target or field errors
-- 4 startup errors
 Curl error 42: Callback aborted
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [1.0 KB-2.0 KB]: 260 frames, [2.0 KB-4.0 KB]: 5 frames, [8.0 KB-16.0 KB]: 240 frames, [16.0 KB-32.0 KB]: 42565 frames, [32.0 KB-64.0 KB]: 14708 frames, [64.0 KB-128.0 KB]: 11156 frames, [128.0 KB-256.0 KB]: 37582 frames, [256.0 KB-0.5 MB]: 30337 frames, [0.5 MB-1.0 MB]: 17 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 3 frames
+      Peak usage frame count: [1.0 KB-2.0 KB]: 414 frames, [2.0 KB-4.0 KB]: 3 frames, [8.0 KB-16.0 KB]: 217 frames, [16.0 KB-32.0 KB]: 20203 frames, [32.0 KB-64.0 KB]: 11403 frames, [64.0 KB-128.0 KB]: 4422 frames, [128.0 KB-256.0 KB]: 27661 frames, [256.0 KB-0.5 MB]: 24283 frames, [0.5 MB-1.0 MB]: 79 frames, [1.0 MB-2.0 MB]: 42 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 3 frames
       Initial Block Size 4.0 MB
       Current Block Size 7.9 MB
       Peak Allocated Bytes 7.9 MB
-      Overflow Count 5
+      Overflow Count 2
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -325,18 +267,18 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
-      Current Block Size 500.0 KB
-      Peak Allocated Bytes 498.7 KB
-      Overflow Count 42
+      Current Block Size 508.0 KB
+      Peak Allocated Bytes 505.1 KB
+      Overflow Count 31
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 339 B
+      Peak Allocated Bytes 1.6 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 6]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 74.2 KB
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 67 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
@@ -346,27 +288,27 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
+      Peak Allocated Bytes 67 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.Worker 9]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 5]
+    [ALLOC_TEMP_Job.Worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 194.9 KB
+      Peak Allocated Bytes 74.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 339 B
       Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 74.2 KB
+      Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
@@ -381,7 +323,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 339 B
+      Peak Allocated Bytes 2.0 KB
       Overflow Count 0
     [ALLOC_TEMP_EnlightenWorker] x 12
       Initial Block Size 64.0 KB
@@ -391,7 +333,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 15]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
+      Peak Allocated Bytes 67 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
@@ -401,12 +343,12 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 67 B
+      Peak Allocated Bytes 339 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 7]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
+      Peak Allocated Bytes 339 B
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
@@ -416,12 +358,12 @@ Memory Statistics:
     [ALLOC_TEMP_NavMesh Builder.Worker 0]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 16.4 KB
+      Peak Allocated Bytes 22.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 339 B
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 9]
       Initial Block Size 256.0 KB
@@ -436,7 +378,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 67 B
+      Peak Allocated Bytes 339 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 8]
       Initial Block Size 256.0 KB
@@ -446,12 +388,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 74.2 KB
+      Peak Allocated Bytes 194.9 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 1]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 74.2 KB
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 67 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
@@ -463,10 +405,10 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 339 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.Worker 11]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 0.6 KB
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 74.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 10]
       Initial Block Size 256.0 KB
@@ -476,7 +418,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 2.0 KB
+      Peak Allocated Bytes 0.6 KB
       Overflow Count 0
     [ALLOC_TEMP_CloudJob.Worker 0] x 2
       Initial Block Size 32.0 KB
@@ -491,7 +433,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 2.0 KB
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -499,31 +441,31 @@ Memory Statistics:
       Peak Allocated Bytes 54 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 32799
+  Peak main deferred allocation count 38576
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 133 Subsections = 136192 buckets. Failed count: 14898648
-        32B: 18 Subsections = 9216 buckets. Failed count: 13898909
-        48B: 21 Subsections = 7168 buckets. Failed count: 9346476
-        64B: 33 Subsections = 8448 buckets. Failed count: 1902062
-        80B: 44 Subsections = 9011 buckets. Failed count: 934978
-        96B: 3 Subsections = 512 buckets. Failed count: 441731
-        112B: 2 Subsections = 292 buckets. Failed count: 838555
-        128B: 2 Subsections = 256 buckets. Failed count: 704677
+        16B: 133 Subsections = 136192 buckets. Failed count: 7475976
+        32B: 18 Subsections = 9216 buckets. Failed count: 8926765
+        48B: 21 Subsections = 7168 buckets. Failed count: 4420445
+        64B: 33 Subsections = 8448 buckets. Failed count: 1521874
+        80B: 44 Subsections = 9011 buckets. Failed count: 694020
+        96B: 3 Subsections = 512 buckets. Failed count: 255518
+        112B: 2 Subsections = 292 buckets. Failed count: 471555
+        128B: 2 Subsections = 256 buckets. Failed count: 511614
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 426 frames, [32.0 MB-64.0 MB]: 2289 frames, [64.0 MB-128.0 MB]: 74038 frames, [128.0 MB-256.0 MB]: 60123 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 454 frames, [32.0 MB-64.0 MB]: 4177 frames, [64.0 MB-128.0 MB]: 39959 frames, [128.0 MB-256.0 MB]: 44142 frames
       Requested Block Size 16.0 MB
-      Peak Block count 15
-      Peak Allocated memory 196.9 MB
+      Peak Block count 13
+      Peak Allocated memory 168.9 MB
       Peak Large allocation bytes 108.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 90732 frames, [32.0 MB-64.0 MB]: 46136 frames, [64.0 MB-128.0 MB]: 7 frames, [128.0 MB-256.0 MB]: 1 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 88542 frames, [32.0 MB-64.0 MB]: 190 frames
       Requested Block Size 16.0 MB
-      Peak Block count 8
-      Peak Allocated memory 133.6 MB
+      Peak Block count 2
+      Peak Allocated memory 40.3 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -537,64 +479,64 @@ Memory Statistics:
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
-  Used Block Count 11
+  Used Block Count 10
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
-  Used Block Count 64
+  Used Block Count 15
   Overflow Count (too large) 0
-  Overflow Count (full) 739
+  Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 1492
+  Peak main deferred allocation count 688
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 133 Subsections = 136192 buckets. Failed count: 14898648
-        32B: 18 Subsections = 9216 buckets. Failed count: 13898909
-        48B: 21 Subsections = 7168 buckets. Failed count: 9346476
-        64B: 33 Subsections = 8448 buckets. Failed count: 1902062
-        80B: 44 Subsections = 9011 buckets. Failed count: 934978
-        96B: 3 Subsections = 512 buckets. Failed count: 441731
-        112B: 2 Subsections = 292 buckets. Failed count: 838555
-        128B: 2 Subsections = 256 buckets. Failed count: 704677
+        16B: 133 Subsections = 136192 buckets. Failed count: 7475976
+        32B: 18 Subsections = 9216 buckets. Failed count: 8926765
+        48B: 21 Subsections = 7168 buckets. Failed count: 4420445
+        64B: 33 Subsections = 8448 buckets. Failed count: 1521874
+        80B: 44 Subsections = 9011 buckets. Failed count: 694020
+        96B: 3 Subsections = 512 buckets. Failed count: 255518
+        112B: 2 Subsections = 292 buckets. Failed count: 471555
+        128B: 2 Subsections = 256 buckets. Failed count: 511614
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 39 frames, [128.0 KB-256.0 KB]: 63 frames, [256.0 KB-0.5 MB]: 164 frames, [1.0 MB-2.0 MB]: 243 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4569 frames, [8.0 MB-16.0 MB]: 37734 frames, [16.0 MB-32.0 MB]: 94063 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 71 frames, [128.0 KB-256.0 KB]: 132 frames, [256.0 KB-0.5 MB]: 216 frames, [1.0 MB-2.0 MB]: 113 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 1807 frames, [8.0 MB-16.0 MB]: 32294 frames, [16.0 MB-32.0 MB]: 54098 frames
       Requested Block Size 16.0 MB
       Peak Block count 3
-      Peak Allocated memory 31.1 MB
+      Peak Allocated memory 30.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 245 frames, [0.5 MB-1.0 MB]: 395 frames, [1.0 MB-2.0 MB]: 12 frames, [2.0 MB-4.0 MB]: 136006 frames, [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 14 frames, [16.0 MB-32.0 MB]: 202 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 122 frames, [0.5 MB-1.0 MB]: 5511 frames, [1.0 MB-2.0 MB]: 22 frames, [2.0 MB-4.0 MB]: 82745 frames, [4.0 MB-8.0 MB]: 14 frames, [8.0 MB-16.0 MB]: 21 frames, [16.0 MB-32.0 MB]: 297 frames
       Requested Block Size 16.0 MB
       Peak Block count 2
       Peak Allocated memory 23.4 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 162019
+  Peak main deferred allocation count 162015
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 133 Subsections = 136192 buckets. Failed count: 14898648
-        32B: 18 Subsections = 9216 buckets. Failed count: 13898909
-        48B: 21 Subsections = 7168 buckets. Failed count: 9346476
-        64B: 33 Subsections = 8448 buckets. Failed count: 1902062
-        80B: 44 Subsections = 9011 buckets. Failed count: 934978
-        96B: 3 Subsections = 512 buckets. Failed count: 441731
-        112B: 2 Subsections = 292 buckets. Failed count: 838555
-        128B: 2 Subsections = 256 buckets. Failed count: 704677
+        16B: 133 Subsections = 136192 buckets. Failed count: 7475976
+        32B: 18 Subsections = 9216 buckets. Failed count: 8926765
+        48B: 21 Subsections = 7168 buckets. Failed count: 4420445
+        64B: 33 Subsections = 8448 buckets. Failed count: 1521874
+        80B: 44 Subsections = 9011 buckets. Failed count: 694020
+        96B: 3 Subsections = 512 buckets. Failed count: 255518
+        112B: 2 Subsections = 292 buckets. Failed count: 471555
+        128B: 2 Subsections = 256 buckets. Failed count: 511614
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 267 frames, [64.0 MB-128.0 MB]: 136609 frames
+      Peak usage frame count: [32.0 MB-64.0 MB]: 420 frames, [64.0 MB-128.0 MB]: 88312 frames
       Requested Block Size 4.0 MB
-      Peak Block count 21
-      Peak Allocated memory 104.9 MB
+      Peak Block count 18
+      Peak Allocated memory 95.1 MB
       Peak Large allocation bytes 41.1 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 2 frames, [0.5 MB-1.0 MB]: 252 frames, [1.0 MB-2.0 MB]: 858 frames, [2.0 MB-4.0 MB]: 135580 frames, [4.0 MB-8.0 MB]: 90 frames, [8.0 MB-16.0 MB]: 94 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 5 frames, [0.5 MB-1.0 MB]: 128 frames, [1.0 MB-2.0 MB]: 5808 frames, [2.0 MB-4.0 MB]: 82536 frames, [4.0 MB-8.0 MB]: 157 frames, [8.0 MB-16.0 MB]: 98 frames
       Requested Block Size 4.0 MB
       Peak Block count 4
       Peak Allocated memory 10.8 MB
@@ -606,22 +548,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 133 Subsections = 136192 buckets. Failed count: 14898648
-        32B: 18 Subsections = 9216 buckets. Failed count: 13898909
-        48B: 21 Subsections = 7168 buckets. Failed count: 9346476
-        64B: 33 Subsections = 8448 buckets. Failed count: 1902062
-        80B: 44 Subsections = 9011 buckets. Failed count: 934978
-        96B: 3 Subsections = 512 buckets. Failed count: 441731
-        112B: 2 Subsections = 292 buckets. Failed count: 838555
-        128B: 2 Subsections = 256 buckets. Failed count: 704677
+        16B: 133 Subsections = 136192 buckets. Failed count: 7475976
+        32B: 18 Subsections = 9216 buckets. Failed count: 8926765
+        48B: 21 Subsections = 7168 buckets. Failed count: 4420445
+        64B: 33 Subsections = 8448 buckets. Failed count: 1521874
+        80B: 44 Subsections = 9011 buckets. Failed count: 694020
+        96B: 3 Subsections = 512 buckets. Failed count: 255518
+        112B: 2 Subsections = 292 buckets. Failed count: 471555
+        128B: 2 Subsections = 256 buckets. Failed count: 511614
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 267 frames, [32.0 KB-64.0 KB]: 626 frames, [64.0 KB-128.0 KB]: 135983 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 420 frames, [32.0 KB-64.0 KB]: 5607 frames, [64.0 KB-128.0 KB]: 82705 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 78.5 KB
+      Peak Allocated memory 77.0 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 267 frames, [16.0 KB-32.0 KB]: 136609 frames
+      Peak usage frame count: [8.0 KB-16.0 KB]: 420 frames, [16.0 KB-32.0 KB]: 88312 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 25.9 KB
