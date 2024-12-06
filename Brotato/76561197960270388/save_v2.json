@@ -12,7 +12,8 @@
     "chal_survivor_3",
     "chal_barbecue",
     "chal_gatherer_3",
-    "chal_magic_and_machinery"
+    "chal_magic_and_machinery",
+    "chal_survivor_4"
   ],
   "characters_unlocked": [
     "character_well_rounded",
@@ -37,7 +38,8 @@
     "character_loud",
     "character_chef",
     "character_multitasker",
-    "character_technomage"
+    "character_technomage",
+    "character_wildling"
   ],
   "consumables_unlocked": [
     "consumable_fruit",
@@ -48,11 +50,11 @@
     "has_run_state": false
   },
   "data": {
-    "enemies_killed": 9497,
-    "enemies_killed_far_away": 620,
-    "materials_collected": 6215,
-    "steps_taken": 7367,
-    "trees_killed": 114
+    "enemies_killed": 11927,
+    "enemies_killed_far_away": 677,
+    "materials_collected": 7802,
+    "steps_taken": 9353,
+    "trees_killed": 148
   },
   "difficulties_unlocked": [
     {
