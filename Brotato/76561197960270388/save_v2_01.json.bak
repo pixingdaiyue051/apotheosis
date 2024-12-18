@@ -13,7 +13,10 @@
     "chal_barbecue",
     "chal_gatherer_3",
     "chal_magic_and_machinery",
-    "chal_survivor_4"
+    "chal_survivor_4",
+    "chal_gatherer_4",
+    "chal_forest",
+    "chal_survivor_5"
   ],
   "characters_unlocked": [
     "character_well_rounded",
@@ -39,7 +42,10 @@
     "character_chef",
     "character_multitasker",
     "character_technomage",
-    "character_wildling"
+    "character_wildling",
+    "character_pacifist",
+    "character_cryptid",
+    "character_gladiator"
   ],
   "consumables_unlocked": [
     "consumable_fruit",
@@ -50,11 +56,11 @@
     "has_run_state": false
   },
   "data": {
-    "enemies_killed": 11927,
-    "enemies_killed_far_away": 677,
-    "materials_collected": 7802,
-    "steps_taken": 9353,
-    "trees_killed": 148
+    "enemies_killed": 20850,
+    "enemies_killed_far_away": 993,
+    "materials_collected": 13753,
+    "steps_taken": 17266,
+    "trees_killed": 457
   },
   "difficulties_unlocked": [
     {
@@ -3408,7 +3414,7 @@
     "item_goldfish"
   ],
   "read_announcements": [
-
+    "5f2b6ab0-eb22-483c-8618-5e2d9ee54e60"
   ],
   "settings": {
     "alt_gold_sounds": false,

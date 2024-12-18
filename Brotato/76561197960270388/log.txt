@@ -4,15 +4,279 @@ Open res://dlcs/
 Found dlc file, loading resources from: abyssal_terrors
 --Run Data--
 ** Player 0
-Character: character_chef
-Wave: 12
+Character: character_crazy
+Wave: 1
 Danger: 0
 Level ups: 0
 Consumables: 0
-Gold: 67
-Bonus Gold: 36
-Items: character_chef, item_scared_sausage, item_lumberjack_shirt, item_turret_flame, item_gummy_berserker, item_pumpkin, item_saltwater, item_corrupted_shard, item_tardigrade, item_plant, item_helmet, item_white_flag, item_ugly_tooth, item_baby_with_a_beard, item_wandering_bot, item_acid, item_alien_eyes, item_pumpkin, item_baby_squid, item_goldfish, item_small_fish, 
-Weapons: weapon_lightning_shiv_1, weapon_double_barrel_shotgun_1, weapon_rocket_launcher_2, weapon_taser_2, weapon_medical_gun_3, weapon_crossbow_1, 
+Gold: 30
+Bonus Gold: 0
+Items: character_crazy, 
+Weapons: weapon_icicle_1, weapon_knife_1, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 1
+Danger: 0
+Level ups: 1
+Consumables: 0
+Gold: 57
+Bonus Gold: 0
+Items: character_crazy, 
+Weapons: weapon_icicle_1, weapon_knife_1, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 2
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 19
+Bonus Gold: 2
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 2
+Danger: 0
+Level ups: 1
+Consumables: 0
+Gold: 55
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 3
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 22
+Bonus Gold: 4
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, weapon_shuriken_1, weapon_crossbow_1, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 3
+Danger: 0
+Level ups: 2
+Consumables: 0
+Gold: 85
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, weapon_shuriken_1, weapon_crossbow_1, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 4
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 64
+Bonus Gold: 11
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, weapon_shuriken_1, weapon_crossbow_1, weapon_icicle_1, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 4
+Danger: 0
+Level ups: 1
+Consumables: 0
+Gold: 167
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, 
+Weapons: weapon_icicle_1, weapon_knife_1, weapon_crossbow_1, weapon_shuriken_1, weapon_crossbow_1, weapon_icicle_1, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 5
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 34
+Bonus Gold: 13
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, 
+Weapons: weapon_knife_1, weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 5
+Danger: 0
+Level ups: 1
+Consumables: 0
+Gold: 142
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, 
+Weapons: weapon_knife_1, weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 6
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 109
+Bonus Gold: 9
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, 
+Weapons: weapon_knife_1, weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 6
+Danger: 0
+Level ups: 2
+Consumables: 0
+Gold: 253
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, 
+Weapons: weapon_knife_1, weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 7
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 171
+Bonus Gold: 21
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, item_claw_tree, item_coupon, 
+Weapons: weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, weapon_wand_1, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 7
+Danger: 0
+Level ups: 1
+Consumables: 0
+Gold: 336
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, item_claw_tree, item_coupon, 
+Weapons: weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, weapon_wand_1, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 8
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 31
+Bonus Gold: 19
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, item_claw_tree, item_coupon, item_gummy_berserker, item_missile, item_goldfish_used, item_goblet, 
+Weapons: weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, weapon_wand_2, 
+--Run Data end--
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 8
+Danger: 0
+Level ups: 1
+Consumables: 1
+Gold: 204
+Bonus Gold: 0
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, item_claw_tree, item_coupon, item_gummy_berserker, item_missile, item_goldfish_used, item_goblet, 
+Weapons: weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, weapon_wand_2, 
+--Run Data end--
+start clean_up_room...
+attract bonus_gold and consumables...
+clean_up other objects...
+start wave_cleared_label...
+start timer...
+wave_cleared_label started...
+_on_EndWaveTimer_timeout
+process consumables and upgrades...
+display challenge ui...
+--Run Data--
+** Player 0
+Character: character_crazy
+Wave: 9
+Danger: 0
+Level ups: 0
+Consumables: 0
+Gold: 56
+Bonus Gold: 15
+Items: character_crazy, item_peaceful_bee, item_cake, item_little_muscley_dude, item_glasses, item_claw_tree, item_coupon, item_gummy_berserker, item_missile, item_goldfish_used, item_goblet, item_heavy_bullets, 
+Weapons: weapon_shuriken_1, weapon_icicle_2, weapon_shuriken_2, weapon_crossbow_2, weapon_wand_2, 
 --Run Data end--
 is_run_lost
 attract bonus_gold and consumables...

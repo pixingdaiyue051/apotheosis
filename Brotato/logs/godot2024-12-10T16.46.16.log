@@ -138,6 +138,26 @@ ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
 ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
 ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
 ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
+ProgressDataLoaderV2: Save path: user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Writing save to backup path user://76561197960270388/save_v2_00.json.bak
+ProgressDataLoaderV2: Writing save to main save path user://76561197960270388/save_v2.json
+ProgressDataLoaderV2: Removed old backup file: user://76561197960270388/save_v2_05.json.bak
 WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
    at: ObjectDB::cleanup (core\object.cpp:2070) - ObjectDB instances leaked at exit (run with --verbose for details).
 ERROR: Resources still in use at exit (run with --verbose for details).
